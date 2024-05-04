@@ -1,0 +1,114 @@
+{
+  "words": [
+    {
+      "category": "Personality Adjectives",
+      "terms": [
+        {"word": "friendly", "translation": "arkadaş canlısı"},
+        {"word": "confident", "translation": "özgüvenli"},
+        {"word": "patient", "translation": "sabırlı"},
+        {"word": "creative", "translation": "yaratıcı"},
+        {"word": "honest", "translation": "dürüst"},
+        {"word": "generous", "translation": "cömert"},
+        {"word": "optimistic", "translation": "iyimser"},
+        {"word": "curious", "translation": "meraklı"},
+        {"word": "polite", "translation": "kibar"},
+        {"word": "reliable", "translation": "güvenilir"},
+        {"word": "sincere", "translation": "samimi"},
+        {"word": "calm", "translation": "sakin"},
+        {"word": "organized", "translation": "düzenli"},
+        {"word": "independent", "translation": "bağımsız"},
+        {"word": "responsible", "translation": "sorumlu"}
+      ]
+    },
+    {
+      "category": "Phrasal Verbs with PUT",
+      "terms": [
+        {"word": "put off", "translation": "ertelemek"},
+        {"word": "put up with", "translation": "katlanmak"},
+        {"word": "put on", "translation": "giymek"},
+        {"word": "put away", "translation": "yerine koymak"},
+        {"word": "put down", "translation": "aşağılamak"},
+        {"word": "put aside", "translation": "kenara koymak"},
+        {"word": "put forward", "translation": "ileri sürmek"},
+        {"word": "put out", "translation": "söndürmek"},
+        {"word": "put in", "translation": "yerleştirmek"},
+        {"word": "put across", "translation": "anlatmak"}
+      ]
+    },
+    {
+      "category": "Phrasal Verbs with GET",
+      "terms": [
+        {"word": "get up", "translation": "kalkmak"},
+        {"word": "get off", "translation": "inmek"},
+        {"word": "get on", "translation": "binmek"},
+        {"word": "get away", "translation": "kaçmak"},
+        {"word": "get through", "translation": "başarmak"},
+        {"word": "get by", "translation": "geçinmek"},
+        {"word": "get back", "translation": "geri dönmek"},
+        {"word": "get over", "translation": "üstesinden gelmek"},
+        {"word": "get along", "translation": "iyi geçinmek"},
+        {"word": "get into", "translation": "dalmak"}
+      ]
+    },
+    {
+      "category": "Feelings Adjectives",
+      "terms": [
+        {"word": "happy", "translation": "mutlu"},
+        {"word": "sad", "translation": "üzgün"},
+        {"word": "angry", "translation": "kızgın"},
+        {"word": "excited", "translation": "heyecanlı"},
+        {"word": "nervous", "translation": "sinirli"},
+        {"word": "surprised", "translation": "şaşırmış"},
+        {"word": "bored", "translation": "sıkılmış"},
+        {"word": "confused", "translation": "karışık"},
+        {"word": "proud", "translation": "gururlu"},
+        {"word": "scared", "translation": "korkmuş"},
+        {"word": "embarrassed", "translation": "utangaç"},
+        {"word": "anxious", "translation": "endişeli"},
+        {"word": "content", "translation": "memnun"},
+        {"word": "grateful", "translation": "minnettar"},
+        {"word": "hopeful", "translation": "umutlu"}
+      ]
+    },
+    {
+      "category": "Adjectives of Appearance",
+      "terms": [
+        {"word": "beautiful", "translation": "güzel"},
+        {"word": "handsome", "translation": "yakışıklı"},
+        {"word": "attractive", "translation": "çekici"},
+        {"word": "ugly", "translation": "çirkin"},
+        {"word": "charming", "translation": "çekici"},
+        {"word": "elegant", "translation": "zarif"},
+        {"word": "stylish", "translation": "şık"},
+        {"word": "fashionable", "translation": "modaya uygun"},
+        {"word": "slim", "translation": "zayıf"},
+        {"word": "overweight", "translation": "fazla kilolu"},
+        {"word": "fit", "translation": "fit"},
+        {"word": "well-dressed", "translation": "iyi giyimli"},
+        {"word": "untidy", "translation": "dağınık"},
+        {"word": "messy", "translation": "dağınık"},
+        {"word": "neat", "translation": "düzenli"}
+      ]
+    },
+    {
+      "category": "Emotions",
+      "terms": [
+        {"word": "love", "translation": "aşk"},
+        {"word": "hate", "translation": "nefret"},
+        {"word": "joy", "translation": "neşe"},
+        {"word": "sorrow", "translation": "keder"},
+        {"word": "anger", "translation": "öfke"},
+        {"word": "fear", "translation": "korku"},
+        {"word": "disgust", "translation": "iğrenme"},
+        {"word": "surprise", "translation": "şaşkınlık"},
+        {"word": "disappointment", "translation": "hayal kırıklığı"},
+        {"word": "excitement", "translation": "heyecan"},
+        {"word": "happiness", "translation": "mutluluk"},
+        {"word": "sadness", "translation": "üzüntü"},
+        {"word": "jealousy", "translation": "kıskançlık"},
+        {"word": "shame", "translation": "utanç"},
+        {"word": "pride", "translation": "gurur"}
+      ]
+    }
+  ]
+}
