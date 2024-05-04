@@ -23,6 +23,294 @@
       "level": "B1",
       "translation": "yetenek",
       "example": "She’s a woman of considerable abilities."
+    },
+    {
+      "word": "able",
+      "level": "A2",
+      "translation": "yetenekli, yapılabilir",
+      "example": "He will buy a new car as soon as he is able."
+    },
+    {
+      "word": "about",
+      "level": "A1",
+      "translation": "hakkında",
+      "example": "What’s that book about?"
+    },
+    {
+      "word": "above",
+      "level": "A1",
+      "translation": "yukarıda, üzerinde",
+      "example": "There’s a mirror above the sink."
+    },
+    {
+      "word": "abroad",
+      "level": "B1",
+      "translation": "yurt dışında",
+      "example": "He will go abroad this summer."
+    },
+    {
+      "word": "absence",
+      "level": "B2",
+      "translation": "yokluk",
+      "example": "A new teacher was appointed during her absence."
+    },
+    {
+      "word": "absent",
+      "level": "B1",
+      "translation": "yok, bulunmayan",
+      "example": "Jack has been absent from course for a week now."
+    },
+    {
+      "word": "absolute",
+      "level": "B2",
+      "translation": "kesin, tam",
+      "example": "She is an absolute idiot!"
+    },
+    {
+      "word": "absolutely",
+      "level": "B1",
+      "translation": "kesinlikle, tamamen",
+      "example": "The weather is absolutely freezing today."
+    },
+    {
+      "word": "absorb",
+      "level": "B2",
+      "translation": "emmek",
+      "example": "Trees absorb carbon dioxide."
+    },
+    {
+      "word": "abuse",
+      "level": "B2",
+      "translation": "kötüye kullanmak, taciz, suistimal",
+      "example": "Abuse can be scary and isolating."
+    },
+    {
+      "word": "academic",
+      "level": "B2",
+      "translation": "akademik",
+      "example": "We are following his academic progress."
+    },
+    {
+      "word": "accent",
+      "level": "B1",
+      "translation": "aksan",
+      "example": "She has got a strong northern accent."
+    },
+    {
+      "word": "accept",
+      "level": "B1",
+      "translation": "kabul etmek",
+      "example": "Do you accept credit cards?"
+    },
+    {
+      "word": "acceptable",
+      "level": "B1",
+      "translation": "kabul edilebilir",
+      "example": "His performance was acceptable, but not stunning."
+    },
+    {
+      "word": "access",
+      "level": "B1",
+      "translation": "erişim",
+      "example": "This is the access point."
+    },
+    {
+      "word": "accident",
+      "level": "A2",
+      "translation": "kaza",
+      "example": "My father had an accident but he is ok now."
+    },
+    {
+      "word": "accidental",
+      "level": "B2",
+      "translation": "tesadüfi, kazara",
+      "example": "The treasure was found after the accidental discovery in the field."
+    },
+    {
+      "word": "accidentally",
+      "level": "B1",
+      "translation": "kazara",
+      "example": "I delete the file accidentally."
+    },
+    {
+      "word": "accommodation",
+      "level": "B1",
+      "translation": "konaklama, kalacak yer",
+      "example": "There is a shortage of accommodation in Dublin in summers."
+    },
+    {
+      "word": "accompany",
+      "level": "B1",
+      "translation": "eşlik etmek",
+      "example": "We have an accompany."
+    },
+    {
+      "word": "according to",
+      "level": "B1",
+      "translation": "-na göre",
+      "example": "According to the news, the postponed match will be played tomorrow."
+    },
+    {
+      "word": "account",
+      "level": "B1",
+      "translation": "hesap",
+      "example": "You have to open a new bank account."
+    },
+    {
+      "word": "accurate",
+      "level": "B1",
+      "translation": "doğru, kesin",
+      "example": "The figures they have used are not accurate."
+    },
+    {
+      "word": "accurately",
+      "level": "B1",
+      "translation": "tam olarak",
+      "example": "In order to see the results we need to record teh data accurately."
+    },
+    {
+      "word": "accuse",
+      "level": "B2",
+      "translation": "suçlamak",
+      "example": "Are you accusing me of steeling?"
+    },
+    {
+      "word": "achieve",
+      "level": "B1",
+      "translation": "başarmak",
+      "example": "He finally achieved his ambition to visit Far East."
+    },
+    {
+      "word": "achievement",
+      "level": "B1",
+      "translation": "başarı",
+      "example": "It wouldn’t be easy to reach that achievement."
+    },
+    {
+      "word": "acid",
+      "level": "B2",
+      "translation": "asit",
+      "example": "We are in a threat of acid rains."
+    },
+    {
+      "word": "acknowledge",
+      "level": "C1",
+      "translation": "onaylamak, kabul etmek",
+      "example": "They refuse to acknowledge the new parliement."
+    },
+    {
+      "word": "acquire",
+      "level": "B2",
+      "translation": "edinmek",
+      "example": "I have finally acquired the pole position."
+    },
+    {
+      "word": "across",
+      "level": "A2",
+      "translation": "karşısında",
+      "example": "She walked across the road."
+    },
+    {
+      "word": "act",
+      "level": "B2",
+      "translation": "hareket, eylem",
+      "example": "Stop acting like a child!"
+    },
+    {
+      "word": "action",
+      "level": "B2",
+      "translation": "aksiyon, eylem",
+      "example": "To solve it, you need to take an action."
+    },
+    {
+      "word": "active",
+      "level": "B1",
+      "translation": "aktif, faal",
+      "example": "There is an active volcano in this island."
+    },
+    {
+      "word": "actively",
+      "level": "B2",
+      "translation": "aktif olarak",
+      "example": "I have been actively looking for a job for 2 months."
+    },
+    {
+      "word": "activity",
+      "level": "B2",
+      "translation": "aktivite, etkinlik, faaliyet",
+      "example": "There were a lot of activity in the city."
+    },
+    {
+      "word": "actor",
+      "level": "A2",
+      "translation": "aktör, oyuncu",
+      "example": "He is a celebrated Hollywood actor."
+    },
+    {
+      "word": "actress",
+      "level": "A2",
+      "translation": "aktris, oyuncu",
+      "example": "She is a celebrated Hollywood actress."
+    },
+    {
+      "word": "actual",
+      "level": "B2",
+      "translation": "gerçek",
+      "example": "We had estimated about 300 visitors, but the actual number was much higher."
+    },
+    {
+      "word": "actually",
+      "level": "A2",
+      "translation": "aslında, gerçekten",
+      "example": "So what actually happened?"
+    },
+    {
+      "word": "advertisement",
+      "level": "A2",
+      "translation": "reklam",
+      "example": "Responses to our advertisement have been disappointing."
+    },
+    {
+      "word": "ad",
+      "level": "A1",
+      "translation": "reklam",
+      "example": "I often prefer the ads on TV to the actual programmes."
+    },
+    {
+      "word": "adapt",
+      "level": "B2",
+      "translation": "uyarlamak, uydurmak",
+      "example": "We had to adapt our plans to fit Jack’s timetable."
+    },
+    {
+      "word": "add",
+      "level": "A2",
+      "translation": "eklemek",
+      "example": "If you add three and four you get seven."
+    },
+    {
+      "word": "addition",
+      "level": "B1",
+      "translation": "ilave, ek",
+      "example": "In addition to his day job in school, he is working on anight shift."
+    },
+    {
+      "word": "additional",
+      "level": "B2",
+      "translation": "ek, ilave",
+      "example": "There will be an extra charge for any additional passengers."
+    },
+    {
+      "word": "address",
+      "level": "A1",
+      "translation": "adres, adres yazmak",
+      "example": "Her new address is Cumhuriyet Street in Kadıköy."
+    },
+    {
+      "word": "adequate",
+      "level": "B2",
+      "translation": "yeterli, uygun",
+      "example": "I didn’t have adequate time to prepare."
     }
   ]
 }
