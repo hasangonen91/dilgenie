@@ -905,6 +905,522 @@
       "level": "B2",
       "translation": "beceriksizce",
       "example": "He is acting awkwardly!"
-   }
+   },
+   {
+    "word": "baby",
+    "level": "A1",
+    "translation": "bebek",
+    "example": "The baby laughed at the clown."
+   },
+   {
+    "word": "back",
+    "level": "A1",
+    "translation": "geri, arka",
+    "example": "I forgot my book, can I go back to get it?"
+  },
+  {
+    "word": "bad",
+    "level": "A1",
+    "translation": "kötü",
+    "example": "The movie was bad, I didn’t enjoy it."
+  },
+  {
+    "word": "bag",
+    "level": "A1",
+    "translation": "çanta",
+    "example": "I need to pack my bag for the trip."
+  },
+  {
+    "word": "ball",
+    "level": "A1",
+    "translation": "top",
+    "example": "The ball bounced high in the air."
+  },
+  {
+    "word": "bank",
+    "level": "A2",
+    "translation": "banka",
+    "example": "I need to go to the bank to deposit my paycheck."
+  },
+  {
+    "word": "bar",
+    "level": "A2",
+    "translation": "bar, çubuk",
+    "example": "The bar was crowded on Friday night."
+  },
+  {
+    "word": "base",
+    "level": "A2",
+    "translation": "taban, üs",
+    "example": "The base of the mountain was steep."
+  },
+  {
+    "word": "basic",
+    "level": "A2",
+    "translation": "temel",
+    "example": "The basic rules of the game are simple."
+  },
+  {
+    "word": "bat",
+    "level": "A2",
+    "translation": "yarasa",
+    "example": "The bat flew out of the cave."
+  },
+  {
+    "word": "be",
+    "level": "A1",
+    "translation": "olmak",
+    "example": "I will be there at 8 o'clock."
+  },
+  {
+    "word": "beach",
+    "level": "A2",
+    "translation": "plaj",
+    "example": "The beach was crowded on summer vacation."
+  },
+  {
+    "word": "bear",
+    "level": "A2",
+    "translation": "ayı",
+    "example": "The bear climbed up the tree."
+  },
+  {
+    "word": "beat",
+    "level": "A2",
+    "translation": "vurmak, yenmek",
+    "example": "The drummer beat the drums loudly."
+  },
+  {
+    "word": "beautiful",
+    "level": "A2",
+    "translation": "güzel",
+    "example": "The sunset was beautiful."
+  },
+  {
+    "word": "because",
+    "level": "A2",
+    "translation": "çünkü",
+    "example": "I'm tired because I didn’t sleep well."
+  },
+  {
+    "word": "bed",
+    "level": "A1",
+    "translation": "yatak",
+    "example": "I need to go to bed early tonight."
+  },
+  {
+    "word": "bee",
+    "level": "A2",
+    "translation": "arı",
+    "example": "The bee buzzed around the flower."
+  },
+  {
+    "word": "before",
+    "level": "A2",
+    "translation": "önce",
+    "example": "I need to finish this task before lunch."
+  },
+  {
+    "word": "begin",
+    "level": "A2",
+    "translation": "başlamak",
+    "example": "The class will begin at 9 o'clock."
+  },
+  {
+    "word": "behind",
+    "level": "A2",
+    "translation": "arka",
+    "example": "The car was parked behind the house."
+  },
+  {
+    "word": "believe",
+    "level": "A2",
+    "translation": "inanmak",
+    "example": "I believe in the importance of education."
+  },
+  {
+    "word": "bell",
+    "level": "A2",
+    "translation": "çan",
+    "example": "The bell rang, signaling the start of class."
+  },
+  {
+    "word": "below",
+    "level": "A2",
+    "translation": "aşağı",
+    "example": "The answer is below the question."
+  },
+  {
+    "word": "belt",
+    "level": "A2",
+    "translation": "kemer",
+    "example": "I need to tighten my belt."
+  },
+  {
+    "word": "bend",
+    "level": "A2",
+    "translation": "eğilmek",
+    "example": "The tree branch bent in the wind."
+  },
+  {
+    "word": "beneath",
+    "level": "A2",
+    "translation": "altında",
+    "example": "The treasure was hidden beneath the floor."
+  },
+  {
+    "word": "benefit",
+    "level": "A2",
+    "translation": "yarar",
+    "example": "Exercise has many benefits for your health."
+  },
+  {
+    "word": "beside",
+    "level": "A2",
+    "translation": "yanında",
+    "example": "The book was placed beside the lamp."
+  },
+  {
+    "word": "best",
+    "level": "A2",
+    "translation": "en iyi",
+    "example": "This is the best restaurant in town."
+  },
+  {
+    "word": "better",
+    "level": "A2",
+    "translation": "daha iyi",
+    "example": "I feel better after taking the medicine."
+  },
+  {
+    "word": "between",
+    "level": "A2",
+    "translation": "arasında",
+    "example": "The city is located between two mountains."
+  },
+  {
+    "word": "beyond",
+    "level": "A2",
+    "translation": "ötesinde",
+    "example": "The view from the top was beyond my expectations."
+  },
+  {
+    "word": "big",
+    "level": "A1",
+    "translation": "büyük",
+    "example": "The big house had a beautiful garden."
+  },
+  {
+    "word": "bike",
+    "level": "A2",
+    "translation": "bisiklet",
+    "example": "I love riding my bike in the park."
+  },
+  {
+    "word": "bill",
+    "level": "A2",
+    "translation": "fatura",
+    "example": "I need to pay the electricity bill."
+  },
+  {
+    "word": "bird",
+    "level": "A2",
+    "translation": "kuş",
+    "example": "The bird sang a sweet melody."
+  },
+  {
+    "word": "birth",
+    "level": "A2",
+    "translation": "doğum",
+    "example": "The birth of my child was a special moment."
+  },
+  {
+    "word": "birthday",
+    "level": "A2",
+    "translation": "doğum günü",
+    "example": "I'm planning a party for my birthday."
+  },
+  {
+    "word": "bit",
+    "level": "A2",
+    "translation": "biraz",
+    "example": "I need a bit of help with this task."
+  },
+  {
+    "word": "bite",
+    "level": "A2",
+    "translation": "ısırmak",
+    "example": "The dog might bite if it feels threatened."
+  },
+  {
+    "word": "black",
+    "level": "A1",
+    "translation": "siyah",
+    "example": "The black cat was very cute."
+  },
+  {
+    "word": "blank",
+    "level": "A2",
+    "translation": "boş",
+    "example": "The page was blank, waiting to be filled."
+  },
+  {
+    "word": "blind",
+    "level": "A2",
+    "translation": "kör",
+    "example": "The blind man used a cane to navigate."
+  },
+  {
+    "word": "block",
+    "level": "A2",
+    "translation": "blok",
+    "example": "The block of wood was heavy."
+  },
+  {
+    "word": "blood",
+    "level": "A2",
+    "translation": "kan",
+    "example": "The doctor drew blood for the test."
+  },
+  {
+    "word": "blow",
+    "level": "A2",
+    "translation": "üflemek",
+    "example": "The wind blew strongly."
+  },
+  {
+    "word": "blue",
+    "level": "A1",
+    "translation": "mavi",
+    "example": "The blue sky was beautiful."
+  },
+  {
+    "word": "board",
+    "level": "A2",
+    "translation": "tahta",
+    "example": "The board of directors made a decision."
+  },
+  {
+    "word": "boat",
+    "level": "A2",
+    "translation": "tekne",
+    "example": "The boat sailed across the lake."
+  },
+  {
+    "word": "body",
+    "level": "A2",
+    "translation": "vücut",
+    "example": "The body needs exercise to stay healthy."
+  },
+  {
+    "word": "bone",
+    "level": "A2",
+    "translation": "kemik",
+    "example": "The dog chewed on a bone."
+  },
+  {
+    "word": "book",
+    "level": "A1",
+    "translation": "kitap",
+    "example": "I love reading books."
+  },
+  {
+    "word": "boot",
+    "level": "A2",
+    "translation": "çizme",
+    "example": "I need to wear boots in the snow."
+  },
+  {
+    "word": "border",
+    "level": "A2",
+    "translation": "sınır",
+    "example": "The border of the country was heavily guarded."
+  },
+  {
+    "word": "born",
+    "level": "A2",
+    "translation": "doğmak",
+    "example": "I was born in this city."
+  },
+  {
+    "word": "borrow",
+    "level": "A2",
+    "translation": "ödünç almak",
+    "example": "I need to borrow a book from the library."
+  },
+  {
+    "word": "boss",
+    "level": "A2",
+    "translation": "patron",
+    "example": "My boss is very understanding."
+  },
+  {
+    "word": "both",
+    "level": "A2",
+    "translation": "her iki",
+    "example": "I like both coffee and tea."
+  },
+  {
+    "word": "bottle",
+    "level": "A2",
+    "translation": "şişe",
+    "example": "The bottle was empty."
+  },
+  {
+    "word": "bottom",
+    "level": "A2",
+    "translation": "alt",
+    "example": "The bottom of the ocean was dark."
+  },
+  {
+    "word": "bowl",
+    "level": "A2",
+    "translation": "kase",
+    "example": "The bowl was filled with fruit."
+  },
+  {
+    "word": "box",
+    "level": "A2",
+    "translation": "kutu",
+    "example": "The box was heavy."
+  },
+  {
+    "word": "boy",
+    "level": "A1",
+    "translation": "erkek çocuk",
+    "example": "The boy played with his friends."
+  },
+  {
+    "word": "brain",
+    "level": "A2",
+    "translation": "beyin",
+    "example": "The brain is a complex organ."
+  },
+  {
+    "word": "branch",
+    "level": "A2",
+    "translation": "dal",
+    "example": "The branch broke off the tree."
+  },
+  {
+    "word": "bread",
+    "level": "A2",
+    "translation": "ekmek",
+    "example": "I need to buy bread from the bakery."
+  },
+  {
+    "word": "break",
+    "level": "A2",
+    "translation": "kırmak",
+    "example": "I need to break this habit."
+  },
+  {
+    "word": "breath",
+    "level": "A2",
+    "translation": "nefes",
+    "example": "I need to take a deep breath."
+  },
+  {
+    "word": "breathe",
+    "level": "A2",
+    "translation": "nefes almak",
+    "example": "I need to breathe slowly."
+  },
+  {
+    "word": "bridge",
+    "level": "A2",
+    "translation": "köprü",
+    "example": "The bridge connected the two islands."
+  },
+  {
+    "word": "brief",
+    "level": "A2",
+    "translation": "kısa",
+    "example": "The brief meeting was productive."
+  },
+  {
+    "word": "bright",
+    "level": "A2",
+    "translation": "parlak",
+    "example": "The bright lights blinded me."
+  },
+  {
+    "word": "bring",
+    "level": "A2",
+    "translation": "getirmek",
+    "example": "I need to bring my lunch."
+  },
+  {
+    "word": "broad",
+    "level": "A2",
+    "translation": "geniş",
+    "example": "The broad street was lined with shops."
+  },
+  {
+    "word": "brother",
+    "level": "A2",
+    "translation": "erkek kardeş",
+    "example": "My brother is very supportive."
+  },
+  {
+    "word": "brown",
+    "level": "A1",
+    "translation": "kahverengi",
+    "example": "The brown dog was very friendly."
+  },
+  {
+    "word": "brush",
+    "level": "A2",
+    "translation": "fırça",
+    "example": "I need to brush my teeth."
+  },
+  {
+    "word": "bucket",
+    "level": "A2",
+    "translation": "kova",
+    "example": "The bucket was filled with water."
+  },
+  {
+    "word": "build",
+    "level": "A2",
+    "translation": "yapmak",
+    "example": "I need to build a new house."
+  },
+  {
+    "word": "building",
+    "level": "A2",
+    "translation": "bina",
+    "example": "The building was very tall."
+  },
+  {
+    "word": "burn",
+    "level": "A2",
+    "translation": "yanmak",
+    "example": "The fire burned brightly."
+  },
+  {
+    "word": "burst",
+    "level": "A2",
+    "translation": "patlamak",
+    "example": "The balloon burst with a loud noise."
+  },
+  {
+    "word": "business",
+    "level": "A2",
+    "translation": "iş",
+    "example": "I need to attend to my business."
+  },
+  {
+    "word": "busy",
+    "level": "A2",
+    "translation": "işli",
+    "example": "I'm busy with work today."
+  },
+  {
+    "word": "but",
+    "level": "A1",
+    "translation": "ama",
+    "example": "I want to go, but I have work."
+  }
    ]
 }
