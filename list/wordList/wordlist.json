@@ -1421,6 +1421,48 @@
     "level": "A1",
     "translation": "ama",
     "example": "I want to go, but I have work."
+  },
+    {
+    "word": "but",
+    "level": "A1",
+    "translation": "fakat, ama",
+    "example": "I’d drive you there, but I don’t have my car."
+  },
+  {
+    "word": "butter",
+    "level": "A2",
+    "translation": "tereyağı",
+    "example": "I eat a slice of bread and butter."
+  },
+  {
+    "word": "button",
+    "level": "B1",
+    "translation": "düğme",
+    "example": "Press the play button to listen to your recording."
+  },
+  {
+    "word": "buy",
+    "level": "A1",
+    "translation": "satın almak",
+    "example": "I went out to buy some milk."
+  },
+  {
+    "word": "buyer",
+    "level": "B1",
+    "translation": "alıcı, müşteri",
+    "example": "Buyers are about to arrive."
+  },
+  {
+    "word": "by",
+    "level": "A2",
+    "translation": "tarafından, göre, ile",
+    "example": "She was examined by a doctor."
+  },
+  {
+    "word": "bye",
+    "level": "A1",
+    "translation": "bay, Hoşça kal",
+    "example": "Bye, see you tomorrow."
   }
    ]
 }
