@@ -39,7 +39,7 @@
     {
       "word": "above",
       "level": "A1",
-      "translation": "yukarıda, üzerinde",
+      "translation": "yukarıda",
       "example": "There’s a mirror above the sink."
     },
     {
@@ -81,7 +81,7 @@
     {
       "word": "abuse",
       "level": "B2",
-      "translation": "kötüye kullanmak, taciz, suistimal",
+      "translation": "kötüye kullanmak",
       "example": "Abuse can be scary and isolating."
     },
     {
@@ -123,7 +123,7 @@
     {
       "word": "accidental",
       "level": "B2",
-      "translation": "tesadüfi, kazara",
+      "translation": "tesadüfi",
       "example": "The treasure was found after the accidental discovery in the field."
     },
     {
@@ -135,7 +135,7 @@
     {
       "word": "accommodation",
       "level": "B1",
-      "translation": "konaklama, kalacak yer",
+      "translation": "konaklama",
       "example": "There is a shortage of accommodation in Dublin in summers."
     },
     {
@@ -159,7 +159,7 @@
     {
       "word": "accurate",
       "level": "B1",
-      "translation": "doğru, kesin",
+      "translation": "kesin",
       "example": "The figures they have used are not accurate."
     },
     {
@@ -195,7 +195,7 @@
     {
       "word": "acknowledge",
       "level": "C1",
-      "translation": "onaylamak, kabul etmek",
+      "translation": "onaylamak",
       "example": "They refuse to acknowledge the new parliement."
     },
     {
@@ -311,6 +311,1152 @@
       "level": "B2",
       "translation": "yeterli, uygun",
       "example": "I didn’t have adequate time to prepare."
-    }
-  ]
+    },
+    {
+      "word": "adequately",
+      "level": "B2",
+      "translation": "yeterli olarak",
+      "example": "Have the risks been adequately studied?"
+    },
+    {
+      "word": "adjust",
+      "level": "B2",
+      "translation": "ayarlamak",
+      "example": "If the chair is too high you can adjust it to suit you."
+    },
+    {
+      "word": "admiration",
+      "level": "B2",
+      "translation": "hayranlık",
+      "example": "My admiration for that woman grows daily."
+    },
+    {
+      "word": "admire",
+      "level": "B1",
+      "translation": "hayran olmak, takdir etmek",
+      "example": "I was just admiring your jacket."
+    },
+    {
+      "word": "admit",
+      "level": "B1",
+      "translation": "itiraf etmek, kabul etmek",
+      "example": "He admitted to stealing the keys."
+    },
+    {
+      "word": "adopt",
+      "level": "B2",
+      "translation": "benimsemek, kabul etmek",
+      "example": "We’ve adopted a new approach."
+    },
+    {
+      "word": "adult",
+      "level": "A1",
+      "translation": "yetişkin",
+      "example": "I’ve lived most of my adult life in London."
+    },
+    {
+      "word": "advance",
+      "level": "B1",
+      "translation": "ilerlemek, önceden, avans",
+      "example": "You need to book your ticket at least 14 days in advance."
+    },
+    {
+      "word": "advanced",
+      "level": "B1",
+      "translation": "gelişmiş, ileri",
+      "example": "The disease was at an advanced stage."
+    },
+    {
+      "word": "advantage",
+      "level": "B1",
+      "translation": "avantaj, üstünlük",
+      "example": "One of the advantages of living in town is having the shops so near."
+    },
+    {
+      "word": "adventure",
+      "level": "A2",
+      "translation": "macera, serüven",
+      "example": "She had some exciting adventures in Egypt."
+    },
+    {
+      "word": "advertise",
+      "level": "B1",
+      "translation": "duyurmak",
+      "example": "We advertised our car in the local newspaper."
+    },
+    {
+      "word": "advertising",
+      "level": "B2",
+      "translation": "ilan",
+      "example": "Fiona works in advertising."
+    },
+    {
+      "word": "advert",
+      "level": "B1",
+      "translation": "reklam",
+      "example": "an advert for the local radio station"
+    },
+    {
+      "word": "advice",
+      "level": "A2",
+      "translation": "tavsiye",
+      "example": "He gave some good advice."
+    },
+    {
+      "word": "advise",
+      "level": "B1",
+      "translation": "tavsiyede bulunmak",
+      "example": "I strongly advise you to quit smoking."
+    },
+    {
+      "word": "affair",
+      "level": "B2",
+      "translation": "mesele, ilişki",
+      "example": "She organizes her financial affairs very efficiently."
+    },
+    {
+      "word": "affect",
+      "level": "B2",
+      "translation": "etkilemek",
+      "example": "Their house was badly affected by the fire."
+    },
+    {
+      "word": "affection",
+      "level": "B2",
+      "translation": "sevgi",
+      "example": "She had a deep affection for her brother."
+    },
+    {
+      "word": "afford",
+      "level": "B1",
+      "translation": "gücü yetmek",
+      "example": "I don’t know if we can afford a new house."
+    },
+    {
+      "word": "afraid",
+      "level": "A2",
+      "translation": "korkmak, korkmuş",
+      "example": "I am afraid of flying."
+    },
+    {
+      "word": "after",
+      "level": "A1",
+      "translation": "sonra, ardından",
+      "example": "Let’s go to cinema after coffee."
+    },
+    {
+      "word": "afternoon",
+      "level": "A1",
+      "translation": "öğleden sonra",
+      "example": "It is going to rain this afternoon."
+    },
+    {
+      "word": "afterwards",
+      "level": "A2",
+      "translation": "sonradan",
+      "example": "We had tea, and afterwards we sat in the garden for a while."
+    },
+    {
+      "word": "again",
+      "level": "A1",
+      "translation": "tekrar",
+      "example": "Could you spell your name again, please?"
+    },
+    {
+      "word": "against",
+      "level": "A2",
+      "translation": "karşı",
+      "example": "50 people voted against the new proposal."
+    },
+    {
+      "word": "age",
+      "level": "A1",
+      "translation": "yaş, çağ",
+      "example": "Do you know the age of that building?"
+    },
+    {
+      "word": "aged",
+      "level": "A2",
+      "translation": "yaşında, yaşlı",
+      "example": "They’ve got one daughter, Isabel, aged three."
+    },
+    {
+      "word": "agency",
+      "level": "B1",
+      "translation": "ajans",
+      "example": "We have an appointent at the estate agency."
+    },
+    {
+      "word": "agent",
+      "level": "B2",
+      "translation": "ajan, temsilci",
+      "example": "Please contact to our agent for further information"
+    },
+    {
+      "word": "aggressive",
+      "level": "B2",
+      "translation": "agresif, saldırgan",
+      "example": "If I criticize him, he gets aggressive and starts shouting."
+    },
+    {
+      "word": "ago",
+      "level": "A2",
+      "translation": "önce",
+      "example": "The dinosaurs died out 65 million years ago."
+    },
+    {
+      "word": "agree",
+      "level": "A2",
+      "translation": "aynı fikirde olmak",
+      "example": "I agree with you."
+    },
+    {
+      "word": "agreement",
+      "level": "B2",
+      "translation": "anlaşma",
+      "example": "We can sign the agreement."
+    },
+    {
+      "word": "ahead",
+      "level": "B1",
+      "translation": "önde, ileride",
+      "example": "The road ahead is very busy."
+    },
+    {
+      "word": "aid",
+      "level": "C1",
+      "translation": "yardım, yardımcı olmak",
+      "example": "He gets about with the aid of a walking stick."
+    },
+    {
+      "word": "aim",
+      "level": "B1",
+      "translation": "amaç, hedef",
+      "example": "My main aim in life is to be a good husband and father."
+    },
+    {
+      "word": "air",
+      "level": "A2",
+      "translation": "hava",
+      "example": "I went outside to get some fresh air."
+    },
+    {
+      "word": "aircraft",
+      "level": "B2",
+      "translation": "uçak, uçak filosu",
+      "example": "Please remember to take all your personal possessions with you when you leave the aircraft."
+    },
+    {
+      "word": "airport",
+      "level": "A2",
+      "translation": "havalimanı",
+      "example": "We arrived at the airport just in time to catch the plane."
+    },
+    {
+      "word": "alarm",
+      "level": "B1",
+      "translation": "alarm, korku",
+      "example": "The first two bomb alerts were false alarms, but the third was for real."
+    },
+    {
+      "word": "alarming",
+      "level": "C1",
+      "translation": "korkutucu",
+      "example": "There has been an alarming rise in the rate of inflation."
+    },
+    {
+      "word": "alarmed",
+      "level": "B2",
+      "translation": "paniğe kapılmış",
+      "example": "I was a bit alarmed at how much weight she’d lost."
+    },
+    {
+      "word": "alcohol",
+      "level": "A2",
+      "translation": "alkol",
+      "example": "I could smell the alcohol on his breath."
+    },
+    {
+      "word": "alcoholic",
+      "level": "B1",
+      "translation": "alkolik, alkollü",
+      "example": "Could I have something non-alcoholic, like orange juice, please?"
+    },
+    {
+      "word": "alive",
+      "level": "B1",
+      "translation": "canlı, hayatta",
+      "example": "Doctors kept him alive on a life-support machine."
+    },
+    {
+      "word": "all",
+      "level": "A1",
+      "translation": "tüm, tümü, hepsi",
+      "example": "All animals have to eat in order to live."
+    },
+    {
+      "word": "allow",
+      "level": "B1",
+      "translation": "izin vermek",
+      "example": "You’re not allowed to talk during the exam."
+    },
+    {
+      "word": "ally",
+      "level": "C2",
+      "translation": "yardım eden ülke, müttefik",
+      "example": "The US is one of Britain’s staunchest allies."
+    },
+    {
+      "word": "allied",
+      "level": "C2",
+      "translation": "müttefik",
+      "example": "The foreign invaders were finally defeated by allied forces."
+    },
+    {
+      "word": "almost",
+      "level": "A2",
+      "translation": "neredeyse, hemen hemen",
+      "example": "She’s almost 40."
+    },
+    {
+      "word": "alone",
+      "level": "A1",
+      "translation": "yalnız",
+      "example": "He likes being alone in the house."
+    },
+    {
+      "word": "along",
+      "level": "A2",
+      "translation": "boyunca",
+      "example": "We walked along the beach."
+    },
+    {
+      "word": "alongside",
+      "level": "C1",
+      "translation": "yanında, yanısıra",
+      "example": "Most of the staff refused to work alongside the new team."
+    },
+    {
+      "word": "aloud",
+      "level": "B1",
+      "translation": "yüksek sesle",
+      "example": "He read her letter aloud to the rest of the family."
+    },
+    {
+      "word": "alphabet",
+      "level": "A2",
+      "translation": "alfabe",
+      "example": "Z comes after Y in the alphabet."
+    },
+    {
+      "word": "alphabetical",
+      "level": "B2",
+      "translation": "alfabetik",
+      "example": "The names are published in alphabetical order."
+    },
+    {
+      "word": "alphabetically",
+      "level": "B2",
+      "translation": "alfabetik olarak",
+      "example": "The names of the contest winners are listed alphabetically."
+    },
+    {
+      "word": "already",
+      "level": "A2",
+      "translation": "zaten",
+      "example": "I’ve already told him."
+    },
+    {
+      "word": "alright",
+      "level": "A1",
+      "translation": "pekala",
+      "example": "Everything will be alright."
+    },
+    {
+      "word": "also",
+      "level": "A2",
+      "translation": "ayrıca",
+      "example": "I’m cold, and I’m also hungry and tired."
+    },
+    {
+      "word": "alter",
+      "level": "B2",
+      "translation": "değiştirmek",
+      "example": "I need to alter my plans."
+    },
+    {
+      "word": "alternative",
+      "level": "B2",
+      "translation": "alternatif, seçenek",
+      "example": "I need an alternative plan."
+    },
+    {
+      "word": "alternatively",
+      "level": "B2",
+      "translation": "alternatif olarak",
+      "example": "We can eat fast food, alternatively we can try something different."
+    },
+    {
+      "word": "although",
+      "level": "B1",
+      "translation": "rağmen",
+      "example": "He went back although I begged him not to."
+    },
+    {
+      "word": "altogether",
+      "level": "B1",
+      "translation": "tamamen",
+      "example": "It will be 20 dollars altogether."
+    },
+    {
+      "word": "always",
+      "level": "A1",
+      "translation": "her zaman, daima",
+      "example": "He always comes late."
+    },
+    {
+      "word": "amaze",
+      "level": "B1",
+      "translation": "şaşırtmak",
+      "example": "You’ve done all your homework in an hour? You amaze me."
+    },
+    {
+      "word": "amazing",
+      "level": "B1",
+      "translation": "şaşırtıcı",
+      "example": "It’s amazing that no one else has applied for the job."
+    },
+    {
+      "word": "amazed",
+      "level": "B1",
+      "translation": "şaşırmış",
+      "example": "I was absolutely amazed when I heard he’d been promoted."
+    },
+    {
+      "word": "ambition",
+      "level": "B1",
+      "translation": "hırs",
+      "example": "He has already achieved his main ambition in life."
+    },
+    {
+      "word": "ambulance",
+      "level": "A2",
+      "translation": "ambulans",
+      "example": "I called an ambulance."
+    },
+    {
+      "word": "among",
+      "level": "A2",
+      "translation": "arasında",
+      "example": "I saw a few familiar faces among the crowd."
+    },
+    {
+      "word": "amount",
+      "level": "B1",
+      "translation": "miktar, tutar",
+      "example": "They didn’t deliver the right amount of cement."
+    },
+    {
+      "word": "amuse",
+      "level": "B2",
+      "translation": "eğlendirmek",
+      "example": "Apparently these stories are meant to amuse."
+    },
+    {
+      "word": "amusing",
+      "level": "B1",
+      "translation": "eğlenceli",
+      "example": "An amusing situation."
+    },
+    {
+      "word": "analysis",
+      "level": "B2",
+      "translation": "analiz",
+      "example": "Some of these arguments need further analysis."
+    },
+    {
+      "word": "ancient",
+      "level": "B1",
+      "translation": "eski",
+      "example": "People have lived in this valley since ancient times."
+    },
+    {
+      "word": "and",
+      "level": "A1",
+      "translation": "ve",
+      "example": "Tom and Mary agree."
+    },
+    {
+      "word": "angle",
+      "level": "C1",
+      "translation": "açı",
+      "example": "The interior angles of a triangle 180 degrees."
+    },
+    {
+      "word": "angry",
+      "level": "A2",
+      "translation": "kızgın",
+      "example": "He made me really angry."
+    },
+    {
+      "word": "animal",
+      "level": "A1",
+      "translation": "hayvan",
+      "example": "I love animals."
+    },
+    {
+      "word": "ankle",
+      "level": "B1",
+      "translation": "ayak bileği",
+      "example": "The nurse bandaged my sprained ankle."
+    },
+    {
+      "word": "author",
+      "level": "B1",
+      "translation": "yazar",
+      "example": "Here you’ll find guidance and tips for first-time and experienced authors on writing style and the best way to structure an article."
+    },
+    {
+      "word": "authority",
+      "level": "B2",
+      "translation": "yetki, otorite",
+      "example": "Scottish local authority environmental health departments carry out food sampling, as part of their enforcement of UK."
+    },
+    {
+      "word": "automatic",
+      "level": "B2",
+      "translation": "otomatik",
+      "example": "If your licence is only for automatic cars, you can upgrade it by passing a driving test in a manual car."
+    },
+    {
+      "word": "automatically",
+      "level": "B2",
+      "translation": "otomatik olarak",
+      "example": "You can automatically create groups for users to participate in."
+    },
+    {
+      "word": "autumn",
+      "level": "A1",
+      "translation": "sonbahar",
+      "example": "Fethiye becomes a more laidback destination in autumn, with more locals than tourists."
+    },
+    {
+      "word": "available",
+      "level": "A2",
+      "translation": "mevcut",
+      "example": "What kinds of scholarships are available?"
+   },
+   {
+      "word": "average",
+      "level": "B1",
+      "translation": "ortalama",
+      "example": "The term ‘average‘ refers to the ‘middle’ or ‘central’ point."
+   },
+   {
+      "word": "avoid",
+      "level": "B1",
+      "translation": "önlemek, kaçınmak",
+      "example": "View the list of poisonous foods to avoid."
+   },
+   {
+      "word": "awake",
+      "level": "B1",
+      "translation": "uyanık, uyandırmak",
+      "example": "He fell asleep immediately but awoke an hour later."
+   },
+   {
+      "word": "award",
+      "level": "B2",
+      "translation": "ödül, vermek",
+      "example": "The number of annual awards are restricted to a maximum of three in a particular year."
+   },
+   {
+      "word": "aware",
+      "level": "B2",
+      "translation": "farkında, haberdar",
+      "example": "She was actually aware of the situation."
+   },
+   {
+      "word": "away",
+      "level": "A2",
+      "translation": "uzakta, uzak",
+      "example": "How far away is the city?"
+   },
+   {
+      "word": "awful",
+      "level": "A2",
+      "translation": "korkunç",
+      "example": "The weather last summer was awful."
+   },
+   {
+      "word": "awfully",
+      "level": "A2",
+      "translation": "çok, son derece",
+      "example": "If something is done awfully, it is done in a bad and terrible manner."
+   },
+   {
+      "word": "awkward",
+      "level": "B2",
+      "translation": "garip, beceriksiz",
+      "example": "He is awkward!"
+   },
+   {
+      "word": "awkwardly",
+      "level": "B2",
+      "translation": "beceriksizce",
+      "example": "He is acting awkwardly!"
+   },
+   {
+    "word": "baby",
+    "level": "A1",
+    "translation": "bebek",
+    "example": "The baby laughed at the clown."
+   },
+   {
+    "word": "back",
+    "level": "A1",
+    "translation": "geri, arka",
+    "example": "I forgot my book, can I go back to get it?"
+  },
+  {
+    "word": "bad",
+    "level": "A1",
+    "translation": "kötü",
+    "example": "The movie was bad, I didn’t enjoy it."
+  },
+  {
+    "word": "bag",
+    "level": "A1",
+    "translation": "çanta",
+    "example": "I need to pack my bag for the trip."
+  },
+  {
+    "word": "ball",
+    "level": "A1",
+    "translation": "top",
+    "example": "The ball bounced high in the air."
+  },
+  {
+    "word": "bank",
+    "level": "A2",
+    "translation": "banka",
+    "example": "I need to go to the bank to deposit my paycheck."
+  },
+  {
+    "word": "bar",
+    "level": "A2",
+    "translation": "bar, çubuk",
+    "example": "The bar was crowded on Friday night."
+  },
+  {
+    "word": "base",
+    "level": "A2",
+    "translation": "taban, üs",
+    "example": "The base of the mountain was steep."
+  },
+  {
+    "word": "basic",
+    "level": "A2",
+    "translation": "temel",
+    "example": "The basic rules of the game are simple."
+  },
+  {
+    "word": "bat",
+    "level": "A2",
+    "translation": "yarasa",
+    "example": "The bat flew out of the cave."
+  },
+  {
+    "word": "be",
+    "level": "A1",
+    "translation": "olmak",
+    "example": "I will be there at 8 o'clock."
+  },
+  {
+    "word": "beach",
+    "level": "A2",
+    "translation": "plaj",
+    "example": "The beach was crowded on summer vacation."
+  },
+  {
+    "word": "bear",
+    "level": "A2",
+    "translation": "ayı",
+    "example": "The bear climbed up the tree."
+  },
+  {
+    "word": "beat",
+    "level": "A2",
+    "translation": "vurmak, yenmek",
+    "example": "The drummer beat the drums loudly."
+  },
+  {
+    "word": "beautiful",
+    "level": "A2",
+    "translation": "güzel",
+    "example": "The sunset was beautiful."
+  },
+  {
+    "word": "because",
+    "level": "A2",
+    "translation": "çünkü",
+    "example": "I'm tired because I didn’t sleep well."
+  },
+  {
+    "word": "bed",
+    "level": "A1",
+    "translation": "yatak",
+    "example": "I need to go to bed early tonight."
+  },
+  {
+    "word": "bee",
+    "level": "A2",
+    "translation": "arı",
+    "example": "The bee buzzed around the flower."
+  },
+  {
+    "word": "before",
+    "level": "A2",
+    "translation": "önce",
+    "example": "I need to finish this task before lunch."
+  },
+  {
+    "word": "begin",
+    "level": "A2",
+    "translation": "başlamak",
+    "example": "The class will begin at 9 o'clock."
+  },
+  {
+    "word": "behind",
+    "level": "A2",
+    "translation": "arka",
+    "example": "The car was parked behind the house."
+  },
+  {
+    "word": "believe",
+    "level": "A2",
+    "translation": "inanmak",
+    "example": "I believe in the importance of education."
+  },
+  {
+    "word": "bell",
+    "level": "A2",
+    "translation": "çan",
+    "example": "The bell rang, signaling the start of class."
+  },
+  {
+    "word": "below",
+    "level": "A2",
+    "translation": "aşağı",
+    "example": "The answer is below the question."
+  },
+  {
+    "word": "belt",
+    "level": "A2",
+    "translation": "kemer",
+    "example": "I need to tighten my belt."
+  },
+  {
+    "word": "bend",
+    "level": "A2",
+    "translation": "eğilmek",
+    "example": "The tree branch bent in the wind."
+  },
+  {
+    "word": "beneath",
+    "level": "A2",
+    "translation": "altında",
+    "example": "The treasure was hidden beneath the floor."
+  },
+  {
+    "word": "benefit",
+    "level": "A2",
+    "translation": "yarar",
+    "example": "Exercise has many benefits for your health."
+  },
+  {
+    "word": "beside",
+    "level": "A2",
+    "translation": "yanında",
+    "example": "The book was placed beside the lamp."
+  },
+  {
+    "word": "best",
+    "level": "A2",
+    "translation": "en iyi",
+    "example": "This is the best restaurant in town."
+  },
+  {
+    "word": "better",
+    "level": "A2",
+    "translation": "daha iyi",
+    "example": "I feel better after taking the medicine."
+  },
+  {
+    "word": "between",
+    "level": "A2",
+    "translation": "arasında",
+    "example": "The city is located between two mountains."
+  },
+  {
+    "word": "beyond",
+    "level": "A2",
+    "translation": "ötesinde",
+    "example": "The view from the top was beyond my expectations."
+  },
+  {
+    "word": "big",
+    "level": "A1",
+    "translation": "büyük",
+    "example": "The big house had a beautiful garden."
+  },
+  {
+    "word": "bike",
+    "level": "A2",
+    "translation": "bisiklet",
+    "example": "I love riding my bike in the park."
+  },
+  {
+    "word": "bill",
+    "level": "A2",
+    "translation": "fatura",
+    "example": "I need to pay the electricity bill."
+  },
+  {
+    "word": "bird",
+    "level": "A2",
+    "translation": "kuş",
+    "example": "The bird sang a sweet melody."
+  },
+  {
+    "word": "birth",
+    "level": "A2",
+    "translation": "doğum",
+    "example": "The birth of my child was a special moment."
+  },
+  {
+    "word": "birthday",
+    "level": "A2",
+    "translation": "doğum günü",
+    "example": "I'm planning a party for my birthday."
+  },
+  {
+    "word": "bit",
+    "level": "A2",
+    "translation": "biraz",
+    "example": "I need a bit of help with this task."
+  },
+  {
+    "word": "bite",
+    "level": "A2",
+    "translation": "ısırmak",
+    "example": "The dog might bite if it feels threatened."
+  },
+  {
+    "word": "black",
+    "level": "A1",
+    "translation": "siyah",
+    "example": "The black cat was very cute."
+  },
+  {
+    "word": "blank",
+    "level": "A2",
+    "translation": "boş",
+    "example": "The page was blank, waiting to be filled."
+  },
+  {
+    "word": "blind",
+    "level": "A2",
+    "translation": "kör",
+    "example": "The blind man used a cane to navigate."
+  },
+  {
+    "word": "block",
+    "level": "A2",
+    "translation": "blok",
+    "example": "The block of wood was heavy."
+  },
+  {
+    "word": "blood",
+    "level": "A2",
+    "translation": "kan",
+    "example": "The doctor drew blood for the test."
+  },
+  {
+    "word": "blow",
+    "level": "A2",
+    "translation": "üflemek",
+    "example": "The wind blew strongly."
+  },
+  {
+    "word": "blue",
+    "level": "A1",
+    "translation": "mavi",
+    "example": "The blue sky was beautiful."
+  },
+  {
+    "word": "board",
+    "level": "A2",
+    "translation": "tahta",
+    "example": "The board of directors made a decision."
+  },
+  {
+    "word": "boat",
+    "level": "A2",
+    "translation": "tekne",
+    "example": "The boat sailed across the lake."
+  },
+  {
+    "word": "body",
+    "level": "A2",
+    "translation": "vücut",
+    "example": "The body needs exercise to stay healthy."
+  },
+  {
+    "word": "bone",
+    "level": "A2",
+    "translation": "kemik",
+    "example": "The dog chewed on a bone."
+  },
+  {
+    "word": "book",
+    "level": "A1",
+    "translation": "kitap",
+    "example": "I love reading books."
+  },
+  {
+    "word": "boot",
+    "level": "A2",
+    "translation": "çizme",
+    "example": "I need to wear boots in the snow."
+  },
+  {
+    "word": "border",
+    "level": "A2",
+    "translation": "sınır",
+    "example": "The border of the country was heavily guarded."
+  },
+  {
+    "word": "born",
+    "level": "A2",
+    "translation": "doğmak",
+    "example": "I was born in this city."
+  },
+  {
+    "word": "borrow",
+    "level": "A2",
+    "translation": "ödünç almak",
+    "example": "I need to borrow a book from the library."
+  },
+  {
+    "word": "boss",
+    "level": "A2",
+    "translation": "patron",
+    "example": "My boss is very understanding."
+  },
+  {
+    "word": "both",
+    "level": "A2",
+    "translation": "her iki",
+    "example": "I like both coffee and tea."
+  },
+  {
+    "word": "bottle",
+    "level": "A2",
+    "translation": "şişe",
+    "example": "The bottle was empty."
+  },
+  {
+    "word": "bottom",
+    "level": "A2",
+    "translation": "alt",
+    "example": "The bottom of the ocean was dark."
+  },
+  {
+    "word": "bowl",
+    "level": "A2",
+    "translation": "kase",
+    "example": "The bowl was filled with fruit."
+  },
+  {
+    "word": "box",
+    "level": "A2",
+    "translation": "kutu",
+    "example": "The box was heavy."
+  },
+  {
+    "word": "boy",
+    "level": "A1",
+    "translation": "erkek çocuk",
+    "example": "The boy played with his friends."
+  },
+  {
+    "word": "brain",
+    "level": "A2",
+    "translation": "beyin",
+    "example": "The brain is a complex organ."
+  },
+  {
+    "word": "branch",
+    "level": "A2",
+    "translation": "dal",
+    "example": "The branch broke off the tree."
+  },
+  {
+    "word": "bread",
+    "level": "A2",
+    "translation": "ekmek",
+    "example": "I need to buy bread from the bakery."
+  },
+  {
+    "word": "break",
+    "level": "A2",
+    "translation": "kırmak",
+    "example": "I need to break this habit."
+  },
+  {
+    "word": "breath",
+    "level": "A2",
+    "translation": "nefes",
+    "example": "I need to take a deep breath."
+  },
+  {
+    "word": "breathe",
+    "level": "A2",
+    "translation": "nefes almak",
+    "example": "I need to breathe slowly."
+  },
+  {
+    "word": "bridge",
+    "level": "A2",
+    "translation": "köprü",
+    "example": "The bridge connected the two islands."
+  },
+  {
+    "word": "brief",
+    "level": "A2",
+    "translation": "kısa",
+    "example": "The brief meeting was productive."
+  },
+  {
+    "word": "bright",
+    "level": "A2",
+    "translation": "parlak",
+    "example": "The bright lights blinded me."
+  },
+  {
+    "word": "bring",
+    "level": "A2",
+    "translation": "getirmek",
+    "example": "I need to bring my lunch."
+  },
+  {
+    "word": "broad",
+    "level": "A2",
+    "translation": "geniş",
+    "example": "The broad street was lined with shops."
+  },
+  {
+    "word": "brother",
+    "level": "A2",
+    "translation": "erkek kardeş",
+    "example": "My brother is very supportive."
+  },
+  {
+    "word": "brown",
+    "level": "A1",
+    "translation": "kahverengi",
+    "example": "The brown dog was very friendly."
+  },
+  {
+    "word": "brush",
+    "level": "A2",
+    "translation": "fırça",
+    "example": "I need to brush my teeth."
+  },
+  {
+    "word": "bucket",
+    "level": "A2",
+    "translation": "kova",
+    "example": "The bucket was filled with water."
+  },
+  {
+    "word": "build",
+    "level": "A2",
+    "translation": "yapmak",
+    "example": "I need to build a new house."
+  },
+  {
+    "word": "building",
+    "level": "A2",
+    "translation": "bina",
+    "example": "The building was very tall."
+  },
+  {
+    "word": "burn",
+    "level": "A2",
+    "translation": "yanmak",
+    "example": "The fire burned brightly."
+  },
+  {
+    "word": "burst",
+    "level": "A2",
+    "translation": "patlamak",
+    "example": "The balloon burst with a loud noise."
+  },
+  {
+    "word": "business",
+    "level": "A2",
+    "translation": "iş",
+    "example": "I need to attend to my business."
+  },
+  {
+    "word": "busy",
+    "level": "A2",
+    "translation": "işli",
+    "example": "I'm busy with work today."
+  },
+  {
+    "word": "but",
+    "level": "A1",
+    "translation": "fakat, ama",
+    "example": "I’d drive you there, but I don’t have my car."
+  },
+  {
+    "word": "butter",
+    "level": "A2",
+    "translation": "tereyağı",
+    "example": "I eat a slice of bread and butter."
+  },
+  {
+    "word": "button",
+    "level": "B1",
+    "translation": "düğme",
+    "example": "Press the play button to listen to your recording."
+  },
+  {
+    "word": "buy",
+    "level": "A1",
+    "translation": "satın almak",
+    "example": "I went out to buy some milk."
+  },
+  {
+    "word": "buyer",
+    "level": "B1",
+    "translation": "alıcı, müşteri",
+    "example": "Buyers are about to arrive."
+  },
+  {
+    "word": "by",
+    "level": "A2",
+    "translation": "tarafından, göre, ile",
+    "example": "She was examined by a doctor."
+  },
+  {
+    "word": "bye",
+    "level": "A1",
+    "translation": "bay, Hoşça kal",
+    "example": "Bye, see you tomorrow."
+  }
+   ]
 }
