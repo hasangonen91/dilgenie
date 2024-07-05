@@ -1,652 +1,666 @@
 {
-  "A1level": {
-    "vocabulary": {
-      "en": "Vocabulary",
-      "tr": "Kelime Bilgisi",
-      "greetings": {
-        "en": "Greetings",
-        "tr": "Selamlaşmalar",
-        "words": [
-          {"en": "Hello", "tr": "Merhaba"},
-          {"en": "Goodbye", "tr": "Hoşça kal"},
-          {"en": "Good morning", "tr": "Günaydın"},
-          {"en": "Good evening", "tr": "İyi akşamlar"},
-          {"en": "How are you?", "tr": "Nasılsın?"}
-        ],
-        "example_sentences": [
-          {
-            "en": "Hello, how are you today?",
-            "tr": "Merhaba, bugün nasılsın?"
-          },
-          {
-            "en": "Good morning! It's a beautiful day.",
-            "tr": "Günaydın! Güzel bir gün."
-          }
-        ]
-      },
-      "family": {
-        "en": "Family",
-        "tr": "Aile",
-        "words": [
-          {"en": "Mother", "tr": "Anne"},
-          {"en": "Father", "tr": "Baba"},
-          {"en": "Sister", "tr": "Kız kardeş"},
-          {"en": "Brother", "tr": "Erkek kardeş"},
-          {"en": "Grandmother", "tr": "Büyükanne"}
-        ],
-        "example_sentences": [
-          {
-            "en": "My mother is a teacher.",
-            "tr": "Annem bir öğretmen."
-          },
-          {
-            "en": "I have two sisters and one brother.",
-            "tr": "İki kız kardeşim ve bir erkek kardeşim var."
-          }
-        ]
-      },
-      "time_dates": {
-        "en": "Time and Dates",
-        "tr": "Zaman ve Tarihler",
-        "days": {
-          "en": "Days",
-          "tr": "Günler",
+  "A1level": [
+    {
+      "vocabulary": {
+        "en": "Vocabulary",
+        "tr": "Kelime Bilgisi",
+        "greetings": {
+          "en": "Greetings",
+          "tr": "Selamlaşmalar",
           "words": [
-            {"en": "Monday", "tr": "Pazartesi"},
-            {"en": "Tuesday", "tr": "Salı"},
-            {"en": "Wednesday", "tr": "Çarşamba"},
-            {"en": "Thursday", "tr": "Perşembe"},
-            {"en": "Friday", "tr": "Cuma"}
+            { "en": "Hello", "tr": "Merhaba" },
+            { "en": "Goodbye", "tr": "Hoşça kal" },
+            { "en": "Good morning", "tr": "Günaydın" },
+            { "en": "Good evening", "tr": "İyi akşamlar" },
+            { "en": "How are you?", "tr": "Nasılsın?" }
+          ],
+          "example_sentences": [
+            {
+              "en": "Hello, how are you today?",
+              "tr": "Merhaba, bugün nasılsın?"
+            },
+            {
+              "en": "Good morning! It's a beautiful day.",
+              "tr": "Günaydın! Güzel bir gün."
+            }
           ]
         },
-        "months": {
-          "en": "Months",
-          "tr": "Aylar",
+        "family": {
+          "en": "Family",
+          "tr": "Aile",
           "words": [
-            {"en": "January", "tr": "Ocak"},
-            {"en": "February", "tr": "Şubat"},
-            {"en": "March", "tr": "Mart"},
-            {"en": "April", "tr": "Nisan"},
-            {"en": "May", "tr": "Mayıs"}
+            { "en": "Mother", "tr": "Anne" },
+            { "en": "Father", "tr": "Baba" },
+            { "en": "Sister", "tr": "Kız kardeş" },
+            { "en": "Brother", "tr": "Erkek kardeş" },
+            { "en": "Grandmother", "tr": "Büyükanne" }
+          ],
+          "example_sentences": [
+            {
+              "en": "My mother is a teacher.",
+              "tr": "Annem bir öğretmen."
+            },
+            {
+              "en": "I have two sisters and one brother.",
+              "tr": "İki kız kardeşim ve bir erkek kardeşim var."
+            }
           ]
         },
-        "example_sentences": [
-          {
-            "en": "My birthday is in January.",
-            "tr": "Doğum günüm Ocak ayında."
+        "time_dates": {
+          "en": "Time and Dates",
+          "tr": "Zaman ve Tarihler",
+          "days": {
+            "en": "Days",
+            "tr": "Günler",
+            "words": [
+              { "en": "Monday", "tr": "Pazartesi" },
+              { "en": "Tuesday", "tr": "Salı" },
+              { "en": "Wednesday", "tr": "Çarşamba" },
+              { "en": "Thursday", "tr": "Perşembe" },
+              { "en": "Friday", "tr": "Cuma" }
+            ]
           },
-          {
-            "en": "I go to school from Monday to Friday.",
-            "tr": "Pazartesiden Cumaya okula giderim."
-          }
-        ]
-      },
-      "places_directions": {
-        "en": "Places and Directions",
-        "tr": "Yerler ve Yönler",
-        "words": [
-          {"en": "School", "tr": "Okul"},
-          {"en": "Hospital", "tr": "Hastane"},
-          {"en": "Park", "tr": "Park"},
-          {"en": "Left", "tr": "Sol"},
-          {"en": "Right", "tr": "Sağ"}
-        ],
-        "example_sentences": [
-          {
-            "en": "The hospital is on the left.",
-            "tr": "Hastane solda."
+          "months": {
+            "en": "Months",
+            "tr": "Aylar",
+            "words": [
+              { "en": "January", "tr": "Ocak" },
+              { "en": "February", "tr": "Şubat" },
+              { "en": "March", "tr": "Mart" },
+              { "en": "April", "tr": "Nisan" },
+              { "en": "May", "tr": "Mayıs" }
+            ]
           },
-          {
-            "en": "I go to school by bus.",
-            "tr": "Okula otobüsle giderim."
-          }
-        ]
-      },
-      "food_drinks": {
-        "en": "Food and Drinks",
-        "tr": "Yiyecek ve İçecekler",
-        "words": [
-          {"en": "Water", "tr": "Su"},
-          {"en": "Bread", "tr": "Ekmek"},
-          {"en": "Apple", "tr": "Elma"},
-          {"en": "Milk", "tr": "Süt"},
-          {"en": "Coffee", "tr": "Kahve"}
-        ],
-        "example_sentences": [
-          {
-            "en": "I drink water with my meals.",
-            "tr": "Yemeklerimle su içerim."
-          },
-          {
-            "en": "Do you want coffee or tea?",
-            "tr": "Kahve mi çay mı istersin?"
-          }
-        ]
-      },
-      "colors_numbers_shapes": {
-        "en": "Colors, Numbers, and Shapes",
-        "tr": "Renkler, Sayılar ve Şekiller",
-        "colors": {
-          "en": "Colors",
-          "tr": "Renkler",
-          "words": [
-            {"en": "Red", "tr": "Kırmızı"},
-            {"en": "Blue", "tr": "Mavi"},
-            {"en": "Green", "tr": "Yeşil"},
-            {"en": "Yellow", "tr": "Sarı"},
-            {"en": "Black", "tr": "Siyah"}
+          "example_sentences": [
+            {
+              "en": "My birthday is in January.",
+              "tr": "Doğum günüm Ocak ayında."
+            },
+            {
+              "en": "I go to school from Monday to Friday.",
+              "tr": "Pazartesiden Cumaya okula giderim."
+            }
           ]
         },
-        "numbers": {
-          "en": "Numbers",
-          "tr": "Sayılar",
+        "places_directions": {
+          "en": "Places and Directions",
+          "tr": "Yerler ve Yönler",
           "words": [
-            {"en": "One", "tr": "Bir"},
-            {"en": "Two", "tr": "İki"},
-            {"en": "Three", "tr": "Üç"},
-            {"en": "Four", "tr": "Dört"},
-            {"en": "Five", "tr": "Beş"}
+            { "en": "School", "tr": "Okul" },
+            { "en": "Hospital", "tr": "Hastane" },
+            { "en": "Park", "tr": "Park" },
+            { "en": "Left", "tr": "Sol" },
+            { "en": "Right", "tr": "Sağ" }
+          ],
+          "example_sentences": [
+            {
+              "en": "The hospital is on the left.",
+              "tr": "Hastane solda."
+            },
+            {
+              "en": "I go to school by bus.",
+              "tr": "Okula otobüsle giderim."
+            }
           ]
         },
-        "shapes": {
-          "en": "Shapes",
-          "tr": "Şekiller",
+        "food_drinks": {
+          "en": "Food and Drinks",
+          "tr": "Yiyecek ve İçecekler",
           "words": [
-            {"en": "Circle", "tr": "Daire"},
-            {"en": "Square", "tr": "Kare"},
-            {"en": "Triangle", "tr": "Üçgen"},
-            {"en": "Rectangle", "tr": "Dikdörtgen"},
-            {"en": "Star", "tr": "Yıldız"}
+            { "en": "Water", "tr": "Su" },
+            { "en": "Bread", "tr": "Ekmek" },
+            { "en": "Apple", "tr": "Elma" },
+            { "en": "Milk", "tr": "Süt" },
+            { "en": "Coffee", "tr": "Kahve" }
+          ],
+          "example_sentences": [
+            {
+              "en": "I drink water with my meals.",
+              "tr": "Yemeklerimle su içerim."
+            },
+            {
+              "en": "Do you want coffee or tea?",
+              "tr": "Kahve mi çay mı istersin?"
+            }
           ]
         },
-        "example_sentences": [
-          {
-            "en": "The sky is blue.",
-            "tr": "Gökyüzü mavi."
+        "colors_numbers_shapes": {
+          "en": "Colors, Numbers, and Shapes",
+          "tr": "Renkler, Sayılar ve Şekiller",
+          "colors": {
+            "en": "Colors",
+            "tr": "Renkler",
+            "words": [
+              { "en": "Red", "tr": "Kırmızı" },
+              { "en": "Blue", "tr": "Mavi" },
+              { "en": "Green", "tr": "Yeşil" },
+              { "en": "Yellow", "tr": "Sarı" },
+              { "en": "Black", "tr": "Siyah" }
+            ]
           },
-          {
-            "en": "I have two red apples.",
-            "tr": "İki kırmızı elmam var."
+          "numbers": {
+            "en": "Numbers",
+            "tr": "Sayılar",
+            "words": [
+              { "en": "One", "tr": "Bir" },
+              { "en": "Two", "tr": "İki" },
+              { "en": "Three", "tr": "Üç" },
+              { "en": "Four", "tr": "Dört" },
+              { "en": "Five", "tr": "Beş" }
+            ]
           },
-          {
-            "en": "The clock is a circle shape.",
-            "tr": "Saat daire şeklindedir."
-          }
-        ]
+          "shapes": {
+            "en": "Shapes",
+            "tr": "Şekiller",
+            "words": [
+              { "en": "Circle", "tr": "Daire" },
+              { "en": "Square", "tr": "Kare" },
+              { "en": "Triangle", "tr": "Üçgen" },
+              { "en": "Rectangle", "tr": "Dikdörtgen" },
+              { "en": "Star", "tr": "Yıldız" }
+            ]
+          },
+          "example_sentences": [
+            {
+              "en": "The sky is blue.",
+              "tr": "Gökyüzü mavi."
+            },
+            {
+              "en": "I have two red apples.",
+              "tr": "İki kırmızı elmam var."
+            },
+            {
+              "en": "The clock is a circle shape.",
+              "tr": "Saat daire şeklindedir."
+            }
+          ]
+        }
       }
     },
-    "grammar": {
-      "en": "Grammar",
-      "tr": "Dilbilgisi",
-      "pronouns": {
-        "en": "Pronouns",
-        "tr": "Zamirler",
-        "words": [
-          {"en": "I", "tr": "Ben"},
-          {"en": "You", "tr": "Sen"},
-          {"en": "He", "tr": "O (erkek)"},
-          {"en": "She", "tr": "O (kadın)"},
-          {"en": "It", "tr": "O (cansız)"}
-        ],
-        "example_sentences": [
-          {
-            "en": "I am a student.",
-            "tr": "Ben bir öğrenciyim."
-          },
-          {
-            "en": "She is my sister.",
-            "tr": "O benim kız kardeşim."
-          }
-        ]
-      },
-      "basic_verbs": {
-        "en": "Basic Verbs",
-        "tr": "Temel Fiiller",
-        "words": [
-          {"en": "to be", "tr": "olmak"},
-          {"en": "to have", "tr": "sahip olmak"},
-          {"en": "to do", "tr": "yapmak"},
-          {"en": "to go", "tr": "gitmek"},
-          {"en": "to come", "tr": "gelmek"}
-        ],
-        "example_sentences": [
-          {
-            "en": "I am happy.",
-            "tr": "Ben mutluyum."
-          },
-          {
-            "en": "They have a big house.",
-            "tr": "Onların büyük bir evi var."
-          },
-          {
-            "en": "We go to school every day.",
-            "tr": "Her gün okula gideriz."
-          }
-        ]
-      },
-      "adjectives_adverbs": {
-        "en": "Adjectives and Adverbs",
-        "tr": "Sıfatlar ve Zarflar",
-        "adjectives": {
-          "en": "Adjectives",
-          "tr": "Sıfatlar",
+    {
+      "grammar": {
+        "en": "Grammar",
+        "tr": "Dilbilgisi",
+        "pronouns": {
+          "en": "Pronouns",
+          "tr": "Zamirler",
           "words": [
-            {"en": "Big", "tr": "Büyük"},
-            {"en": "Small", "tr": "Küçük"},
-            {"en": "Good", "tr": "İyi"},
-            {"en": "Bad", "tr": "Kötü"},
-            {"en": "New", "tr": "Yeni"}
+            { "en": "I", "tr": "Ben" },
+            { "en": "You", "tr": "Sen" },
+            { "en": "He", "tr": "O (erkek)" },
+            { "en": "She", "tr": "O (kadın)" },
+            { "en": "It", "tr": "O (cansız)" }
+          ],
+          "example_sentences": [
+            {
+              "en": "I am a student.",
+              "tr": "Ben bir öğrenciyim."
+            },
+            {
+              "en": "She is my sister.",
+              "tr": "O benim kız kardeşim."
+            }
           ]
         },
-        "adverbs": {
-          "en": "Adverbs",
-          "tr": "Zarflar",
+        "basic_verbs": {
+          "en": "Basic Verbs",
+          "tr": "Temel Fiiller",
           "words": [
-            {"en": "Quickly", "tr": "Hızlıca"},
-            {"en": "Slowly", "tr": "Yavaşça"},
-            {"en": "Well", "tr": "İyi"},
-            {"en": "Badly", "tr": "Kötü"},
-            {"en": "Very", "tr": "Çok"}
+            { "en": "to be", "tr": "olmak" },
+            { "en": "to have", "tr": "sahip olmak" },
+            { "en": "to do", "tr": "yapmak" },
+            { "en": "to go", "tr": "gitmek" },
+            { "en": "to come", "tr": "gelmek" }
+          ],
+          "example_sentences": [
+            {
+              "en": "I am happy.",
+              "tr": "Ben mutluyum."
+            },
+            {
+              "en": "They have a big house.",
+              "tr": "Onların büyük bir evi var."
+            },
+            {
+              "en": "We go to school every day.",
+              "tr": "Her gün okula gideriz."
+            }
           ]
         },
-        "example_sentences": [
-          {
-            "en": "This is a big house.",
-            "tr": "Bu büyük bir ev."
+        "adjectives_adverbs": {
+          "en": "Adjectives and Adverbs",
+          "tr": "Sıfatlar ve Zarflar",
+          "adjectives": {
+            "en": "Adjectives",
+            "tr": "Sıfatlar",
+            "words": [
+              { "en": "Big", "tr": "Büyük" },
+              { "en": "Small", "tr": "Küçük" },
+              { "en": "Good", "tr": "İyi" },
+              { "en": "Bad", "tr": "Kötü" },
+              { "en": "New", "tr": "Yeni" }
+            ]
           },
-          {
-            "en": "She runs quickly.",
-            "tr": "O hızlıca koşar."
+          "adverbs": {
+            "en": "Adverbs",
+            "tr": "Zarflar",
+            "words": [
+              { "en": "Quickly", "tr": "Hızlıca" },
+              { "en": "Slowly", "tr": "Yavaşça" },
+              { "en": "Well", "tr": "İyi" },
+              { "en": "Badly", "tr": "Kötü" },
+              { "en": "Very", "tr": "Çok" }
+            ]
           },
-          {
-            "en": "The food is very good.",
-            "tr": "Yemek çok iyi."
-          }
-        ]
-      },
-      "sentence_structures": {
-        "en": "Sentence Structures",
-        "tr": "Cümle Yapıları",
-        "positive": {
-          "en": "Positive",
-          "tr": "Olumlu",
-          "structure": {
-            "en": "Subject + Verb + Object",
-            "tr": "Özne + Nesne + Yüklem"
+          "example_sentences": [
+            {
+              "en": "This is a big house.",
+              "tr": "Bu büyük bir ev."
+            },
+            {
+              "en": "She runs quickly.",
+              "tr": "O hızlıca koşar."
+            },
+            {
+              "en": "The food is very good.",
+              "tr": "Yemek çok iyi."
+            }
+          ]
+        },
+        "sentence_structures": {
+          "en": "Sentence Structures",
+          "tr": "Cümle Yapıları",
+          "positive": {
+            "en": "Positive",
+            "tr": "Olumlu",
+            "structure": {
+              "en": "Subject + Verb + Object",
+              "tr": "Özne + Nesne + Yüklem"
+            },
+            "example": {
+              "en": "I like apples.",
+              "tr": "Ben elmaları severim."
+            }
           },
-          "example": {
-            "en": "I like apples.",
-            "tr": "Ben elmaları severim."
+          "negative": {
+            "en": "Negative",
+            "tr": "Olumsuz",
+            "structure": {
+              "en": "Subject + do/does not + Verb + Object",
+              "tr": "Özne + Nesne + Yüklem + -me/-ma"
+            },
+            "example": {
+              "en": "I do not like bananas.",
+              "tr": "Ben muzları sevmem."
+            }
+          },
+          "question": {
+            "en": "Question",
+            "tr": "Soru",
+            "structure": {
+              "en": "Do/Does + Subject + Verb + Object?",
+              "tr": "Özne + Nesne + Yüklem + mi/mı?"
+            },
+            "example": {
+              "en": "Do you like coffee?",
+              "tr": "Kahve sever misin?"
+            }
           }
         },
-        "negative": {
-          "en": "Negative",
-          "tr": "Olumsuz",
-          "structure": {
-            "en": "Subject + do/does not + Verb + Object",
-            "tr": "Özne + Nesne + Yüklem + -me/-ma"
-          },
-          "example": {
-            "en": "I do not like bananas.",
-            "tr": "Ben muzları sevmem."
-          }
-        },
-        "question": {
-          "en": "Question",
-          "tr": "Soru",
-          "structure": {
-            "en": "Do/Does + Subject + Verb + Object?",
-            "tr": "Özne + Nesne + Yüklem + mi/mı?"
-          },
-          "example": {
-            "en": "Do you like coffee?",
-            "tr": "Kahve sever misin?"
-          }
-        }
-      },
-      "present_tense": {
-        "en": "Present Tense",
-        "tr": "Şimdiki Zaman",
-        "simple_present": {
-          "en": "Simple Present",
-          "tr": "Geniş Zaman",
-          "structure": {
-            "en": "Subject + Verb(s) + Object",
-            "tr": "Özne + Nesne + Yüklem(-r/-ar/-er)"
-          },
-          "example": {
-            "en": "She works in a hospital.",
-            "tr": "O bir hastanede çalışır."
-          }
-        },
-        "present_continuous": {
-          "en": "Present Continuous",
+        "present_tense": {
+          "en": "Present Tense",
           "tr": "Şimdiki Zaman",
-          "structure": {
-            "en": "Subject + am/is/are + Verb-ing + Object",
-            "tr": "Özne + Nesne + Yüklem(-yor)"
-          },
-          "example": {
-            "en": "I am reading a book now.",
-            "tr": "Şu anda bir kitap okuyorum."
-          }
-        }
-      },
-      "prepositions": {
-        "en": "Prepositions",
-        "tr": "Edatlar",
-        "words": [
-          {"en": "in", "tr": "içinde"},
-          {"en": "on", "tr": "üzerinde"},
-          {"en": "at", "tr": "-de/-da"},
-          {"en": "to", "tr": "-e/-a"},
-          {"en": "from", "tr": "-den/-dan"}
-        ],
-        "example_sentences": [
-          {
-            "en": "The book is on the table.",
-            "tr": "Kitap masanın üzerinde."
-          },
-          {
-            "en": "I go to school at 8 AM.",
-            "tr": "Sabah 8'de okula giderim."
-          },
-          {
-            "en": "She is from Turkey.",
-            "tr": "O Türkiye'den."
-          }
-        ]
-      }
-    },
-    "speaking_listening": {
-      "en": "Speaking and Listening",
-      "tr": "Konuşma ve Dinleme",
-      "listening_exercises": {
-        "en": "Listening Exercises",
-        "tr": "Dinleme Alıştırmaları",
-        "exercises": [
-          {
-            "title": {
-              "en": "Daily Routine",
-              "tr": "Günlük Rutin"
+          "simple_present": {
+            "en": "Simple Present",
+            "tr": "Geniş Zaman",
+            "structure": {
+              "en": "Subject + Verb(s) + Object",
+              "tr": "Özne + Nesne + Yüklem(-r/-ar/-er)"
             },
-            "audio_url": "https://example.com/daily_routine.mp3",
-            "script": {
-              "en": "I wake up at 7 AM. I have breakfast at 8 AM. I go to work at 9 AM.",
-              "tr": "Sabah 7'de uyanırım. Saat 8'de kahvaltı yaparım. Saat 9'da işe giderim."
+            "example": {
+              "en": "She works in a hospital.",
+              "tr": "O bir hastanede çalışır."
             }
           },
-          {
-            "title": {
-              "en": "At the Restaurant",
-              "tr": "Restoranda"
+          "present_continuous": {
+            "en": "Present Continuous",
+            "tr": "Şimdiki Zaman",
+            "structure": {
+              "en": "Subject + am/is/are + Verb-ing + Object",
+              "tr": "Özne + Nesne + Yüklem(-yor)"
             },
-            "audio_url": "https://example.com/at_the_restaurant.mp3",
-            "script": {
-              "en": "Waiter: Hello, what would you like to order? Customer: I'd like a chicken salad and a glass of water, please.",
-              "tr": "Garson: Merhaba, ne sipariş vermek istersiniz? Müşteri: Bir tavuk salatası ve bir bardak su lütfen."
+            "example": {
+              "en": "I am reading a book now.",
+              "tr": "Şu anda bir kitap okuyorum."
             }
-          }
-        ]
-      },
-      "speaking_practices": {
-        "en": "Speaking Practices",
-        "tr": "Konuşma Alıştırmaları",
-        "practices": [
-          {
-            "title": {
-              "en": "Introducing Yourself",
-              "tr": "Kendini Tanıtma"
-            },
-            "prompt": {
-              "en": "Tell me about yourself. What's your name? Where are you from?",
-              "tr": "Bana kendinden bahset. Adın ne? Nerelisin?"
-            },
-            "example_dialogue": {
-              "en": "A: Hello, my name is John. I'm from the United States. What's your name?\nB: Nice to meet you, John. I'm Maria. I'm from Spain.",
-              "tr": "A: Merhaba, benim adım John. Amerika Birleşik Devletleri'ndenim. Senin adın ne?\nB: Tanıştığıma memnun oldum, John. Ben Maria. İspanya'danım."
-            }
-          },
-          {
-            "title": {
-              "en": "Ordering Food",
-              "tr": "Yemek Siparişi Verme"
-            },
-            "prompt": {
-              "en": "You are at a restaurant. Order a meal and a drink.",
-              "tr": "Bir restorandasın. Bir yemek ve içecek sipariş et."
-            },
-            "example_dialogue": {
-              "en": "Customer: I'd like a hamburger and a cola, please.\nWaiter: Certainly. Would you like fries with that?\nCustomer: Yes, please.",
-              "tr": "Müşteri: Bir hamburger ve bir kola istiyorum, lütfen.\nGarson: Tabii. Yanında patates kızartması ister misiniz?\nMüşteri: Evet, lütfen."
-            }
-          }
-        ]
-      }
-    },
-    "reading_writing": {
-      "en": "Reading and Writing",
-      "tr": "Okuma ve Yazma",
-      "reading_texts": {
-        "en": "Reading Texts",
-        "tr": "Okuma Metinleri",
-        "texts": [
-          {
-            "title": {
-              "en": "My Family",
-              "tr": "Ailem"
-            },
-            "content": {
-              "en": "This is my family. I have a mother, a father, and a sister. My mother is a teacher. My father is a doctor. My sister is a student.",
-              "tr": "Bu benim ailem. Bir annem, bir babam ve bir kız kardeşim var. Annem öğretmen. Babam doktor. Kız kardeşim öğrenci."
-            }
-          },
-          {
-            "title": {
-              "en": "A Typical Day",
-              "tr": "Tipik Bir Gün"
-            },
-            "content": {
-              "en": "I wake up at 7 AM every day. I have breakfast at 7:30 AM. I go to work at 8:30 AM. I work from 9 AM to 5 PM. After work, I go to the gym. I have dinner at 7 PM. I go to bed at 11 PM.",
-              "tr": "Her gün sabah 7'de uyanırım. 7:30'da kahvaltı yaparım. 8:30'da işe giderim. 9'dan 5'e kadar çalışırım. İşten sonra spor salonuna giderim. Akşam 7'de akşam yemeği yerim. Gece 11'de yatarım."
-            }
-          }
-        ]
-      },
-      "writing_exercises": {
-        "en": "Writing Exercises",
-        "tr": "Yazma Alıştırmaları",
-        "exercises": [
-          {
-            "title": {
-              "en": "Describing Your Room",
-              "tr": "Odanı Tanımlama"
-            },
-            "prompt": {
-              "en": "Write 3-5 sentences about your room. What furniture do you have? What color are the walls?",
-              "tr": "Odanız hakkında 3-5 cümle yazın. Hangi mobilyalarınız var? Duvarların rengi ne?"
-            },
-            "example_answer": {
-              "en": "My room is small but comfortable. I have a bed, a desk, and a chair. The walls are light blue. There is a big window with white curtains. I like my room very much.",
-              "tr": "Odam küçük ama rahat. Bir yatağım, bir masam ve bir sandalyem var. Duvarlar açık mavi. Beyaz perdeli büyük bir pencere var. Odamı çok seviyorum."
-            }
-          },
-          {
-            "title": {
-              "en": "Writing a Postcard",
-              "tr": "Kartpostal Yazma"
-            },
-            "prompt": {
-              "en": "Write a short postcard to a friend about your vacation. Where are you? What are you doing?",
-              "tr": "Tatiliniz hakkında bir arkadaşınıza kısa bir kartpostal yazın. Neredesiniz? Ne yapıyorsunuz?"
-            },
-            "example_answer": {
-              "en": "Dear Sarah,\n\nGreetings from Paris! The weather is great. I'm visiting many museums and eating delicious food. The Eiffel Tower is amazing. I'm having a wonderful time.\n\nSee you soon,\nJohn",
-              "tr": "Sevgili Sarah,\n\nParis'ten selamlar! Hava harika. Birçok müze geziyorum ve lezzetli yemekler yiyorum. Eyfel Kulesi muhteşem. Harika vakit geçiriyorum.\n\nYakında görüşürüz,\nJohn"
-            }
-          }
-        ]
-      }
-    },
-    "interactive_activities_games": {
-      "en": "Interactive Activities and Games",
-      "tr": "Etkileşimli Aktiviteler ve Oyunlar",
-      "activities": [
-        {
-          "title": {
-            "en": "Memory Game",
-            "tr": "Hafıza Oyunu"
-          },
-          "type": {
-            "en": "Matching",
-            "tr": "Eşleştirme"
-          },
-          "description": {
-            "en": "Match English words with their Turkish translations",
-            "tr": "İngilizce kelimeleri Türkçe çevirileriyle eşleştirin"
-          },
-          "example_words": [
-            {"en": "Apple", "tr": "Elma"},
-            {"en": "House", "tr": "Ev"},
-            {"en": "Book", "tr": "Kitap"},
-            {"en": "Friend", "tr": "Arkadaş"}
-          ]
-        },
-        {
-          "title": {
-            "en": "Fill in the Blanks",
-            "tr": "Boşluk Doldurma"
-          },
-          "type": {
-            "en": "Sentence Completion",
-            "tr": "Cümle Tamamlama"
-          },
-          "description": {
-            "en": "Complete the sentences with the correct words",
-            "tr": "Cümleleri doğru kelimelerle tamamlayın"
-          },
-          "example_sentence": {
-            "en": "I ____ (go) to school every day.",
-            "tr": "Her gün okula ____ (gitmek)."
-          },
-          "correct_answer": {
-            "en": "go",
-            "tr": "giderim"
-          }
-        }
-      ]
-    },
-    "cultural_content": {
-      "en": "Cultural Content",
-      "tr": "Kültürel İçerik",
-      "topics": [
-        {
-          "topic": {
-            "en": "British Tea Time",
-            "tr": "İngiliz Çay Saati"
-          },
-          "description": {
-            "en": "In Britain, many people drink tea in the afternoon. This is called 'afternoon tea'. It usually includes tea, small sandwiches, and cakes.",
-            "tr": "İngiltere'de birçok insan öğleden sonra çay içer. Buna 'öğleden sonra çayı' denir. Genellikle çay, küçük sandviçler ve kekler içerir."
           }
         },
-        {
-          "topic": {
-            "en": "American Holidays",
-            "tr": "Amerikan Tatilleri"
-          },
-          "description": {
-            "en": "Two important American holidays are Thanksgiving and the Fourth of July. Thanksgiving is in November, and people eat turkey. The Fourth of July celebrates American independence.",
-            "tr": "İki önemli Amerikan tatili Şükran Günü ve 4 Temmuz'dur. Şükran Günü Kasım ayındadır ve insanlar hindi yer. 4 Temmuz, Amerikan bağımsızlığını kutlar."
-          }
-        }
-      ]
-    },
-    "progress_tracking": {
-      "en": "Progress Tracking",
-      "tr": "İlerleme Takibi",
-      "achievements": {
-        "en": "Achievements",
-        "tr": "Başarılar",
-        "list": [
-          {
-            "en": "Completed 10 vocabulary exercises",
-            "tr": "10 kelime alıştırması tamamlandı"
-          },
-          {
-            "en": "Wrote first paragraph in English",
-            "tr": "İlk İngilizce paragraf yazıldı"
-          },
-          {
-            "en": "Had a 5-minute conversation in English",
-            "tr": "5 dakikalık bir İngilizce konuşma yapıldı"
-          }
-        ]
-      },
-      "progress_reports": {
-        "en": "Progress Reports",
-        "tr": "İlerleme Raporları",
-        "reports": [
-          {
-            "en": "Vocabulary: 60% complete",
-            "tr": "Kelime bilgisi: %60 tamamlandı"
-          },
-          {
-            "en": "Grammar: 40% complete",
-            "tr": "Dilbilgisi: %40 tamamlandı"
-          },
-          {
-            "en": "Speaking: 30% complete",
-            "tr": "Konuşma: %30 tamamlandı"
-          }
-        ]
-      }
-    },
-    "grammar_notes_tips": {
-      "en": "Grammar Notes and Tips",
-      "tr": "Dilbilgisi Notları ve İpuçları",
-      "notes": [
-        {
-          "topic": {
-            "en": "Using 'a' and 'an'",
-            "tr": "'a' ve 'an' Kullanımı"
-          },
-          "note": {
-            "en": "Use 'a' before consonant sounds and 'an' before vowel sounds.",
-            "tr": "Ünsüz seslerden önce 'a', ünlü seslerden önce 'an' kullanın."
-          },
-          "examples": [
+        "prepositions": {
+          "en": "Prepositions",
+          "tr": "Edatlar",
+          "words": [
+            { "en": "in", "tr": "içinde" },
+            { "en": "on", "tr": "üzerinde" },
+            { "en": "at", "tr": "-de/-da" },
+            { "en": "to", "tr": "-e/-a" },
+            { "en": "from", "tr": "-den/-dan" }
+          ],
+          "example_sentences": [
             {
-              "en": "a book, a dog, a university",
-              "tr": "bir kitap, bir köpek, bir üniversite"
+              "en": "The book is on the table.",
+              "tr": "Kitap masanın üzerinde."
             },
             {
-              "en": "an apple, an elephant, an hour",
-              "tr": "bir elma, bir fil, bir saat"
-            }
-          ]
-        },
-        {
-          "topic": {
-            "en": "Simple Present Tense",
-            "tr": "Geniş Zaman"
-          },
-          "note": {
-            "en": "Use simple present for regular actions or facts. Add -s or -es for he/she/it.",
-            "tr": "Düzenli eylemler veya gerçekler için geniş zaman kullanın. O (he/she/it) için -s veya -es ekleyin."
-          },
-          "examples": [
-            {
-              "en": "I play tennis every weekend.",
-              "tr": "Her hafta sonu tenis oynarım."
+              "en": "I go to school at 8 AM.",
+              "tr": "Sabah 8'de okula giderim."
             },
             {
-              "en": "She works in a bank.",
-              "tr": "O bir bankada çalışır."
+              "en": "She is from Turkey.",
+              "tr": "O Türkiye'den."
             }
           ]
         }
-      ]
+      }
+    },
+    {
+      "speaking_listening": {
+        "en": "Speaking and Listening",
+        "tr": "Konuşma ve Dinleme",
+        "listening_exercises": {
+          "en": "Listening Exercises",
+          "tr": "Dinleme Alıştırmaları",
+          "exercises": [
+            {
+              "title": {
+                "en": "Daily Routine",
+                "tr": "Günlük Rutin"
+              },
+              "script": {
+                "en": "I wake up at 7 AM. I have breakfast at 8 AM. I go to work at 9 AM.",
+                "tr": "Sabah 7'de uyanırım. Saat 8'de kahvaltı yaparım. Saat 9'da işe giderim."
+              }
+            },
+            {
+              "title": {
+                "en": "At the Restaurant",
+                "tr": "Restoranda"
+              },
+              "script": {
+                "en": "Waiter: Hello, what would you like to order? Customer: I'd like a chicken salad and a glass of water, please.",
+                "tr": "Garson: Merhaba, ne sipariş vermek istersiniz? Müşteri: Bir tavuk salatası ve bir bardak su lütfen."
+              }
+            }
+          ]
+        },
+        "speaking_practices": {
+          "en": "Speaking Practices",
+          "tr": "Konuşma Alıştırmaları",
+          "practices": [
+            {
+              "title": {
+                "en": "Introducing Yourself",
+                "tr": "Kendini Tanıtma"
+              },
+              "prompt": {
+                "en": "Tell me about yourself. What's your name? Where are you from?",
+                "tr": "Bana kendinden bahset. Adın ne? Nerelisin?"
+              },
+              "example_dialogue": {
+                "en": "A: Hello, my name is John. I'm from the United States. What's your name?\nB: Nice to meet you, John. I'm Maria. I'm from Spain.",
+                "tr": "A: Merhaba, benim adım John. Amerika Birleşik Devletleri'ndenim. Senin adın ne?\nB: Tanıştığıma memnun oldum, John. Ben Maria. İspanya'danım."
+              }
+            },
+            {
+              "title": {
+                "en": "Ordering Food",
+                "tr": "Yemek Siparişi Verme"
+              },
+              "prompt": {
+                "en": "You are at a restaurant. Order a meal and a drink.",
+                "tr": "Bir restorandasın. Bir yemek ve içecek sipariş et."
+              },
+              "example_dialogue": {
+                "en": "Customer: I'd like a hamburger and a cola, please.\nWaiter: Certainly. Would you like fries with that?\nCustomer: Yes, please.",
+                "tr": "Müşteri: Bir hamburger ve bir kola istiyorum, lütfen.\nGarson: Tabii. Yanında patates kızartması ister misiniz?\nMüşteri: Evet, lütfen."
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "reading_writing": {
+        "en": "Reading and Writing",
+        "tr": "Okuma ve Yazma",
+        "reading_texts": {
+          "en": "Reading Texts",
+          "tr": "Okuma Metinleri",
+          "texts": [
+            {
+              "title": {
+                "en": "My Family",
+                "tr": "Ailem"
+              },
+              "content": {
+                "en": "This is my family. I have a mother, a father, and a sister. My mother is a teacher. My father is a doctor. My sister is a student.",
+                "tr": "Bu benim ailem. Bir annem, bir babam ve bir kız kardeşim var. Annem öğretmen. Babam doktor. Kız kardeşim öğrenci."
+              }
+            },
+            {
+              "title": {
+                "en": "A Typical Day",
+                "tr": "Tipik Bir Gün"
+              },
+              "content": {
+                "en": "I wake up at 7 AM every day. I have breakfast at 7:30 AM. I go to work at 8:30 AM. I work from 9 AM to 5 PM. After work, I go to the gym. I have dinner at 7 PM. I go to bed at 11 PM.",
+                "tr": "Her gün sabah 7'de uyanırım. 7:30'da kahvaltı yaparım. 8:30'da işe giderim. 9'dan 5'e kadar çalışırım. İşten sonra spor salonuna giderim. Akşam 7'de akşam yemeği yerim. Gece 11'de yatarım."
+              }
+            }
+          ]
+        },
+        "writing_exercises": {
+          "en": "Writing Exercises",
+          "tr": "Yazma Alıştırmaları",
+          "exercises": [
+            {
+              "title": {
+                "en": "Describing Your Room",
+                "tr": "Odanı Tanımlama"
+              },
+              "prompt": {
+                "en": "Write 3-5 sentences about your room. What furniture do you have? What color are the walls?",
+                "tr": "Odanız hakkında 3-5 cümle yazın. Hangi mobilyalarınız var? Duvarların rengi ne?"
+              },
+              "example_answer": {
+                "en": "My room is small but comfortable. I have a bed, a desk, and a chair. The walls are light blue. There is a big window with white curtains. I like my room very much.",
+                "tr": "Odam küçük ama rahat. Bir yatağım, bir masam ve bir sandalyem var. Duvarlar açık mavi. Beyaz perdeli büyük bir pencere var. Odamı çok seviyorum."
+              }
+            },
+            {
+              "title": {
+                "en": "Writing a Postcard",
+                "tr": "Kartpostal Yazma"
+              },
+              "prompt": {
+                "en": "Write a short postcard to a friend about your vacation. Where are you? What are you doing?",
+                "tr": "Tatiliniz hakkında bir arkadaşınıza kısa bir kartpostal yazın. Neredesiniz? Ne yapıyorsunuz?"
+              },
+              "example_answer": {
+                "en": "Dear Sarah,\n\nGreetings from Paris! The weather is great. I'm visiting many museums and eating delicious food. The Eiffel Tower is amazing. I'm having a wonderful time.\n\nSee you soon,\nJohn",
+                "tr": "Sevgili Sarah,\n\nParis'ten selamlar! Hava harika. Birçok müze geziyorum ve lezzetli yemekler yiyorum. Eyfel Kulesi muhteşem. Harika vakit geçiriyorum.\n\nYakında görüşürüz,\nJohn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "interactive_activities_games": {
+        "en": "Interactive Activities and Games",
+        "tr": "Etkileşimli Aktiviteler ve Oyunlar",
+        "activities": [
+          {
+            "title": {
+              "en": "Memory Game",
+              "tr": "Hafıza Oyunu"
+            },
+            "type": {
+              "en": "Matching",
+              "tr": "Eşleştirme"
+            },
+            "description": {
+              "en": "Match English words with their Turkish translations",
+              "tr": "İngilizce kelimeleri Türkçe çevirileriyle eşleştirin"
+            },
+            "example_words": [
+              { "en": "Apple", "tr": "Elma" },
+              { "en": "House", "tr": "Ev" },
+              { "en": "Book", "tr": "Kitap" },
+              { "en": "Friend", "tr": "Arkadaş" }
+            ]
+          },
+          {
+            "title": {
+              "en": "Fill in the Blanks",
+              "tr": "Boşluk Doldurma"
+            },
+            "type": {
+              "en": "Sentence Completion",
+              "tr": "Cümle Tamamlama"
+            },
+            "description": {
+              "en": "Complete the sentences with the correct words",
+              "tr": "Cümleleri doğru kelimelerle tamamlayın"
+            },
+            "example_sentence": {
+              "en": "I ____ (go) to school every day.",
+              "tr": "Her gün okula ____ (gitmek)."
+            },
+            "correct_answer": {
+              "en": "go",
+              "tr": "giderim"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "cultural_content": {
+        "en": "Cultural Content",
+        "tr": "Kültürel İçerik",
+        "topics": [
+          {
+            "topic": {
+              "en": "British Tea Time",
+              "tr": "İngiliz Çay Saati"
+            },
+            "description": {
+              "en": "In Britain, many people drink tea in the afternoon. This is called 'afternoon tea'. It usually includes tea, small sandwiches, and cakes.",
+              "tr": "İngiltere'de birçok insan öğleden sonra çay içer. Buna 'öğleden sonra çayı' denir. Genellikle çay, küçük sandviçler ve kekler içerir."
+            }
+          },
+          {
+            "topic": {
+              "en": "American Holidays",
+              "tr": "Amerikan Tatilleri"
+            },
+            "description": {
+              "en": "Two important American holidays are Thanksgiving and the Fourth of July. Thanksgiving is in November, and people eat turkey. The Fourth of July celebrates American independence.",
+              "tr": "İki önemli Amerikan tatili Şükran Günü ve 4 Temmuz'dur. Şükran Günü Kasım ayındadır ve insanlar hindi yer. 4 Temmuz, Amerikan bağımsızlığını kutlar."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "progress_tracking": {
+        "en": "Progress Tracking",
+        "tr": "İlerleme Takibi",
+        "achievements": {
+          "en": "Achievements",
+          "tr": "Başarılar",
+          "list": [
+            {
+              "en": "Completed 10 vocabulary exercises",
+              "tr": "10 kelime alıştırması tamamlandı"
+            },
+            {
+              "en": "Wrote first paragraph in English",
+              "tr": "İlk İngilizce paragraf yazıldı"
+            },
+            {
+              "en": "Had a 5-minute conversation in English",
+              "tr": "5 dakikalık bir İngilizce konuşma yapıldı"
+            }
+          ]
+        },
+        "progress_reports": {
+          "en": "Progress Reports",
+          "tr": "İlerleme Raporları",
+          "reports": [
+            {
+              "en": "Vocabulary: 60% complete",
+              "tr": "Kelime bilgisi: %60 tamamlandı"
+            },
+            {
+              "en": "Grammar: 40% complete",
+              "tr": "Dilbilgisi: %40 tamamlandı"
+            },
+            {
+              "en": "Speaking: 30% complete",
+              "tr": "Konuşma: %30 tamamlandı"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "grammar_notes_tips": {
+        "en": "Grammar Notes and Tips",
+        "tr": "Dilbilgisi Notları ve İpuçları",
+        "notes": [
+          {
+            "topic": {
+              "en": "Using 'a' and 'an'",
+              "tr": "'a' ve 'an' Kullanımı"
+            },
+            "note": {
+              "en": "Use 'a' before consonant sounds and 'an' before vowel sounds.",
+              "tr": "Ünsüz seslerden önce 'a', ünlü seslerden önce 'an' kullanın."
+            },
+            "examples": [
+              {
+                "en": "a book, a dog, a university",
+                "tr": "bir kitap, bir köpek, bir üniversite"
+              },
+              {
+                "en": "an apple, an elephant, an hour",
+                "tr": "bir elma, bir fil, bir saat"
+              }
+            ]
+          },
+          {
+            "topic": {
+              "en": "Simple Present Tense",
+              "tr": "Geniş Zaman"
+            },
+            "note": {
+              "en": "Use simple present for regular actions or facts. Add -s or -es for he/she/it.",
+              "tr": "Düzenli eylemler veya gerçekler için geniş zaman kullanın. O (he/she/it) için -s veya -es ekleyin."
+            },
+            "examples": [
+              {
+                "en": "I play tennis every weekend.",
+                "tr": "Her hafta sonu tenis oynarım."
+              },
+              {
+                "en": "She works in a bank.",
+                "tr": "O bir bankada çalışır."
+              }
+            ]
+          }
+        ]
+      }
     }
-  }
+  ]
 }
