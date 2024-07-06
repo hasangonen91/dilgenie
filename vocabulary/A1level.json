@@ -8,20 +8,22 @@
           "en": "Greetings",
           "tr": "Selamlaşmalar",
           "words": [
-            { "en": "Hello", "tr": "Merhaba", "image":"'https://random-image-pepebigotes.vercel.app/api/random-image'" },
-            { "en": "Goodbye", "tr": "Hoşça kal", "image":"'https://random-image-pepebigotes.vercel.app/api/random-image'" },
-            { "en": "Good morning", "tr": "Günaydın", "image":"'https://random-image-pepebigotes.vercel.app/api/random-image'" },
-            { "en": "Good evening", "tr": "İyi akşamlar", "image":"'https://random-image-pepebigotes.vercel.app/api/random-image'" },
-            { "en": "How are you?", "tr": "Nasılsın?", "image":"'https://random-image-pepebigotes.vercel.app/api/random-image'" }
+            { "en": "Hello", "tr": "Merhaba", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Goodbye", "tr": "Hoşça kal", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Good morning", "tr": "Günaydın", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Good evening", "tr": "İyi akşamlar", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "How are you?", "tr": "Nasılsın?", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" }
           ],
           "example_sentences": [
             {
               "en": "Hello, how are you today?",
-              "tr": "Merhaba, bugün nasılsın?"
+              "tr": "Merhaba, bugün nasılsın?",
+              "image":"https://random-image-pepebigotes.vercel.app/api/random-image"
             },
             {
               "en": "Good morning! It's a beautiful day.",
-              "tr": "Günaydın! Güzel bir gün."
+              "tr": "Günaydın! Güzel bir gün.",
+              "image":"https://random-image-pepebigotes.vercel.app/api/random-image"
             }
           ]
         },
