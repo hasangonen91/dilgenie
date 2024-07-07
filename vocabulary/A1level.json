@@ -1,6 +1,6 @@
 {
   "A1level": [
-    {
+     {
       "vocabulary": {
         "en": "Vocabulary",
         "tr": "Kelime Bilgisi",
@@ -31,20 +31,22 @@
           "en": "Family",
           "tr": "Aile",
           "words": [
-            { "en": "Mother", "tr": "Anne" },
-            { "en": "Father", "tr": "Baba" },
-            { "en": "Sister", "tr": "Kız kardeş" },
-            { "en": "Brother", "tr": "Erkek kardeş" },
-            { "en": "Grandmother", "tr": "Büyükanne" }
+            { "en": "Mother", "tr": "Anne", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Father", "tr": "Baba", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Sister", "tr": "Kız kardeş", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Brother", "tr": "Erkek kardeş", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Grandmother", "tr": "Büyükanne", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" }
           ],
           "example_sentences": [
             {
               "en": "My mother is a teacher.",
-              "tr": "Annem bir öğretmen."
+              "tr": "Annem bir öğretmen.",
+              "image":"https://random-image-pepebigotes.vercel.app/api/random-image"
             },
             {
               "en": "I have two sisters and one brother.",
-              "tr": "İki kız kardeşim ve bir erkek kardeşim var."
+              "tr": "İki kız kardeşim ve bir erkek kardeşim var.",
+              "image":"https://random-image-pepebigotes.vercel.app/api/random-image"
             }
           ]
         },
@@ -55,32 +57,34 @@
             "en": "Days",
             "tr": "Günler",
             "words": [
-              { "en": "Monday", "tr": "Pazartesi" },
-              { "en": "Tuesday", "tr": "Salı" },
-              { "en": "Wednesday", "tr": "Çarşamba" },
-              { "en": "Thursday", "tr": "Perşembe" },
-              { "en": "Friday", "tr": "Cuma" }
+              { "en": "Monday", "tr": "Pazartesi", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "Tuesday", "tr": "Salı", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "Wednesday", "tr": "Çarşamba", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "Thursday", "tr": "Perşembe", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "Friday", "tr": "Cuma", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" }
             ]
           },
           "months": {
             "en": "Months",
             "tr": "Aylar",
             "words": [
-              { "en": "January", "tr": "Ocak" },
-              { "en": "February", "tr": "Şubat" },
-              { "en": "March", "tr": "Mart" },
-              { "en": "April", "tr": "Nisan" },
-              { "en": "May", "tr": "Mayıs" }
+              { "en": "January", "tr": "Ocak", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "February", "tr": "Şubat", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "March", "tr": "Mart", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "April", "tr": "Nisan", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "May", "tr": "Mayıs", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" }
             ]
           },
           "example_sentences": [
             {
               "en": "My birthday is in January.",
-              "tr": "Doğum günüm Ocak ayında."
+              "tr": "Doğum günüm Ocak ayında.",
+              "image":"https://random-image-pepebigotes.vercel.app/api/random-image"
             },
             {
               "en": "I go to school from Monday to Friday.",
-              "tr": "Pazartesiden Cumaya okula giderim."
+              "tr": "Pazartesiden Cumaya okula giderim.",
+              "image":"https://random-image-pepebigotes.vercel.app/api/random-image"
             }
           ]
         },
@@ -88,20 +92,22 @@
           "en": "Places and Directions",
           "tr": "Yerler ve Yönler",
           "words": [
-            { "en": "School", "tr": "Okul" },
-            { "en": "Hospital", "tr": "Hastane" },
-            { "en": "Park", "tr": "Park" },
-            { "en": "Left", "tr": "Sol" },
-            { "en": "Right", "tr": "Sağ" }
+            { "en": "School", "tr": "Okul", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Hospital", "tr": "Hastane", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Park", "tr": "Park", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Left", "tr": "Sol", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Right", "tr": "Sağ", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" }
           ],
           "example_sentences": [
             {
               "en": "The hospital is on the left.",
-              "tr": "Hastane solda."
+              "tr": "Hastane solda.",
+              "image":"https://random-image-pepebigotes.vercel.app/api/random-image"
             },
             {
               "en": "I go to school by bus.",
-              "tr": "Okula otobüsle giderim."
+              "tr": "Okula otobüsle giderim.",
+              "image":"https://random-image-pepebigotes.vercel.app/api/random-image"
             }
           ]
         },
@@ -109,20 +115,22 @@
           "en": "Food and Drinks",
           "tr": "Yiyecek ve İçecekler",
           "words": [
-            { "en": "Water", "tr": "Su" },
-            { "en": "Bread", "tr": "Ekmek" },
-            { "en": "Apple", "tr": "Elma" },
-            { "en": "Milk", "tr": "Süt" },
-            { "en": "Coffee", "tr": "Kahve" }
+            { "en": "Water", "tr": "Su", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Bread", "tr": "Ekmek", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Apple", "tr": "Elma", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Milk", "tr": "Süt", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Coffee", "tr": "Kahve", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" }
           ],
           "example_sentences": [
             {
               "en": "I drink water with my meals.",
-              "tr": "Yemeklerimle su içerim."
+              "tr": "Yemeklerimle su içerim.",
+              "image":"https://random-image-pepebigotes.vercel.app/api/random-image"
             },
             {
               "en": "Do you want coffee or tea?",
-              "tr": "Kahve mi çay mı istersin?"
+              "tr": "Kahve mi çay mı istersin?",
+              "image":"https://random-image-pepebigotes.vercel.app/api/random-image"
             }
           ]
         },
@@ -133,47 +141,50 @@
             "en": "Colors",
             "tr": "Renkler",
             "words": [
-              { "en": "Red", "tr": "Kırmızı" },
-              { "en": "Blue", "tr": "Mavi" },
-              { "en": "Green", "tr": "Yeşil" },
-              { "en": "Yellow", "tr": "Sarı" },
-              { "en": "Black", "tr": "Siyah" }
+              { "en": "Red", "tr": "Kırmızı", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "Blue", "tr": "Mavi", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "Green", "tr": "Yeşil", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "Yellow", "tr": "Sarı", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "Black", "tr": "Siyah", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" }
             ]
           },
           "numbers": {
             "en": "Numbers",
             "tr": "Sayılar",
             "words": [
-              { "en": "One", "tr": "Bir" },
-              { "en": "Two", "tr": "İki" },
-              { "en": "Three", "tr": "Üç" },
-              { "en": "Four", "tr": "Dört" },
-              { "en": "Five", "tr": "Beş" }
+              { "en": "One", "tr": "Bir", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "Two", "tr": "İki", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "Three", "tr": "Üç", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "Four", "tr": "Dört", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "Five", "tr": "Beş", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" }
             ]
           },
           "shapes": {
             "en": "Shapes",
             "tr": "Şekiller",
             "words": [
-              { "en": "Circle", "tr": "Daire" },
-              { "en": "Square", "tr": "Kare" },
-              { "en": "Triangle", "tr": "Üçgen" },
-              { "en": "Rectangle", "tr": "Dikdörtgen" },
-              { "en": "Star", "tr": "Yıldız" }
+              { "en": "Circle", "tr": "Daire", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "Square", "tr": "Kare", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "Triangle", "tr": "Üçgen", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "Rectangle", "tr": "Dikdörtgen", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
+              { "en": "Star", "tr": "Yıldız", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" }
             ]
           },
           "example_sentences": [
             {
               "en": "The sky is blue.",
-              "tr": "Gökyüzü mavi."
+              "tr": "Gökyüzü mavi.",
+              "image":"https://random-image-pepebigotes.vercel.app/api/random-image"
             },
             {
               "en": "I have two red apples.",
-              "tr": "İki kırmızı elmam var."
+              "tr": "İki kırmızı elmam var.",
+              "image":"https://random-image-pepebigotes.vercel.app/api/random-image"
             },
             {
               "en": "The clock is a circle shape.",
-              "tr": "Saat daire şeklindedir."
+              "tr": "Saat daire şeklindedir.",
+              "image":"https://random-image-pepebigotes.vercel.app/api/random-image"
             }
           ]
         }
