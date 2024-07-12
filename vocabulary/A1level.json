@@ -62,6 +62,33 @@
               { "en": "Wednesday", "tr": "Çarşamba", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
               { "en": "Thursday", "tr": "Perşembe", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
               { "en": "Friday", "tr": "Cuma", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" }
+            ],
+            "example_sentences": [
+              {
+                "en": "Monday is the first day of the week.",
+                "tr": "Pazartesi haftanın ilk günüdür.",
+                "image": "https://random-image-pepebigotes.vercel.app/api/random-image"
+              },
+              {
+                "en": "I have a meeting on Tuesday.",
+                "tr": "Salı günü bir toplantım var.",
+                "image": "https://random-image-pepebigotes.vercel.app/api/random-image"
+              },
+              {
+                "en": "Wednesday is in the middle of the week.",
+                "tr": "Çarşamba haftanın ortasındadır.",
+                "image": "https://random-image-pepebigotes.vercel.app/api/random-image"
+              },
+              {
+                "en": "Thursday is almost the weekend.",
+                "tr": "Perşembe neredeyse hafta sonu.",
+                "image": "https://random-image-pepebigotes.vercel.app/api/random-image"
+              },
+              {
+                "en": "Friday is the last workday of the week.",
+                "tr": "Cuma haftanın son iş günüdür.",
+                "image": "https://random-image-pepebigotes.vercel.app/api/random-image"
+              }
             ]
           },
           "months": {
