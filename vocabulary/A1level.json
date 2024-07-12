@@ -37,28 +37,13 @@
         "time_dates": {
           "en": "Time and Dates",
           "tr": "Zaman ve Tarihler",
-          "days": {
-            "en": "Days",
-            "tr": "Günler",
-            "words": [
-              { "en": "Monday", "tr": "Pazartesi", "image": "https://random-image-pepebigotes.vercel.app/api/random-image" },
-              { "en": "Tuesday", "tr": "Salı", "image": "https://random-image-pepebigotes.vercel.app/api/random-image" },
-              { "en": "Wednesday", "tr": "Çarşamba", "image": "https://random-image-pepebigotes.vercel.app/api/random-image" },
-              { "en": "Thursday", "tr": "Perşembe", "image": "https://random-image-pepebigotes.vercel.app/api/random-image" },
-              { "en": "Friday", "tr": "Cuma", "image": "https://random-image-pepebigotes.vercel.app/api/random-image" }
-            ]
-          },
-          "months": {
-            "en": "Months",
-            "tr": "Aylar",
-            "words": [
-              { "en": "January", "tr": "Ocak", "image": "https://random-image-pepebigotes.vercel.app/api/random-image" },
-              { "en": "February", "tr": "Şubat", "image": "https://random-image-pepebigotes.vercel.app/api/random-image" },
-              { "en": "March", "tr": "Mart", "image": "https://random-image-pepebigotes.vercel.app/api/random-image" },
-              { "en": "April", "tr": "Nisan", "image": "https://random-image-pepebigotes.vercel.app/api/random-image" },
-              { "en": "May", "tr": "Mayıs", "image": "https://random-image-pepebigotes.vercel.app/api/random-image" }
-            ]
-          },
+          "words": [
+            { "en": "Monday", "tr": "Pazartesi", "image": "https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Tuesday", "tr": "Salı", "image": "https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Wednesday", "tr": "Çarşamba", "image": "https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Thursday", "tr": "Perşembe", "image": "https://random-image-pepebigotes.vercel.app/api/random-image" },
+            { "en": "Friday", "tr": "Cuma", "image": "https://random-image-pepebigotes.vercel.app/api/random-image" }
+          ],
           "example_sentences": [
             { "en": "My birthday is in January.", "tr": "Doğum günüm Ocak ayında.", "image": "https://random-image-pepebigotes.vercel.app/api/random-image" },
             { "en": "I go to school from Monday to Friday.", "tr": "Pazartesiden Cumaya okula giderim.", "image": "https://random-image-pepebigotes.vercel.app/api/random-image" }
