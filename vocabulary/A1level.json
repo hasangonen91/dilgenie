@@ -53,21 +53,17 @@
         "time_dates": {
           "en": "Time and Dates",
           "tr": "Zaman ve Tarihler",
-          "days": {
-            "en": "Days",
-            "tr": "Günler",
-            "words": [
+           "days_month": {
+            "en": "Days and Months",
+            "tr": "Günler ve Aylar",
+            "days": [
               { "en": "Monday", "tr": "Pazartesi", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
               { "en": "Tuesday", "tr": "Salı", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
               { "en": "Wednesday", "tr": "Çarşamba", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
               { "en": "Thursday", "tr": "Perşembe", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
               { "en": "Friday", "tr": "Cuma", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" }
-            ]
-          },
-          "months": {
-            "en": "Months",
-            "tr": "Aylar",
-            "words": [
+            ],
+            "months": [
               { "en": "January", "tr": "Ocak", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
               { "en": "February", "tr": "Şubat", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
               { "en": "March", "tr": "Mart", "image":"https://random-image-pepebigotes.vercel.app/api/random-image" },
