@@ -1,0 +1,218 @@
+{
+  "A1levelQuestions": [
+    {
+      "questions": {
+        "en": "Questions",
+        "tr": "Sorular",
+        "greetings": {
+          "en": "Greetings",
+          "tr": "Selamlaşmalar",
+          "category": {
+            "questions": [
+              {
+                "sentence": ["Hello, how", "you?"],
+                "options": [
+                  { "id": "1", "text": "are" },
+                  { "id": "2", "text": "is" },
+                  { "id": "3", "text": "am" }
+                ],
+                "answer": "are"
+              },
+              {
+                "sentence": ["Goodbye, see you", "."],
+                "options": [
+                  { "id": "1", "text": "later" },
+                  { "id": "2", "text": "now" },
+                  { "id": "3", "text": "always" }
+                ],
+                "answer": "later"
+              }
+            ]
+          }
+        },
+        "family": {
+          "en": "Family",
+          "tr": "Aile",
+          "category": {
+            "questions": [
+              {
+                "sentence": ["My", "is a teacher."],
+                "options": [
+                  { "id": "1", "text": "mother" },
+                  { "id": "2", "text": "father" },
+                  { "id": "3", "text": "sister" }
+                ],
+                "answer": "mother"
+              },
+              {
+                "sentence": ["I have one", "."],
+                "options": [
+                  { "id": "1", "text": "brother" },
+                  { "id": "2", "text": "uncle" },
+                  { "id": "3", "text": "cousin" }
+                ],
+                "answer": "brother"
+              }
+            ]
+          }
+        },
+        "months": {
+          "en": "Months",
+          "tr": "Aylar",
+          "category": {
+            "questions": [
+              {
+                "sentence": ["My birthday is in", "."],
+                "options": [
+                  { "id": "1", "text": "January" },
+                  { "id": "2", "text": "Monday" },
+                  { "id": "3", "text": "red" }
+                ],
+                "answer": "January"
+              },
+              {
+                "sentence": ["School starts in", "."],
+                "options": [
+                  { "id": "1", "text": "September" },
+                  { "id": "2", "text": "Friday" },
+                  { "id": "3", "text": "green" }
+                ],
+                "answer": "September"
+              }
+            ]
+          }
+        },
+        "years": {
+          "en": "Years",
+          "tr": "Yıllar",
+          "category": {
+            "questions": [
+              {
+                "sentence": ["This year is", "."],
+                "options": [
+                  { "id": "1", "text": "2024" },
+                  { "id": "2", "text": "Tuesday" },
+                  { "id": "3", "text": "blue" }
+                ],
+                "answer": "2024"
+              },
+              {
+                "sentence": ["Next year will be", "."],
+                "options": [
+                  { "id": "1", "text": "2025" },
+                  { "id": "2", "text": "Monday" },
+                  { "id": "3", "text": "red" }
+                ],
+                "answer": "2025"
+              }
+            ]
+          }
+        },
+        "colors_numbers_shapes": {
+          "en": "Colors, Numbers, and Shapes",
+          "tr": "Renkler, Sayılar ve Şekiller",
+          "category": {
+            "questions": [
+              {
+                "sentence": ["The sky is", "."],
+                "options": [
+                  { "id": "1", "text": "blue" },
+                  { "id": "2", "text": "circle" },
+                  { "id": "3", "text": "three" }
+                ],
+                "answer": "blue"
+              },
+              {
+                "sentence": ["I have", "apples."],
+                "options": [
+                  { "id": "1", "text": "three" },
+                  { "id": "2", "text": "green" },
+                  { "id": "3", "text": "circle" }
+                ],
+                "answer": "three"
+              }
+            ]
+          }
+        },
+        "days": {
+          "en": "Days",
+          "tr": "Günler",
+          "category": {
+            "questions": [
+              {
+                "sentence": ["Today is", "."],
+                "options": [
+                  { "id": "1", "text": "Monday" },
+                  { "id": "2", "text": "January" },
+                  { "id": "3", "text": "green" }
+                ],
+                "answer": "Monday"
+              },
+              {
+                "sentence": ["Tomorrow is", "."],
+                "options": [
+                  { "id": "1", "text": "Tuesday" },
+                  { "id": "2", "text": "Sunday" },
+                  { "id": "3", "text": "red" }
+                ],
+                "answer": "Tuesday"
+              }
+            ]
+          }
+        },
+        "places": {
+          "en": "Places",
+          "tr": "Yerler",
+          "category": {
+            "questions": [
+              {
+                "sentence": ["We are going to the", "."],
+                "options": [
+                  { "id": "1", "text": "park" },
+                  { "id": "2", "text": "blue" },
+                  { "id": "3", "text": "Sunday" }
+                ],
+                "answer": "park"
+              },
+              {
+                "sentence": ["The", "is big."],
+                "options": [
+                  { "id": "1", "text": "school" },
+                  { "id": "2", "text": "red" },
+                  { "id": "3", "text": "Monday" }
+                ],
+                "answer": "school"
+              }
+            ]
+          }
+        },
+        "directions": {
+          "en": "Directions",
+          "tr": "Yönler",
+          "category": {
+            "questions": [
+              {
+                "sentence": ["Turn", "at the corner."],
+                "options": [
+                  { "id": "1", "text": "left" },
+                  { "id": "2", "text": "red" },
+                  { "id": "3", "text": "Thursday" }
+                ],
+                "answer": "left"
+              },
+              {
+                "sentence": ["Go", "then turn right."],
+                "options": [
+                  { "id": "1", "text": "straight" },
+                  { "id": "2", "text": "blue" },
+                  { "id": "3", "text": "Friday" }
+                ],
+                "answer": "straight"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
