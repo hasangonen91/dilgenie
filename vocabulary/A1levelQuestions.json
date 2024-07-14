@@ -12,8 +12,8 @@
               {
                 "sentence": ["Hello, how", "", "you?"],
                 "options": [
-                  { "id": "1", "text": "are" },
-                  { "id": "2", "text": "is" },
+                  { "id": "1", "text": "is" },
+                  { "id": "2", "text": "are" },
                   { "id": "3", "text": "am" }
                 ],
                 "answer": "are"
@@ -21,9 +21,9 @@
               {
                 "sentence": ["Goodbye, see you", "", "."],
                 "options": [
-                  { "id": "1", "text": "later" },
+                  { "id": "1", "text": "always" },
                   { "id": "2", "text": "now" },
-                  { "id": "3", "text": "always" }
+                  { "id": "3", "text": "later" }
                 ],
                 "answer": "later"
               }
@@ -38,17 +38,17 @@
               {
                 "sentence": ["My", "", "is a teacher."],
                 "options": [
-                  { "id": "1", "text": "mother" },
+                  { "id": "1", "text": "sister" },
                   { "id": "2", "text": "father" },
-                  { "id": "3", "text": "sister" }
+                  { "id": "3", "text": "mother" }
                 ],
                 "answer": "mother"
               },
               {
                 "sentence": ["I have one", "", "."],
                 "options": [
-                  { "id": "1", "text": "brother" },
-                  { "id": "2", "text": "uncle" },
+                  { "id": "1", "text": "uncle" },
+                  { "id": "2", "text": "brother" },
                   { "id": "3", "text": "cousin" }
                 ],
                 "answer": "brother"
