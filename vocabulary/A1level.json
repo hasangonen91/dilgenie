@@ -18,6 +18,7 @@
             "example_sentences": [
               {"en": "Hello, how are you today?", "tr": "Merhaba, bugün nasılsın?", "image": "https://random-image-pepebigotes.vercel.app/api/random-image"},
               {"en": "Good morning! It's a beautiful day.", "tr": "Günaydın! Güzel bir gün.", "image": "https://random-image-pepebigotes.vercel.app/api/random-image"}
+              {"en": "", "tr": "", "image": ""}
             ]
           }
         },
@@ -35,6 +36,7 @@
             "example_sentences": [
               {"en": "My mother is a teacher.", "tr": "Annem bir öğretmen.", "image": "https://random-image-pepebigotes.vercel.app/api/random-image"},
               {"en": "I have two sisters and one brother.", "tr": "İki kız kardeşim ve bir erkek kardeşim var.", "image": "https://random-image-pepebigotes.vercel.app/api/random-image"}
+              {"en": "", "tr": "", "image": ""}
             ]
           }
         },
@@ -59,6 +61,7 @@
             "example_sentences": [
               {"en": "My birthday is in January.", "tr": "Doğum günüm Ocak ayında.", "image": "https://random-image-pepebigotes.vercel.app/api/random-image"},
               {"en": "We have a holiday in August.", "tr": "Ağustos'ta tatilimiz var.", "image": "https://random-image-pepebigotes.vercel.app/api/random-image"}
+              {"en": "", "tr": "", "image": ""}
             ]
           }
         },
