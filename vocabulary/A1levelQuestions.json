@@ -19,7 +19,7 @@
                 "answer": "are"
               },
               {
-                "sentence": ["Goodbye, see you", ".", ""],
+                "sentence": ["Goodbye, see you", "", "."],
                 "options": [
                   { "id": "1", "text": "later" },
                   { "id": "2", "text": "now" },
