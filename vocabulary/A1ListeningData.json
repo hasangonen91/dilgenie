@@ -1,0 +1,446 @@
+{
+  "greetings": {
+    "questions": [
+      {
+        "question": "Hello, how are you?",
+        "image": "https://random-image.example.com/hello",
+        "options": ["Hello, how are you?", "Goodbye", "See you later"],
+        "correctOption": "Hello, how are you?",
+        "translation": "Merhaba, nasılsın?"
+      },
+      {
+        "question": "Good morning!",
+        "image": "https://random-image.example.com/morning",
+        "options": ["Good night!", "Good morning!", "Good evening!"],
+        "correctOption": "Good morning!",
+        "translation": "Günaydın!"
+      },
+      {
+        "question": "Good evening!",
+        "image": "https://random-image.example.com/evening",
+        "options": ["Good night!", "Good morning!", "Good evening!"],
+        "correctOption": "Good evening!",
+        "translation": "İyi akşamlar!"
+      },
+      {
+        "question": "How do you do?",
+        "image": "https://random-image.example.com/how-do-you-do",
+        "options": ["How do you do?", "Goodbye", "See you later"],
+        "correctOption": "How do you do?",
+        "translation": "Nasılsınız?"
+      },
+      {
+        "question": "Nice to meet you!",
+        "image": "https://random-image.example.com/nice-to-meet-you",
+        "options": ["Nice to meet you!", "Goodbye", "See you later"],
+        "correctOption": "Nice to meet you!",
+        "translation": "Tanıştığımıza memnun oldum!"
+      }
+    ]
+  },
+  "family": {
+    "questions": [
+      {
+        "question": "This is my father.",
+        "image": "https://random-image.example.com/father",
+        "options": [
+          "This is my father.",
+          "This is my mother.",
+          "This is my brother."
+        ],
+        "correctOption": "This is my father.",
+        "translation": "Bu benim babam."
+      },
+      {
+        "question": "My mother is cooking.",
+        "image": "https://random-image.example.com/mother",
+        "options": [
+          "My mother is cooking.",
+          "My mother is reading.",
+          "My mother is sleeping."
+        ],
+        "correctOption": "My mother is cooking.",
+        "translation": "Anneme yemek yapıyor."
+      },
+      {
+        "question": "I have one brother.",
+        "image": "https://random-image.example.com/brother",
+        "options": [
+          "I have one brother.",
+          "I have two brothers.",
+          "I have one sister."
+        ],
+        "correctOption": "I have one brother.",
+        "translation": "Bir erkek kardeşim var."
+      },
+      {
+        "question": "She is my sister.",
+        "image": "https://random-image.example.com/sister",
+        "options": [
+          "She is my sister.",
+          "She is my friend.",
+          "She is my cousin."
+        ],
+        "correctOption": "She is my sister.",
+        "translation": "O benim kız kardeşim."
+      },
+      {
+        "question": "My father is a teacher.",
+        "image": "https://random-image.example.com/father-teacher",
+        "options": [
+          "My father is a teacher.",
+          "My father is a doctor.",
+          "My father is a driver."
+        ],
+        "correctOption": "My father is a teacher.",
+        "translation": "Babam bir öğretmendir."
+      }
+    ]
+  },
+  "months": {
+    "questions": [
+      {
+        "question": "We are in July.",
+        "image": "https://random-image.example.com/july",
+        "options": [
+          "We are in January.",
+          "We are in July.",
+          "We are in December."
+        ],
+        "correctOption": "We are in July.",
+        "translation": "Temmuzdayız."
+      },
+      {
+        "question": "August is hot.",
+        "image": "https://random-image.example.com/august",
+        "options": ["August is cold.", "August is hot.", "August is rainy."],
+        "correctOption": "August is hot.",
+        "translation": "Ağustos sıcaktır."
+      },
+      {
+        "question": "December is the last month.",
+        "image": "https://random-image.example.com/december",
+        "options": [
+          "December is the first month.",
+          "December is the last month.",
+          "December is the middle month."
+        ],
+        "correctOption": "December is the last month.",
+        "translation": "Aralık son aydır."
+      },
+      {
+        "question": "My birthday is in June.",
+        "image": "https://random-image.example.com/june",
+        "options": [
+          "My birthday is in May.",
+          "My birthday is in June.",
+          "My birthday is in July."
+        ],
+        "correctOption": "My birthday is in June.",
+        "translation": "Doğum günüm Haziran'da."
+      },
+      {
+        "question": "March comes before April.",
+        "image": "https://random-image.example.com/march",
+        "options": [
+          "March comes after April.",
+          "March comes before April.",
+          "March comes after May."
+        ],
+        "correctOption": "March comes before April.",
+        "translation": "Mart, Nisan'dan önce gelir."
+      }
+    ]
+  },
+  "years": {
+    "questions": [
+      {
+        "question": "The year is 2024.",
+        "image": "https://random-image.example.com/2024",
+        "options": [
+          "The year is 2024.",
+          "The year is 2023.",
+          "The year is 2025."
+        ],
+        "correctOption": "The year is 2024.",
+        "translation": "Yıl 2024."
+      },
+      {
+        "question": "I was born in 1995.",
+        "image": "https://random-image.example.com/1995",
+        "options": [
+          "I was born in 1994.",
+          "I was born in 1995.",
+          "I was born in 1996."
+        ],
+        "correctOption": "I was born in 1995.",
+        "translation": "1995 yılında doğdum."
+      },
+      {
+        "question": "The year 2000 was a special year.",
+        "image": "https://random-image.example.com/2000",
+        "options": [
+          "The year 2000 was a special year.",
+          "The year 1999 was a special year.",
+          "The year 2001 was a special year."
+        ],
+        "correctOption": "The year 2000 was a special year.",
+        "translation": "2000 yılı özel bir yıl oldu."
+      },
+      {
+        "question": "The year is 2010.",
+        "image": "https://random-image.example.com/2010",
+        "options": [
+          "The year is 2010.",
+          "The year is 2009.",
+          "The year is 2011."
+        ],
+        "correctOption": "The year is 2010.",
+        "translation": "Yıl 2010."
+      },
+      {
+        "question": "In 2022, I started school.",
+        "image": "https://random-image.example.com/2022",
+        "options": [
+          "In 2021, I started school.",
+          "In 2022, I started school.",
+          "In 2023, I started school."
+        ],
+        "correctOption": "In 2022, I started school.",
+        "translation": "2022 yılında okula başladım."
+      }
+    ]
+  },
+  "colors_numbers_shapes": {
+    "questions": [
+      {
+        "question": "The car is red.",
+        "image": "https://random-image.example.com/red-car",
+        "options": ["The car is blue.", "The car is red.", "The car is green."],
+        "correctOption": "The car is red.",
+        "translation": "Araba kırmızı."
+      },
+      {
+        "question": "There are three apples.",
+        "image": "https://random-image.example.com/apples",
+        "options": [
+          "There are two apples.",
+          "There are three apples.",
+          "There are four apples."
+        ],
+        "correctOption": "There are three apples.",
+        "translation": "Üç elma var."
+      },
+      {
+        "question": "The ball is round.",
+        "image": "https://random-image.example.com/ball",
+        "options": [
+          "The ball is square.",
+          "The ball is round.",
+          "The ball is flat."
+        ],
+        "correctOption": "The ball is round.",
+        "translation": "Top yuvarlaktır."
+      },
+      {
+        "question": "The house is big.",
+        "image": "https://random-image.example.com/house",
+        "options": [
+          "The house is small.",
+          "The house is big.",
+          "The house is medium."
+        ],
+        "correctOption": "The house is big.",
+        "translation": "Ev büyük."
+      },
+      {
+        "question": "I have five pens.",
+        "image": "https://random-image.example.com/pens",
+        "options": [
+          "I have five pens.",
+          "I have six pens.",
+          "I have four pens."
+        ],
+        "correctOption": "I have five pens.",
+        "translation": "Beş kalemim var."
+      }
+    ]
+  },
+  "days": {
+    "questions": [
+      {
+        "question": "Today is Monday.",
+        "image": "https://random-image.example.com/monday",
+        "options": [
+          "Today is Monday.",
+          "Today is Tuesday.",
+          "Today is Wednesday."
+        ],
+        "correctOption": "Today is Monday.",
+        "translation": "Bugün Pazartesi."
+      },
+      {
+        "question": "Tomorrow is Friday.",
+        "image": "https://random-image.example.com/friday",
+        "options": [
+          "Tomorrow is Thursday.",
+          "Tomorrow is Friday.",
+          "Tomorrow is Saturday."
+        ],
+        "correctOption": "Tomorrow is Friday.",
+        "translation": "Yarın Cuma."
+      },
+      {
+        "question": "Yesterday was Sunday.",
+        "image": "https://random-image.example.com/sunday",
+        "options": [
+          "Yesterday was Saturday.",
+          "Yesterday was Sunday.",
+          "Yesterday was Monday."
+        ],
+        "correctOption": "Yesterday was Sunday.",
+        "translation": "Dün Pazar'dı."
+      },
+      {
+        "question": "Today is a weekend.",
+        "image": "https://random-image.example.com/weekend",
+        "options": [
+          "Today is a weekday.",
+          "Today is a weekend.",
+          "Today is a holiday."
+        ],
+        "correctOption": "Today is a weekend.",
+        "translation": "Bugün hafta sonu."
+      },
+      {
+        "question": "Next week is important.",
+        "image": "https://random-image.example.com/next-week",
+        "options": [
+          "Next week is important.",
+          "Next week is boring.",
+          "Next week is short."
+        ],
+        "correctOption": "Next week is important.",
+        "translation": "Gelecek hafta önemli."
+      }
+    ]
+  },
+  "places": {
+    "questions": [
+      {
+        "question": "The cat is in the kitchen.",
+        "image": "https://random-image.example.com/kitchen",
+        "options": [
+          "The cat is in the living room.",
+          "The cat is in the kitchen.",
+          "The cat is in the bedroom."
+        ],
+        "correctOption": "The cat is in the kitchen.",
+        "translation": "Kedi mutfakta."
+      },
+      {
+        "question": "I am at the park.",
+        "image": "https://random-image.example.com/park",
+        "options": [
+          "I am at the park.",
+          "I am at the school.",
+          "I am at home."
+        ],
+        "correctOption": "I am at the park.",
+        "translation": "Parktayım."
+      },
+      {
+        "question": "She is in the library.",
+        "image": "https://random-image.example.com/library",
+        "options": [
+          "She is in the library.",
+          "She is in the kitchen.",
+          "She is in the garden."
+        ],
+        "correctOption": "She is in the library.",
+        "translation": "O kütüphanede."
+      },
+      {
+        "question": "The dog is in the garden.",
+        "image": "https://random-image.example.com/garden",
+        "options": [
+          "The dog is in the garden.",
+          "The dog is in the house.",
+          "The dog is in the garage."
+        ],
+        "correctOption": "The dog is in the garden.",
+        "translation": "Köpek bahçede."
+      },
+      {
+        "question": "We are at the beach.",
+        "image": "https://random-image.example.com/beach",
+        "options": [
+          "We are at the beach.",
+          "We are at the mall.",
+          "We are at the zoo."
+        ],
+        "correctOption": "We are at the beach.",
+        "translation": "Biz plajdayız."
+      }
+    ]
+  },
+  "directions": {
+    "questions": [
+      {
+        "question": "Go straight and turn left.",
+        "image": "https://random-image.example.com/left-turn",
+        "options": [
+          "Go straight and turn right.",
+          "Go straight and turn left.",
+          "Go straight and turn around."
+        ],
+        "correctOption": "Go straight and turn left.",
+        "translation": "Dümdüz git ve sola dön."
+      },
+      {
+        "question": "Turn right at the corner.",
+        "image": "https://random-image.example.com/right-turn",
+        "options": [
+          "Turn left at the corner.",
+          "Turn right at the corner.",
+          "Go straight at the corner."
+        ],
+        "correctOption": "Turn right at the corner.",
+        "translation": "Köşede sağa dön."
+      },
+      {
+        "question": "Go past the bank.",
+        "image": "https://random-image.example.com/bank",
+        "options": [
+          "Go past the bank.",
+          "Go to the bank.",
+          "Go before the bank."
+        ],
+        "correctOption": "Go past the bank.",
+        "translation": "Bankayı geç."
+      },
+      {
+        "question": "The store is on the left.",
+        "image": "https://random-image.example.com/store-left",
+        "options": [
+          "The store is on the right.",
+          "The store is on the left.",
+          "The store is in the middle."
+        ],
+        "correctOption": "The store is on the left.",
+        "translation": "Mağaza solda."
+      },
+      {
+        "question": "Turn left at the traffic lights.",
+        "image": "https://random-image.example.com/traffic-lights",
+        "options": [
+          "Turn right at the traffic lights.",
+          "Turn left at the traffic lights.",
+          "Go straight at the traffic lights."
+        ],
+        "correctOption": "Turn left at the traffic lights.",
+        "translation": "Trafik ışıklarında sola dön."
+      }
+    ]
+  }
+}
