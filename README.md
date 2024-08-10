@@ -1,6 +1,6 @@
 # Dilgenie
 
-Dilgenie, çeşitli kategorilerde İngilizce dinleme becerilerini geliştirmeye yönelik bir mobil uygulamadır. Uygulama, dinleme testleri ve çoktan seçmeli sorular aracılığıyla kullanıcıların İngilizce dil becerilerini geliştirmelerine yardımcı olur.
+Dilgenie, çeşitli kategorilerde İngilizce becerilerini geliştirmeye yönelik bir mobil uygulamadır. 
 
 ## Özellikler
 
@@ -9,7 +9,7 @@ Dilgenie, çeşitli kategorilerde İngilizce dinleme becerilerini geliştirmeye 
 - Doğru cevapları kontrol etme ve skorunuzu görme.
 - Soruların Türkçe çevirilerini gösterme.
 
-## Kategoriler
+## Kategoriler 
 
 - Greetings (Selamlaşmalar)
 - Family (Aile)
@@ -29,11 +29,3 @@ Dilgenie, çeşitli kategorilerde İngilizce dinleme becerilerini geliştirmeye 
 - React Native CLI
 - Android Studio (Android geliştirme için)
 - Xcode (iOS geliştirme için, macOS gerekli)
-
-### Adımlar
-
-1. **Projeyi Klonlayın**
-
-   ```bash
-   git clone https://github.com/hasangonen91/dilgenie.git
-   cd dilgenie
