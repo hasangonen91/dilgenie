@@ -11,7 +11,7 @@
 - [x] **Video: shopping kategorisi** — `video/videos.json` dosyasına `shopping` anahtarını ekle (aynı format). Alışveriş konulu küçük diyalog, `questions` TAM 2. `videoUrl` BOŞ.
 - [x] **Video: emotions kategorisi** — `video/videos.json` dosyasına `emotions` anahtarını ekle (aynı format). Duygular/duygular konulu kısa diyalog, `questions` TAM 2. `videoUrl` BOŞ.
 - [x] **Video: conversations kategorisi** — `video/videos.json` dosyasına `conversations` anahtarını ekle (aynı format). Genel sohbet konulu diyalog, `questions` TAM 2. `videoUrl` BOŞ.
-- [ ] **Video: family kategorisi** — `video/videos.json` dosyasına `family` anahtarını ekle (aynı format). Aile konulu diyalog, `questions` TAM 2. `videoUrl` BOŞ.
+- [x] **Video: family kategorisi** — `video/videos.json` dosyasına `family` anahtarını ekle (aynı format). Aile konulu diyalog, `questions` TAM 2. `videoUrl` BOŞ.
 
 
 ## A1ListeningData.json (Dinleme Testleri — en kolay)
