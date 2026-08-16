@@ -188,5 +188,40 @@
         }
       ]
     }
+  ],
+  "conversations": [
+    {
+      "id": "conv_001",
+      "title": "Casual Conversation",
+      "title_tr": "Casual Sohbet",
+      "videoUrl": "",
+      "thumbnail": "",
+      "subtitle": "Practice everyday English conversation.",
+      "subtitle_tr": "Günlük İngilizce konuşmasını pratiğe alın.",
+      "transcript": "Hi! How's your day going? I'm doing well, thanks. What about you?",
+      "transcript_tr": "Merhaba! Günün nasıl geçiyor? Ben iyiyim, teşekkür ederim. Sen nasılsın?",
+      "questions": [
+        {
+          "question": "How is the speaker feeling?",
+          "options": [
+            "Good",
+            "Tired",
+            "Sad"
+          ],
+          "correctOption": "Good",
+          "translation": "Konuşmacı nasıl hissediyor?"
+        },
+        {
+          "question": "What does the speaker ask at the end?",
+          "options": [
+            "What about you?",
+            "How are you?",
+            "Where are you?"
+          ],
+          "correctOption": "What about you?",
+          "translation": "Konuşmacı sonunda ne soruyor?"
+        }
+      ]
+    }
   ]
 }
