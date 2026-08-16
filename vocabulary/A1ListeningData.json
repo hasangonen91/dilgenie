@@ -824,5 +824,64 @@
         "translation": "Kulaklarınızı sallayın."
       }
     ]
+  },
+  "transport": {
+    "questions": [
+      {
+        "question": "I drive a car to the supermarket.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "I drive a car to the supermarket.",
+          "I drive a bus to the supermarket.",
+          "I drive a train to the supermarket."
+        ],
+        "correctOption": "I drive a car to the supermarket.",
+        "translation": "Süpermarkete arabayla giderim."
+      },
+      {
+        "question": "She takes the bus to school every day.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "She takes the bus to school every day.",
+          "She takes the car to school every day.",
+          "She takes the bike to school every day."
+        ],
+        "correctOption": "She takes the bus to school every day.",
+        "translation": "Her gün okula otobüsle gider."
+      },
+      {
+        "question": "We will travel by train to Istanbul.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "We will travel by train to Istanbul.",
+          "We will travel by car to Istanbul.",
+          "We will travel by plane to Istanbul."
+        ],
+        "correctOption": "We will travel by train to Istanbul.",
+        "translation": "İstanbul'a trenle seyahat edeceğiz."
+      },
+      {
+        "question": "They flew to Spain by plane last summer.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "They flew to Spain by plane last summer.",
+          "They flew to Spain by bus last summer.",
+          "They flew to Spain by bike last summer."
+        ],
+        "correctOption": "They flew to Spain by plane last summer.",
+        "translation": "Geçen yaz uçakla İspanya'ya uçtular."
+      },
+      {
+        "question": "He likes to ride his bike in the park.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "He likes to ride his bike in the park.",
+          "He likes to ride his car in the park.",
+          "He likes to ride his train in the park."
+        ],
+        "correctOption": "He likes to ride his bike in the park.",
+        "translation": "Parkta bisiklet sürmeyi sever."
+      }
+    ]
   }
 }
