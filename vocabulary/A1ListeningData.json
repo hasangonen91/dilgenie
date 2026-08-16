@@ -647,5 +647,64 @@
         "translation": "Bu nedir?"
       }
     ]
+  },
+  "weather": {
+    "questions": [
+      {
+        "question": "It is sunny today.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "It is sunny today.",
+          "It is rainy today.",
+          "It is windy today."
+        ],
+        "correctOption": "It is sunny today.",
+        "translation": "Bugün güneşli."
+      },
+      {
+        "question": "Look at the dark clouds.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "Look at the dark clouds.",
+          "Look at the bright sun.",
+          "Look at the falling snow."
+        ],
+        "correctOption": "Look at the dark clouds.",
+        "translation": "Koyu bulutlara bak."
+      },
+      {
+        "question": "The wind is blowing hard.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "The wind is blowing hard.",
+          "The rain is falling softly.",
+          "The snow is melting."
+        ],
+        "correctOption": "The wind is blowing hard.",
+        "translation": "Rüzgar şiddetle esiyor."
+      },
+      {
+        "question": "It started to rain heavily.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "It started to rain heavily.",
+          "It started to snow lightly.",
+          "It started to clear up."
+        ],
+        "correctOption": "It started to rain heavily.",
+        "translation": "Yoğun bir şekilde yağmur yağmaya başladı."
+      },
+      {
+        "question": "Children are playing in the snow.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "Children are playing in the snow.",
+          "Children are flying kites.",
+          "Children are swimming in the pool."
+        ],
+        "correctOption": "Children are playing in the snow.",
+        "translation": "Çocuklar kar içinde oynuyor."
+      }
+    ]
   }
 }
