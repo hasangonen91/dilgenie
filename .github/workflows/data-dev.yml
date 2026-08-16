@@ -3,7 +3,7 @@ name: Data Dev Bot
 on:
   schedule:
     # 24 saat üretim: her 3 saatte bir (günde 8 kez)
-    - cron: '0 */3 * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 permissions:
