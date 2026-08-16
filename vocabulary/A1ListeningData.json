@@ -765,5 +765,64 @@
         "translation": "Pilot nerede çalışır?"
       }
     ]
+  },
+  "body_parts": {
+    "questions": [
+      {
+        "question": "Touch your head.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "Touch your head",
+          "Touch your toe",
+          "Touch your ear"
+        ],
+        "correctOption": "Touch your head",
+        "translation": "Başına dokun."
+      },
+      {
+        "question": "Wave your hand.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "Wave your hand",
+          "Close your eyes",
+          "Stamp your foot"
+        ],
+        "correctOption": "Wave your hand",
+        "translation": "Elinizi sallayın."
+      },
+      {
+        "question": "Blink your eye.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "Blink your eye",
+          "Wiggle your nose",
+          "Shake your leg"
+        ],
+        "correctOption": "Blink your eye",
+        "translation": "Gözünüzü kırpın."
+      },
+      {
+        "question": "Stamp your foot.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "Stamp your foot",
+          "Clap your hands",
+          "Nod your head"
+        ],
+        "correctOption": "Stamp your foot",
+        "translation": "Ayakla basın."
+      },
+      {
+        "question": "Wiggle your ear.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "Wiggle your ear",
+          "Tap your knee",
+          "Shake your shoulder"
+        ],
+        "correctOption": "Wiggle your ear",
+        "translation": "Kulaklarınızı sallayın."
+      }
+    ]
   }
 }
