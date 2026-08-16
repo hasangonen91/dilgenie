@@ -223,5 +223,40 @@
         }
       ]
     }
+  ],
+  "family": [
+    {
+      "id": "fam_001",
+      "title": "Family Dinner",
+      "title_tr": "Aile Akşam Yemeği",
+      "videoUrl": "",
+      "thumbnail": "",
+      "subtitle": "Learn vocabulary about family members and daily conversations.",
+      "subtitle_tr": "Aile bireyleri ve günlük konuşmalar ile ilgili kelimeleri öğrenin.",
+      "transcript": "Mom: Hey, sweetheart, how was school today? Child: It was good! I made a new friend named Lily. Mom: That's wonderful! Did you finish your homework? Child: Yes, I did it after dinner.",
+      "transcript_tr": "Anne: Hey, tatlım, bugün nasıl geçti okul? Çocuk: İyiydi! Lily adında yeni bir arkadaş edindim. Anne: Harika! Ödevini yaptın mı? Çocuk: Evet, akşam yemesinden sonra yaptım.",
+      "questions": [
+        {
+          "question": "What is the child's friend's name?",
+          "options": [
+            "Lily",
+            "Anna",
+            "Sarah"
+          ],
+          "correctOption": "Lily",
+          "translation": "Çocuğun arkadaşının adı nedir?"
+        },
+        {
+          "question": "What did the child do after dinner?",
+          "options": [
+            "Played video games",
+            "Finished homework",
+            "Watched TV"
+          ],
+          "correctOption": "Finished homework",
+          "translation": "Akşam yemesinden sonra çocuk ne yaptı?"
+        }
+      ]
+    }
   ]
 }
