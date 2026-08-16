@@ -71,8 +71,13 @@ function parseTask(roadmapText) {
 // ---------- hedef dosya + kategori ----------
 function parseTarget(detail) {
   const file = (detail.match(/`([^`]+\.json)`/) || [])[1];
-  const key = (detail.match(/(?:anahtarı|kategorisi|anahtar)\)?[^a-zA-Z]*?:?\s*`?([a-z_]+)`?/i) || [])[1] ||
-              (detail.match(/\*\*([a-z_]+)\*\*/) || [])[1] || null;
+  // "`<key>` anahtarINI" veya "<key> kategorisi" veya "**<key> kategorisi**" desenlerini yakala.
+  const m = detail.match(/`([a-z_]+)`\s*anahtar/i) ||
+            detail.match(/`([a-z_]+)`\s*kategorisi/i) ||
+            detail.match(/([a-z_]+)\s*anahtarı\s*ekle/i) ||
+            detail.match(/\*\*([a-z_]+)\s*kategorisi\*\*/i) ||
+            detail.match(/\*\*([a-z_]+)\*\*/i);
+  const key = m ? m[1] : null;
   return { file, key };
 }
 
