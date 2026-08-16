@@ -153,5 +153,40 @@
         }
       ]
     }
+  ],
+  "emotions": [
+    {
+      "id": "emo_001",
+      "title": "Expressing Feelings",
+      "title_tr": "Duyguları İfade Etme",
+      "videoUrl": "",
+      "thumbnail": "",
+      "subtitle": "Learn how to talk about emotions in English.",
+      "subtitle_tr": "İngilizce'de duygular hakkında nasıl konuşulacağını öğrenin.",
+      "transcript": "I feel happy today because I got a good grade. How do you feel?",
+      "transcript_tr": "Bugün iyi bir not aldığım için mutlu hissediyorum. Sen nasıl hissediyorsun?",
+      "questions": [
+        {
+          "question": "How does the speaker feel?",
+          "options": [
+            "Happy",
+            "Sad",
+            "Angry"
+          ],
+          "correctOption": "Happy",
+          "translation": "Konuşan nasıl hissediyor?"
+        },
+        {
+          "question": "Why does the speaker feel happy?",
+          "options": [
+            "Because they got a good grade",
+            "Because they ate pizza",
+            "Because they watched a movie"
+          ],
+          "correctOption": "Because they got a good grade",
+          "translation": "Konuşan neden mutlu?"
+        }
+      ]
+    }
   ]
 }
