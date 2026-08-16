@@ -22,7 +22,7 @@
 - [x] **A1ListeningData: weather kategorisi** — `vocabulary/A1ListeningData.json` dosyasına `weather` anahtarı ekle (aynı format). `questions` dizisinde TAM 5 soru, konu: hava durumu (sunny, rainy, windy, cloudy, snowy vb.). `correctOption` options'tan biri, `translation` Türkçe.
 - [x] **A1ListeningData: occupations kategorisi** — `vocabulary/A1ListeningData.json` dosyasına `occupations` anahtarı ekle (aynı format). `questions` dizisinde TAM 5 soru, konu: meslekler (teacher, doctor, engineer, farmer, pilot vb.).
 - [x] **A1ListeningData: body_parts kategorisi** — `vocabulary/A1ListeningData.json` dosyasına `body_parts` anahtarı ekle (aynı format). `questions` dizisinde TAM 5 soru, konu: vücut bölümleri (head, hand, eye, foot, ear vb.).
-- [ ] **A1ListeningData: transport kategorisi** — `vocabulary/A1ListeningData.json` dosyasına `transport` anahtarı ekle (aynı format). `questions` dizisinde TAM 5 soru, konu: ulaşım araçları (car, bus, train, plane, bike vb.).
+- [x] **A1ListeningData: transport kategorisi** — `vocabulary/A1ListeningData.json` dosyasına `transport` anahtarı ekle (aynı format). `questions` dizisinde TAM 5 soru, konu: ulaşım araçları (car, bus, train, plane, bike vb.).
 - [ ] **A1ListeningData: school kategorisi** — `vocabulary/A1ListeningData.json` dosyasına `school` anahtarı ekle (aynı format). `questions` dizisinde TAM 5 soru, konu: okul (book, pen, teacher, classroom, homework vb.).
 
 ## A1level.json (Kelime Bilgisi)
