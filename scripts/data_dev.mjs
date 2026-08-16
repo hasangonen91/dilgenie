@@ -176,9 +176,11 @@ Otomatik olarak üretildi, JSON doğrulandı.`;
   if (!createRes) { console.error('❌ PR oluşturulamadı'); process.exit(1); }
   console.log('PR:', createRes);
 
-  // Otonom squash merge
+  // Otonom squash merge (PR numarası ver)
   await sleep(12000);
-  const mergeRes = sh(`gh pr merge --repo ${REPO} --squash --delete-branch --admin`);
+  const prNum = (createRes.match(/(\d+)$/) || [])[1];
+  if (!prNum) { console.log('⚠️ PR numarası çözülemedi, merge atlandı:', createRes); return; }
+  const mergeRes = sh(`gh pr merge ${prNum} --repo ${REPO} --squash --delete-branch --admin`);
   if (mergeRes.includes('already merged')) console.log('⚠️ PR zaten merge edilmiş');
   else console.log('✅ Merge:', mergeRes.slice(0, 100));
 
