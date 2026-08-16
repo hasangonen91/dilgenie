@@ -471,118 +471,122 @@
       }
     ]
   },
-  "animals": [
-    {
-      "question": "I see a cat.",
-      "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
-      "options": [
-        "I see a cat.",
-        "I see a dog.",
-        "I see a bird."
-      ],
-      "correctOption": "I see a cat.",
-      "translation": "Bir kedi görüyorum."
-    },
-    {
-      "question": "I hear a dog barking.",
-      "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
-      "options": [
-        "I hear a dog barking.",
-        "I hear a cat meowing.",
-        "I hear a bird singing."
-      ],
-      "correctOption": "I hear a dog barking.",
-      "translation": "Bir köpeğin havladığını duyarım."
-    },
-    {
-      "question": "The bird is flying.",
-      "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
-      "options": [
-        "The bird is flying.",
-        "The fish is swimming.",
-        "The horse is running."
-      ],
-      "correctOption": "The bird is flying.",
-      "translation": "Kuş uçuşuyor."
-    },
-    {
-      "question": "The fish swims in water.",
-      "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
-      "options": [
-        "The fish swims in water.",
-        "The cat walks on land.",
-        "The dog runs in the park."
-      ],
-      "correctOption": "The fish swims in water.",
-      "translation": "Balık su içinde yüzüyor."
-    },
-    {
-      "question": "I ride a horse.",
-      "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
-      "options": [
-        "I ride a horse.",
-        "I feed a cat.",
-        "I watch a bird."
-      ],
-      "correctOption": "I ride a horse.",
-      "translation": "Bir at binirim."
-    }
-  ],
-  "food_drinks": [
-    {
-      "question": "I like bread.",
-      "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
-      "options": [
-        "I like bread.",
-        "I like rice.",
-        "I like cheese."
-      ],
-      "correctOption": "I like bread.",
-      "translation": "Ekmeği severim."
-    },
-    {
-      "question": "She drinks milk every morning.",
-      "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
-      "options": [
-        "She drinks milk every morning.",
-        "She drinks water every morning.",
-        "She drinks juice every morning."
-      ],
-      "correctOption": "She drinks milk every morning.",
-      "translation": "O her sabah süt içer."
-    },
-    {
-      "question": "Do you want an apple?",
-      "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
-      "options": [
-        "Do you want an apple?",
-        "Do you want a banana?",
-        "Do you want an orange?"
-      ],
-      "correctOption": "Do you want an apple?",
-      "translation": "Bir elma ister misin?"
-    },
-    {
-      "question": "We need water for the soup.",
-      "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
-      "options": [
-        "We need water for the soup.",
-        "We need salt for the soup.",
-        "We need oil for the soup."
-      ],
-      "correctOption": "We need water for the soup.",
-      "translation": "Çorba için suya ihtiyacımız var."
-    },
-    {
-      "question": "He cooks meat on the grill.",
-      "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
-      "options": [
-        "He cooks meat on the grill.",
-        "He cooks fish on the grill.",
-        "He cooks vegetables on the grill."
-      ],
-      "correctOption": "He cooks meat on the grill.",
-      "translation": "O mangalda et pişirir."
-    }
-  ]
+  "animals": {
+    "questions": [
+      {
+        "question": "I see a cat.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "I see a cat.",
+          "I see a dog.",
+          "I see a bird."
+        ],
+        "correctOption": "I see a cat.",
+        "translation": "Bir kedi görüyorum."
+      },
+      {
+        "question": "I hear a dog barking.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "I hear a dog barking.",
+          "I hear a cat meowing.",
+          "I hear a bird singing."
+        ],
+        "correctOption": "I hear a dog barking.",
+        "translation": "Bir köpeğin havladığını duyarım."
+      },
+      {
+        "question": "The bird is flying.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "The bird is flying.",
+          "The fish is swimming.",
+          "The horse is running."
+        ],
+        "correctOption": "The bird is flying.",
+        "translation": "Kuş uçuşuyor."
+      },
+      {
+        "question": "The fish swims in water.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "The fish swims in water.",
+          "The cat walks on land.",
+          "The dog runs in the park."
+        ],
+        "correctOption": "The fish swims in water.",
+        "translation": "Balık su içinde yüzüyor."
+      },
+      {
+        "question": "I ride a horse.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "I ride a horse.",
+          "I feed a cat.",
+          "I watch a bird."
+        ],
+        "correctOption": "I ride a horse.",
+        "translation": "Bir at binirim."
+      }
+    ]
+  },
+  "food_drinks": {
+    "questions": [
+      {
+        "question": "I like bread.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "I like bread.",
+          "I like rice.",
+          "I like cheese."
+        ],
+        "correctOption": "I like bread.",
+        "translation": "Ekmeği severim."
+      },
+      {
+        "question": "She drinks milk every morning.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "She drinks milk every morning.",
+          "She drinks water every morning.",
+          "She drinks juice every morning."
+        ],
+        "correctOption": "She drinks milk every morning.",
+        "translation": "O her sabah süt içer."
+      },
+      {
+        "question": "Do you want an apple?",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "Do you want an apple?",
+          "Do you want a banana?",
+          "Do you want an orange?"
+        ],
+        "correctOption": "Do you want an apple?",
+        "translation": "Bir elma ister misin?"
+      },
+      {
+        "question": "We need water for the soup.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "We need water for the soup.",
+          "We need salt for the soup.",
+          "We need oil for the soup."
+        ],
+        "correctOption": "We need water for the soup.",
+        "translation": "Çorba için suya ihtiyacımız var."
+      },
+      {
+        "question": "He cooks meat on the grill.",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "He cooks meat on the grill.",
+          "He cooks fish on the grill.",
+          "He cooks vegetables on the grill."
+        ],
+        "correctOption": "He cooks meat on the grill.",
+        "translation": "O mangalda et pişirir."
+      }
+    ]
+  }
 }

@@ -137,8 +137,13 @@ Kurallar:
   }
   console.log('✅ Model blok üretti:');
 
-  // Ekleyip yaz
-  targetContainer[key] = newBlock[key];
+  // Ekleyip yaz — format koruması:
+  // B1/Listening dosyalarında kategori değeri {questions:[...]} olmalı,
+  // model düz dizi üretirse {questions} içine sar.
+  let val = newBlock[key];
+  const isListeningFile = file === 'vocabulary/A1ListeningData.json';
+  if (isListeningFile && Array.isArray(val)) val = { questions: val };
+  targetContainer[key] = val;
   const pretty = JSON.stringify(data, null, 2);
   writeFileSync(file, pretty);
 
