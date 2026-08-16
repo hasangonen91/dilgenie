@@ -118,5 +118,40 @@
         }
       ]
     }
+  ],
+  "shopping": [
+    {
+      "id": "shop_001",
+      "title": "At the Grocery Store",
+      "title_tr": "Market Alışverişinde",
+      "videoUrl": "",
+      "thumbnail": "",
+      "subtitle": "Practice asking for items and prices in a grocery store.",
+      "subtitle_tr": "Marketten ürün ve fiyat sormayı pratiğe alın.",
+      "transcript": "Customer: Excuse me, where can I find the milk? Clerk: It's in aisle three, next to the bread.",
+      "transcript_tr": "Müşteri: Affedersiniz, sütü nerede bulabilirim? Memur: Üçüncü koridorda, ekmek yanında.",
+      "questions": [
+        {
+          "question": "Where is the milk located?",
+          "options": [
+            "Aisle three",
+            "Aisle five",
+            "Aisle one"
+          ],
+          "correctOption": "Aisle three",
+          "translation": "Süt nerede bulunur?"
+        },
+        {
+          "question": "What is next to the milk?",
+          "options": [
+            "Bread",
+            "Eggs",
+            "Cheese"
+          ],
+          "correctOption": "Bread",
+          "translation": "Sütün yanında ne var?"
+        }
+      ]
+    }
   ]
 }
