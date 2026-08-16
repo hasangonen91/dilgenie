@@ -24,3 +24,12 @@
 ## A1levelQuestions.json (Soru Bankası)
 
 - [ ] **A1levelQuestions: animals soruları** — `vocabulary/A1levelQuestions.json` dosyasına (`A1levelQuestions[0].questions` içine) `animals` anahtarı ekle. Format mevcut `greetings` ile aynı: `{"en": "Animals", "tr": "Hayvanlar", "category": {"questions": [TAM 5 soru]}}`. Her soru: `{"sentence": ["The cat", "", "milk."], "options": [{"id": "1", "text": "sajıkları"}, {"id": "2", "text": "..."}, {"id": "3", "text": "..."}], "answer": "dogru"}`. `answer` değeri options'taki bir `text` ile birebir aynı olmalı. `sentence` her zaman 3 parçalı dizi (boş orta parça cevap yeri).
+
+## video/videos.json (Video Listening — yeni)
+
+- [ ] **Video: travel kategorisi** — `video/videos.json` dosyasına `travel` anahtarını ekle. Değer TAM 1 video klip objesi içeren dizi: `{"id": "travel_001", "title": "ingilizce_baslik", "title_tr": "turkce_baslik", "videoUrl": "", "thumbnail": "", "subtitle": "ingilizce_aciklama", "subtitle_tr": "turkce_aciklama", "transcript": "ingilizce_diyalog", "transcript_tr": "turkce_ceviri", "questions": [TAM 2 soru {"question","options"[3],"correctOption","translation"}]}`. `correctOption` seçeneklerden biri olmalı. Model videoyu üretemez, sadece transkript+soruları üretir `videoUrl` BOŞ kalsın.
+- [ ] **Video: food kategorisi** — `video/videos.json` dosyasına `food` anahtarını ekle (ayrı format, `travel` örneğindeki gibi). `transcript` yiyecek/içecek konulu İngilizce kısa diyalog, `questions` TAM 2. `videoUrl` BOŞ.
+- [ ] **Video: shopping kategorisi** — `video/videos.json` dosyasına `shopping` anahtarını ekle (aynı format). Alışveriş konulu küçük diyalog, `questions` TAM 2. `videoUrl` BOŞ.
+- [ ] **Video: emotions kategorisi** — `video/videos.json` dosyasına `emotions` anahtarını ekle (aynı format). Duygular/duygular konulu kısa diyalog, `questions` TAM 2. `videoUrl` BOŞ.
+- [ ] **Video: conversations kategorisi** — `video/videos.json` dosyasına `conversations` anahtarını ekle (aynı format). Genel sohbet konulu diyalog, `questions` TAM 2. `videoUrl` BOŞ.
+- [ ] **Video: family kategorisi** — `video/videos.json` dosyasına `family` anahtarını ekle (aynı format). Aile konulu diyalog, `questions` TAM 2. `videoUrl` BOŞ.

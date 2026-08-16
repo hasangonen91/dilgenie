@@ -200,10 +200,15 @@ function findContainer(data, file) {
   if (file === 'vocabulary/A1ListeningData.json') return data;
   if (file === 'vocabulary/A1level.json') return data.A1level?.[0]?.vocabulary;
   if (file === 'vocabulary/A1levelQuestions.json') return data.A1levelQuestions?.[0]?.questions;
+  if (file === 'video/videos.json') return data;
   return undefined;
 }
 function extractSample(container) {
   if (!container || typeof container !== 'object') return null;
+  // video/videos.json için örnek bir klip
+  if (Array.isArray(container['greetings']) && container['greetings'][0]?.transcript) {
+    return container['greetings'][0];
+  }
   const pick = ['greetings', 'family', 'months', 'days', 'places', 'food_drinks', 'animals', 'clothes'];
   for (const k of pick) if (container[k]) return container[k];
   const keys = Object.keys(container);

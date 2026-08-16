@@ -1,0 +1,44 @@
+{
+  "greetings": [
+    {
+      "id": "greet_001",
+      "title": "Meeting Someone New",
+      "title_tr": "Yeni Biriyle Tanışma",
+      "videoUrl": "",
+      "thumbnail": "",
+      "subtitle": "Learn how to greet people in English.",
+      "subtitle_tr": "İngilizce'de insanlarla nasıl selamlaşılacağını öğrenin.",
+      "transcript": "Hello! My name is Anna. Nice to meet you. How are you today?",
+      "transcript_tr": "Merhaba! Benim adım Anna. Tanıştığımıza memnun oldum. Bugün nasılsın?",
+      "questions": [
+        {
+          "question": "What is her name?",
+          "options": ["Anna", "Mary", "Sarah"],
+          "correctOption": "Anna",
+          "translation": "Onun adı ne?"
+        }
+      ]
+    }
+  ],
+  "daily_life": [
+    {
+      "id": "daily_001",
+      "title": "Morning Routine",
+      "title_tr": "Sabah Rutini",
+      "videoUrl": "",
+      "thumbnail": "",
+      "subtitle": "Common phrases used in daily life.",
+      "subtitle_tr": "Günlük hayatta kullanılan yaygın ifadeler.",
+      "transcript": "I wake up at seven o'clock. I drink coffee and eat breakfast. Then I go to work.",
+      "transcript_tr": "Yedide uyanırım. Kahve içer ve kahvaltı yaparım. Sonra işe giderim.",
+      "questions": [
+        {
+          "question": "What time does he wake up?",
+          "options": ["6:00", "7:00", "8:00"],
+          "correctOption": "7:00",
+          "translation": "Saat kaçta uyanıyor?"
+        }
+      ]
+    }
+  ]
+}
