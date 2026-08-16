@@ -132,11 +132,18 @@ Kurallar:
   const newBlock = extractJson(raw);
   if (!newBlock) { console.error('❌ Model çıktısından JSON çıkarılamadı:', raw.slice(0, 300)); process.exit(1); }
   if (!(key in newBlock)) {
-    console.log(`⚠️ Üretilen blok ${key} içermiyor. İçindekiler: ${Object.keys(newBlock).join(',')}`);
-    // tek anahtarlıysa onu kullan
-    const only = Object.keys(newBlock)[0];
-    if (only && Object.keys(newBlock).length === 1) newBlock[key] = newBlock[only];
-    else { console.error('❌ Blok formatı hatalı'); process.exit(1); }
+    const isVideo = file === 'video/videos.json';
+    const looksLikeClip = newBlock.id && (newBlock.transcript || newBlock.title);
+    if (isVideo && looksLikeClip) {
+      // Model klip objesini doğrudan döndürdü (travel anahtarı olmadan) — kabul et
+      newBlock[key] = newBlock;
+    } else {
+      console.log(`⚠️ Üretilen blok ${key} içermiyor. İçindekiler: ${Object.keys(newBlock).join(',')}`);
+      // tek anahtarlıysa onu kullan
+      const only = Object.keys(newBlock)[0];
+      if (only && Object.keys(newBlock).length === 1) newBlock[key] = newBlock[only];
+      else { console.error('❌ Blok formatı hatalı'); process.exit(1); }
+    }
   }
   console.log('✅ Model blok üretti:');
 
