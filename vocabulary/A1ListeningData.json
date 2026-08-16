@@ -588,5 +588,64 @@
         "translation": "O mangalda et pişirir."
       }
     ]
+  },
+  "clothes": {
+    "questions": [
+      {
+        "question": "What is this?",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "Shirt",
+          "Hat",
+          "Shoes"
+        ],
+        "correctOption": "Shirt",
+        "translation": "Bu nedir?"
+      },
+      {
+        "question": "What is this?",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "Hat",
+          "Scarf",
+          "Gloves"
+        ],
+        "correctOption": "Hat",
+        "translation": "Bu nedir?"
+      },
+      {
+        "question": "What is this?",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "Shoes",
+          "Socks",
+          "Sandals"
+        ],
+        "correctOption": "Shoes",
+        "translation": "Bu nedir?"
+      },
+      {
+        "question": "What is this?",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "Dress",
+          "Skirt",
+          "Pants"
+        ],
+        "correctOption": "Dress",
+        "translation": "Bu nedir?"
+      },
+      {
+        "question": "What is this?",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "Coat",
+          "Jacket",
+          "Sweater"
+        ],
+        "correctOption": "Coat",
+        "translation": "Bu nedir?"
+      }
+    ]
   }
 }
