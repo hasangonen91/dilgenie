@@ -83,5 +83,40 @@
         }
       ]
     }
+  ],
+  "food": [
+    {
+      "id": "food_001",
+      "title": "Ordering Coffee",
+      "title_tr": "Kahve Siparişi Verme",
+      "videoUrl": "",
+      "thumbnail": "",
+      "subtitle": "Learn how to order a coffee in a cafe.",
+      "subtitle_tr": "Bir kafede kahve siparişi vermeyi öğrenin.",
+      "transcript": "Customer: Hi, can I get a latte, please? Barista: Sure, would you like any syrup? Customer: No, just a regular latte. Barista: That will be $3.50. Customer: Here you go. Thanks!",
+      "transcript_tr": "Müşteri: Merhaba, lütfen bir latte alabilir miyim? Barista: Elbette, irgende bir şurup ister misin? Müşteri: Hayır, sadece normal bir latte. Barista: Ücret 3,50 dolar. Müşteri: Buyurun. Teşekkür ederim!",
+      "questions": [
+        {
+          "question": "What drink does the customer order?",
+          "options": [
+            "Latte",
+            "Cappuccino",
+            "Espresso"
+          ],
+          "correctOption": "Latte",
+          "translation": "Müşteri ne içecek siparişi veriyor?"
+        },
+        {
+          "question": "How much does the latte cost?",
+          "options": [
+            "$2.50",
+            "$3.50",
+            "$4.50"
+          ],
+          "correctOption": "$3.50",
+          "translation": "Latte kaç dolar?"
+        }
+      ]
+    }
   ]
 }
