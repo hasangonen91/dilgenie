@@ -13,7 +13,11 @@
       "questions": [
         {
           "question": "What is her name?",
-          "options": ["Anna", "Mary", "Sarah"],
+          "options": [
+            "Anna",
+            "Mary",
+            "Sarah"
+          ],
           "correctOption": "Anna",
           "translation": "Onun adı ne?"
         }
@@ -34,9 +38,48 @@
       "questions": [
         {
           "question": "What time does he wake up?",
-          "options": ["6:00", "7:00", "8:00"],
+          "options": [
+            "6:00",
+            "7:00",
+            "8:00"
+          ],
           "correctOption": "7:00",
           "translation": "Saat kaçta uyanıyor?"
+        }
+      ]
+    }
+  ],
+  "travel": [
+    {
+      "id": "travel_001",
+      "title": "At the Airport",
+      "title_tr": "Havalimanında",
+      "videoUrl": "",
+      "thumbnail": "",
+      "subtitle": "Learn useful English phrases for the airport.",
+      "subtitle_tr": "Havalimanı için yararlı İngilizce ifadeleri öğrenin.",
+      "transcript": "Excuse me, where is the check-in counter for flight TK123? It's over there, next to gate 5. Thank you!",
+      "transcript_tr": "Affedersiniz, TK123 uçuşu için check-in şalteri nerede? Orada, 5 numaralı kapının yanında. Teşekkür ederim!",
+      "questions": [
+        {
+          "question": "What is the flight number mentioned?",
+          "options": [
+            "TK123",
+            "TK321",
+            "TK112"
+          ],
+          "correctOption": "TK123",
+          "translation": "Bahsedilen uçuş numarası nedir?"
+        },
+        {
+          "question": "Where is the check-in counter located?",
+          "options": [
+            "Next to gate 5",
+            "Near the baggage claim",
+            "Inside the lounge"
+          ],
+          "correctOption": "Next to gate 5",
+          "translation": "Check-in şalteri nerede bulunuyor?"
         }
       ]
     }
