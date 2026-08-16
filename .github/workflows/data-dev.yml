@@ -1,0 +1,36 @@
+name: Data Dev Bot
+
+on:
+  schedule:
+    # 24 saat üretim: her 3 saatte bir (günde 8 kez)
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: data-dev
+  cancel-in-progress: false
+
+jobs:
+  develop:
+    name: 🤖 Veri geliştirme
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+      GH_TOKEN: ${{ github.token }}
+      BOT_MODEL: ${{ vars.BOT_MODEL || 'nvidia/nemotron-3-super-120b-a12b:free' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: 🤖 AI Data Development Bot
+        run: node scripts/data_dev.mjs
