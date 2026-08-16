@@ -706,5 +706,64 @@
         "translation": "Çocuklar kar içinde oynuyor."
       }
     ]
+  },
+  "occupations": {
+    "questions": [
+      {
+        "question": "What is your job?",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "I am a teacher.",
+          "I am a student.",
+          "I am a doctor."
+        ],
+        "correctOption": "I am a teacher.",
+        "translation": "Mesleğiniz nedir?"
+      },
+      {
+        "question": "Where does a doctor work?",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "In a hospital.",
+          "In a school.",
+          "In a factory."
+        ],
+        "correctOption": "In a hospital.",
+        "translation": "Doktor nerede çalışır?"
+      },
+      {
+        "question": "What does an engineer design?",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "Bridges and machines.",
+          "Cakes and bread.",
+          "Clothes and shoes."
+        ],
+        "correctOption": "Bridges and machines.",
+        "translation": "Mühendis ne tasarlar?"
+      },
+      {
+        "question": "What does a farmer grow?",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "Wheat and vegetables.",
+          "Cars and bikes.",
+          "Books and pens."
+        ],
+        "correctOption": "Wheat and vegetables.",
+        "translation": "Çiftçi ne yetiştirir?"
+      },
+      {
+        "question": "Where does a pilot work?",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "In an airplane.",
+          "In a library.",
+          "In a kitchen."
+        ],
+        "correctOption": "In an airplane.",
+        "translation": "Pilot nerede çalışır?"
+      }
+    ]
   }
 }
