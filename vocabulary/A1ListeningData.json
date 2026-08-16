@@ -4,35 +4,55 @@
       {
         "question": "Hello, how are you?",
         "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
-        "options": ["Hello, how are you?", "Goodbye", "See you later"],
+        "options": [
+          "Hello, how are you?",
+          "Goodbye",
+          "See you later"
+        ],
         "correctOption": "Hello, how are you?",
         "translation": "Merhaba, nasılsın?"
       },
       {
         "question": "Good morning!",
         "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
-        "options": ["Good night!", "Good morning!", "Good evening!"],
+        "options": [
+          "Good night!",
+          "Good morning!",
+          "Good evening!"
+        ],
         "correctOption": "Good morning!",
         "translation": "Günaydın!"
       },
       {
         "question": "Good evening!",
         "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
-        "options": ["Good night!", "Good morning!", "Good evening!"],
+        "options": [
+          "Good night!",
+          "Good morning!",
+          "Good evening!"
+        ],
         "correctOption": "Good evening!",
         "translation": "İyi akşamlar!"
       },
       {
         "question": "How do you do?",
         "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
-        "options": ["How do you do?", "Goodbye", "See you later"],
+        "options": [
+          "How do you do?",
+          "Goodbye",
+          "See you later"
+        ],
         "correctOption": "How do you do?",
         "translation": "Nasılsınız?"
       },
       {
         "question": "Nice to meet you!",
         "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
-        "options": ["Nice to meet you!", "Goodbye", "See you later"],
+        "options": [
+          "Nice to meet you!",
+          "Goodbye",
+          "See you later"
+        ],
         "correctOption": "Nice to meet you!",
         "translation": "Tanıştığımıza memnun oldum!"
       }
@@ -113,7 +133,11 @@
       {
         "question": "August is hot.",
         "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
-        "options": ["August is cold.", "August is hot.", "August is rainy."],
+        "options": [
+          "August is cold.",
+          "August is hot.",
+          "August is rainy."
+        ],
         "correctOption": "August is hot.",
         "translation": "Ağustos sıcaktır."
       },
@@ -216,7 +240,11 @@
       {
         "question": "The car is red.",
         "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
-        "options": ["The car is blue.", "The car is red.", "The car is green."],
+        "options": [
+          "The car is blue.",
+          "The car is red.",
+          "The car is green."
+        ],
         "correctOption": "The car is red.",
         "translation": "Araba kırmızı."
       },
@@ -442,5 +470,62 @@
         "translation": "Trafik ışıklarında sola dön."
       }
     ]
-  }
+  },
+  "animals": [
+    {
+      "question": "I see a cat.",
+      "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+      "options": [
+        "I see a cat.",
+        "I see a dog.",
+        "I see a bird."
+      ],
+      "correctOption": "I see a cat.",
+      "translation": "Bir kedi görüyorum."
+    },
+    {
+      "question": "I hear a dog barking.",
+      "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+      "options": [
+        "I hear a dog barking.",
+        "I hear a cat meowing.",
+        "I hear a bird singing."
+      ],
+      "correctOption": "I hear a dog barking.",
+      "translation": "Bir köpeğin havladığını duyarım."
+    },
+    {
+      "question": "The bird is flying.",
+      "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+      "options": [
+        "The bird is flying.",
+        "The fish is swimming.",
+        "The horse is running."
+      ],
+      "correctOption": "The bird is flying.",
+      "translation": "Kuş uçuşuyor."
+    },
+    {
+      "question": "The fish swims in water.",
+      "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+      "options": [
+        "The fish swims in water.",
+        "The cat walks on land.",
+        "The dog runs in the park."
+      ],
+      "correctOption": "The fish swims in water.",
+      "translation": "Balık su içinde yüzüyor."
+    },
+    {
+      "question": "I ride a horse.",
+      "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+      "options": [
+        "I ride a horse.",
+        "I feed a cat.",
+        "I watch a bird."
+      ],
+      "correctOption": "I ride a horse.",
+      "translation": "Bir at binirim."
+    }
+  ]
 }
