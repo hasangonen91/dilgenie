@@ -146,6 +146,8 @@ Kurallar:
   let val = newBlock[key];
   const isListeningFile = file === 'vocabulary/A1ListeningData.json';
   if (isListeningFile && Array.isArray(val)) val = { questions: val };
+  const isVideoFile = file === 'video/videos.json';
+  if (isVideoFile && val && !Array.isArray(val)) val = [val];
   targetContainer[key] = val;
   const pretty = JSON.stringify(data, null, 2);
   writeFileSync(file, pretty);
