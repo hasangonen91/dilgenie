@@ -135,8 +135,8 @@ Kurallar:
     const isVideo = file === 'video/videos.json';
     const looksLikeClip = newBlock.id && (newBlock.transcript || newBlock.title);
     if (isVideo && looksLikeClip) {
-      // Model klip objesini doğrudan döndürdü (travel anahtarı olmadan) — kabul et
-      newBlock[key] = newBlock;
+      // Model klip objesini doğrudan döndürdü (travel anahtarı olmadan) — kopyasını al
+      newBlock[key] = { ...newBlock };
     } else {
       console.log(`⚠️ Üretilen blok ${key} içermiyor. İçindekiler: ${Object.keys(newBlock).join(',')}`);
       // tek anahtarlıysa onu kullan
