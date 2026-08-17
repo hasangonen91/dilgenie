@@ -883,5 +883,64 @@
         "translation": "Parkta bisiklet sürmeyi sever."
       }
     ]
+  },
+  "school": {
+    "questions": [
+      {
+        "question": "What is this?",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "A book",
+          "A pen",
+          "A ruler"
+        ],
+        "correctOption": "A book",
+        "translation": "Bu nedir?"
+      },
+      {
+        "question": "Where is the teacher?",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "In the classroom",
+          "In the garden",
+          "In the cafeteria"
+        ],
+        "correctOption": "In the classroom",
+        "translation": "Öğretmen nerede?"
+      },
+      {
+        "question": "What do you use to write?",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "A pen",
+          "A book",
+          "A bag"
+        ],
+        "correctOption": "A pen",
+        "translation": "Yazmak için ne kullanırsın?"
+      },
+      {
+        "question": "Where do you do your homework?",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "At home",
+          "In the classroom",
+          "In the library"
+        ],
+        "correctOption": "At home",
+        "translation": "Ödevlerini nerede yaparsın?"
+      },
+      {
+        "question": "What is inside the classroom?",
+        "image": "https://random-image-pepebigotes.vercel.app/api/random-image",
+        "options": [
+          "Desks and chairs",
+          "Trees and flowers",
+          "Cars and bikes"
+        ],
+        "correctOption": "Desks and chairs",
+        "translation": "Sınıf içinde ne var?"
+      }
+    ]
   }
 }
