@@ -38,7 +38,15 @@ async function callModel(prompt) {
         }),
         signal: AbortSignal.timeout(180000),
       });
-      if (!res.ok) { console.log(`⚠️ Deneme ${attempt} API hatası: ${res.status} ${await res.text()}`); await sleep(5000); continue; }
+      if (!res.ok) {
+        const errText = await res.text();
+        console.log(`⚠️ Deneme ${attempt} API hatası: ${res.status} ${errText.slice(0, 300)}`);
+        if (res.status === 429 || /rate limit/i.test(errText)) {
+          console.log('⏸️  OpenRouter rate limit (429) — bugünlük duruyorum, görev kaybolmadı, cron sonra dener.');
+          process.exit(0);
+        }
+        await sleep(5000); continue;
+      }
       const data = await res.json();
       const text = data.choices?.[0]?.message?.content || '';
       if (!text) { console.log(`⚠️ Deneme ${attempt} boş yanıt`); await sleep(5000); continue; }
