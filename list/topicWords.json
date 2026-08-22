@@ -1,0 +1,1826 @@
+{
+  "Nature": [
+    {
+      "en": "tree",
+      "tr": "ağaç",
+      "example": "The tree is tall and old."
+    },
+    {
+      "en": "water",
+      "tr": "su",
+      "example": "I drink water every morning."
+    },
+    {
+      "en": "sun",
+      "tr": "güneş",
+      "example": "The sun rises in the east."
+    },
+    {
+      "en": "sky",
+      "tr": "gökyüzü",
+      "example": "The sky is blue today."
+    },
+    {
+      "en": "flower",
+      "tr": "çiçek",
+      "example": "This flower smells nice."
+    },
+    {
+      "en": "animal",
+      "tr": "hayvan",
+      "example": "The cat is a small animal."
+    },
+    {
+      "en": "forest",
+      "tr": "orman",
+      "example": "Many animals live in the forest."
+    },
+    {
+      "en": "earth",
+      "tr": "dünya, toprak",
+      "example": "The earth is our home."
+    },
+    {
+      "en": "mountain",
+      "tr": "dağ",
+      "example": "We climbed the mountain together."
+    },
+    {
+      "en": "river",
+      "tr": "nehir",
+      "example": "The river flows to the sea."
+    },
+    {
+      "en": "sea",
+      "tr": "deniz",
+      "example": "The sea is warm in summer."
+    },
+    {
+      "en": "rain",
+      "tr": "yağmur",
+      "example": "I like the sound of rain."
+    },
+    {
+      "en": "snow",
+      "tr": "kar",
+      "example": "The children play in the snow."
+    },
+    {
+      "en": "wind",
+      "tr": "rüzgar",
+      "example": "The wind is strong today."
+    },
+    {
+      "en": "cloud",
+      "tr": "bulut",
+      "example": "Look at that big white cloud."
+    },
+    {
+      "en": "star",
+      "tr": "yıldız",
+      "example": "The stars shine at night."
+    },
+    {
+      "en": "moon",
+      "tr": "ay",
+      "example": "The moon is very bright tonight."
+    },
+    {
+      "en": "stone",
+      "tr": "taş",
+      "example": "I found a smooth stone by the river."
+    },
+    {
+      "en": "leaf",
+      "tr": "yaprak",
+      "example": "A yellow leaf fell from the tree."
+    },
+    {
+      "en": "grass",
+      "tr": "çimen",
+      "example": "We sat on the green grass."
+    },
+    {
+      "en": "bird",
+      "tr": "kuş",
+      "example": "A small bird sings outside my window."
+    },
+    {
+      "en": "fish",
+      "tr": "balık",
+      "example": "There are many fish in the lake."
+    },
+    {
+      "en": "horse",
+      "tr": "at",
+      "example": "The horse runs very fast."
+    },
+    {
+      "en": "dog",
+      "tr": "köpek",
+      "example": "My dog likes to walk in the park."
+    },
+    {
+      "en": "cat",
+      "tr": "kedi",
+      "example": "The cat sleeps on the sofa."
+    },
+    {
+      "en": "fire",
+      "tr": "ateş",
+      "example": "We made a fire to cook food."
+    },
+    {
+      "en": "air",
+      "tr": "hava",
+      "example": "The mountain air is clean and fresh."
+    },
+    {
+      "en": "field",
+      "tr": "tarla, alan",
+      "example": "The field is full of yellow flowers."
+    },
+    {
+      "en": "garden",
+      "tr": "bahçe",
+      "example": "Grandma grows tomatoes in her garden."
+    },
+    {
+      "en": "island",
+      "tr": "ada",
+      "example": "They live on a small island."
+    }
+  ],
+  "Science": [
+    {
+      "en": "science",
+      "tr": "bilim",
+      "example": "Science helps us understand the world."
+    },
+    {
+      "en": "computer",
+      "tr": "bilgisayar",
+      "example": "I work on my computer every day."
+    },
+    {
+      "en": "data",
+      "tr": "veri",
+      "example": "The data shows a clear result."
+    },
+    {
+      "en": "energy",
+      "tr": "enerji",
+      "example": "Solar energy is clean and cheap."
+    },
+    {
+      "en": "experiment",
+      "tr": "deney",
+      "example": "We did an experiment in the lab."
+    },
+    {
+      "en": "result",
+      "tr": "sonuç",
+      "example": "The result of the test was good."
+    },
+    {
+      "en": "chart",
+      "tr": "grafik",
+      "example": "The chart shows our sales."
+    },
+    {
+      "en": "technology",
+      "tr": "teknoloji",
+      "example": "Technology changes our lives."
+    },
+    {
+      "en": "machine",
+      "tr": "makine",
+      "example": "This machine makes fresh bread."
+    },
+    {
+      "en": "robot",
+      "tr": "robot",
+      "example": "The robot can clean the house."
+    },
+    {
+      "en": "internet",
+      "tr": "internet",
+      "example": "I read the news on the internet."
+    },
+    {
+      "en": "battery",
+      "tr": "pil, batarya",
+      "example": "My phone battery is empty."
+    },
+    {
+      "en": "light",
+      "tr": "ışık",
+      "example": "Light travels very fast."
+    },
+    {
+      "en": "speed",
+      "tr": "hız",
+      "example": "The car reached a high speed."
+    },
+    {
+      "en": "weight",
+      "tr": "ağırlık",
+      "example": "The weight of the box is ten kilos."
+    },
+    {
+      "en": "temperature",
+      "tr": "sıcaklık",
+      "example": "The temperature is twenty degrees."
+    },
+    {
+      "en": "chemical",
+      "tr": "kimyasal",
+      "example": "Do not mix these two chemicals."
+    },
+    {
+      "en": "medicine",
+      "tr": "ilaç",
+      "example": "Take this medicine twice a day."
+    },
+    {
+      "en": "laboratory",
+      "tr": "laboratuvar",
+      "example": "The scientists work in the laboratory."
+    },
+    {
+      "en": "scientist",
+      "tr": "bilim insanı",
+      "example": "The scientist made an important discovery."
+    },
+    {
+      "en": "discovery",
+      "tr": "keşif",
+      "example": "The discovery changed history."
+    },
+    {
+      "en": "research",
+      "tr": "araştırma",
+      "example": "She does research about plants."
+    },
+    {
+      "en": "planet",
+      "tr": "gezegen",
+      "example": "Earth is our planet."
+    },
+    {
+      "en": "gravity",
+      "tr": "yer çekimi",
+      "example": "Gravity keeps us on the ground."
+    },
+    {
+      "en": "electricity",
+      "tr": "elektrik",
+      "example": "Electricity comes from the power plant."
+    },
+    {
+      "en": "magnet",
+      "tr": "mıknatıs",
+      "example": "The magnet holds the paper on the door."
+    },
+    {
+      "en": "microscope",
+      "tr": "mikroskop",
+      "example": "We looked at cells with a microscope."
+    },
+    {
+      "en": "telescope",
+      "tr": "teleskop",
+      "example": "He watches the moon with his telescope."
+    },
+    {
+      "en": "invention",
+      "tr": "icat",
+      "example": "The telephone was a great invention."
+    },
+    {
+      "en": "solution",
+      "tr": "çözüm",
+      "example": "We found a simple solution to the problem."
+    }
+  ],
+  "Arts": [
+    {
+      "en": "art",
+      "tr": "sanat",
+      "example": "Art has no limits."
+    },
+    {
+      "en": "artist",
+      "tr": "sanatçı",
+      "example": "The artist painted a beautiful picture."
+    },
+    {
+      "en": "music",
+      "tr": "müzik",
+      "example": "I listen to music every evening."
+    },
+    {
+      "en": "film",
+      "tr": "film",
+      "example": "We watched a great film last night."
+    },
+    {
+      "en": "culture",
+      "tr": "kültür",
+      "example": "Every country has its own culture."
+    },
+    {
+      "en": "draw",
+      "tr": "çizmek",
+      "example": "She likes to draw animals."
+    },
+    {
+      "en": "dance",
+      "tr": "dans etmek",
+      "example": "They dance at the party."
+    },
+    {
+      "en": "creative",
+      "tr": "yaratıcı",
+      "example": "She has a creative mind."
+    },
+    {
+      "en": "painting",
+      "tr": "tablo",
+      "example": "This painting is two hundred years old."
+    },
+    {
+      "en": "museum",
+      "tr": "müze",
+      "example": "The museum opens at nine."
+    },
+    {
+      "en": "gallery",
+      "tr": "galeri",
+      "example": "Her photos are at the gallery this week."
+    },
+    {
+      "en": "concert",
+      "tr": "konser",
+      "example": "The concert starts at eight."
+    },
+    {
+      "en": "song",
+      "tr": "şarkı",
+      "example": "This song is on the radio all day."
+    },
+    {
+      "en": "guitar",
+      "tr": "gitar",
+      "example": "He plays guitar in a band."
+    },
+    {
+      "en": "piano",
+      "tr": "piyano",
+      "example": "She practices piano after school."
+    },
+    {
+      "en": "singer",
+      "tr": "şarkıcı",
+      "example": "The singer has an amazing voice."
+    },
+    {
+      "en": "actor",
+      "tr": "aktör",
+      "example": "My favorite actor won an award."
+    },
+    {
+      "en": "theatre",
+      "tr": "tiyatro",
+      "example": "We go to the theatre once a month."
+    },
+    {
+      "en": "novel",
+      "tr": "roman",
+      "example": "She is reading a long novel."
+    },
+    {
+      "en": "poem",
+      "tr": "şiir",
+      "example": "He wrote a short poem for her."
+    },
+    {
+      "en": "writer",
+      "tr": "yazar",
+      "example": "The writer signs books on Saturday."
+    },
+    {
+      "en": "story",
+      "tr": "hikaye",
+      "example": "Grandpa tells funny stories."
+    },
+    {
+      "en": "design",
+      "tr": "tasarım",
+      "example": "The design of this chair is modern."
+    },
+    {
+      "en": "photography",
+      "tr": "fotoğrafçılık",
+      "example": "Photography is her biggest hobby."
+    },
+    {
+      "en": "camera",
+      "tr": "kamera",
+      "example": "I bought a new camera for the trip."
+    },
+    {
+      "en": "sculpture",
+      "tr": "heykel",
+      "example": "There is a marble sculpture in the park."
+    },
+    {
+      "en": "exhibition",
+      "tr": "sergi",
+      "example": "The art exhibition ends tomorrow."
+    },
+    {
+      "en": "stage",
+      "tr": "sahne",
+      "example": "The band walked onto the stage."
+    },
+    {
+      "en": "audience",
+      "tr": "seyirci",
+      "example": "The audience clapped for ten minutes."
+    },
+    {
+      "en": "melody",
+      "tr": "melodi",
+      "example": "That melody stays in your head."
+    }
+  ],
+  "Travel": [
+    {
+      "en": "travel",
+      "tr": "seyahat etmek",
+      "example": "I want to travel around the world."
+    },
+    {
+      "en": "city",
+      "tr": "şehir",
+      "example": "Istanbul is a big city."
+    },
+    {
+      "en": "hotel",
+      "tr": "otel",
+      "example": "We stayed at a hotel by the sea."
+    },
+    {
+      "en": "flight",
+      "tr": "uçuş",
+      "example": "Our flight was delayed."
+    },
+    {
+      "en": "beach",
+      "tr": "plaj",
+      "example": "The beach is crowded in summer."
+    },
+    {
+      "en": "departure",
+      "tr": "kalkış",
+      "example": "The departure time is 9 am."
+    },
+    {
+      "en": "tour",
+      "tr": "tur",
+      "example": "We took a city tour."
+    },
+    {
+      "en": "visit",
+      "tr": "ziyaret etmek",
+      "example": "I will visit my grandmother."
+    },
+    {
+      "en": "airport",
+      "tr": "havalimanı",
+      "example": "The taxi goes to the airport."
+    },
+    {
+      "en": "passport",
+      "tr": "pasaport",
+      "example": "Do not forget your passport."
+    },
+    {
+      "en": "luggage",
+      "tr": "bagaj",
+      "example": "My luggage is very heavy."
+    },
+    {
+      "en": "ticket",
+      "tr": "bilet",
+      "example": "I bought two bus tickets."
+    },
+    {
+      "en": "map",
+      "tr": "harita",
+      "example": "We found the museum on the map."
+    },
+    {
+      "en": "train",
+      "tr": "tren",
+      "example": "The train leaves from platform two."
+    },
+    {
+      "en": "station",
+      "tr": "istasyon",
+      "example": "Meet me at the train station."
+    },
+    {
+      "en": "journey",
+      "tr": "yolculuk",
+      "example": "The journey takes three hours."
+    },
+    {
+      "en": "abroad",
+      "tr": "yurt dışı",
+      "example": "She studies abroad this year."
+    },
+    {
+      "en": "tourist",
+      "tr": "turist",
+      "example": "The city is full of tourists in June."
+    },
+    {
+      "en": "vacation",
+      "tr": "tatil",
+      "example": "Our vacation starts next week."
+    },
+    {
+      "en": "holiday",
+      "tr": "tatil, bayram",
+      "example": "Where do you go for your holiday?"
+    },
+    {
+      "en": "suitcase",
+      "tr": "bavul",
+      "example": "My suitcase does not close!"
+    },
+    {
+      "en": "arrival",
+      "tr": "varış",
+      "example": "Check the arrival time online."
+    },
+    {
+      "en": "border",
+      "tr": "sınır",
+      "example": "We crossed the border at noon."
+    },
+    {
+      "en": "guide",
+      "tr": "rehber",
+      "example": "The guide speaks four languages."
+    },
+    {
+      "en": "reservation",
+      "tr": "rezervasyon",
+      "example": "I made a reservation for two nights."
+    },
+    {
+      "en": "sightseeing",
+      "tr": "gezip görme",
+      "example": "We went sightseeing all morning."
+    },
+    {
+      "en": "adventure",
+      "tr": "macera",
+      "example": "Every trip with him is an adventure."
+    },
+    {
+      "en": "trip",
+      "tr": "gezi",
+      "example": "How was your trip to Paris?"
+    },
+    {
+      "en": "passenger",
+      "tr": "yolcu",
+      "example": "All passengers are aboard now."
+    },
+    {
+      "en": "souvenir",
+      "tr": "hatıra",
+      "example": "I bought a small souvenir for you."
+    }
+  ],
+  "Daily Life": [
+    {
+      "en": "family",
+      "tr": "aile",
+      "example": "Family is the most important thing."
+    },
+    {
+      "en": "friend",
+      "tr": "arkadaş",
+      "example": "He is my best friend."
+    },
+    {
+      "en": "food",
+      "tr": "yiyecek",
+      "example": "The food at this restaurant is good."
+    },
+    {
+      "en": "home",
+      "tr": "ev",
+      "example": "I go home after work."
+    },
+    {
+      "en": "birthday",
+      "tr": "doğum günü",
+      "example": "Today is my birthday."
+    },
+    {
+      "en": "money",
+      "tr": "para",
+      "example": "I need money for the ticket."
+    },
+    {
+      "en": "school",
+      "tr": "okul",
+      "example": "The children go to school by bus."
+    },
+    {
+      "en": "work",
+      "tr": "iş",
+      "example": "Work starts at nine every day."
+    },
+    {
+      "en": "mother",
+      "tr": "anne",
+      "example": "My mother cooks very well."
+    },
+    {
+      "en": "father",
+      "tr": "baba",
+      "example": "His father drives us home."
+    },
+    {
+      "en": "sister",
+      "tr": "kız kardeş",
+      "example": "My sister plays the violin."
+    },
+    {
+      "en": "brother",
+      "tr": "erkek kardeş",
+      "example": "Her brother is six years old."
+    },
+    {
+      "en": "child",
+      "tr": "çocuk",
+      "example": "Every child loves stories."
+    },
+    {
+      "en": "breakfast",
+      "tr": "kahvaltı",
+      "example": "Breakfast is ready at eight."
+    },
+    {
+      "en": "dinner",
+      "tr": "akşam yemeği",
+      "example": "We have dinner together at seven."
+    },
+    {
+      "en": "morning",
+      "tr": "sabah",
+      "example": "I run every morning before class."
+    },
+    {
+      "en": "evening",
+      "tr": "akşam",
+      "example": "They watch TV in the evening."
+    },
+    {
+      "en": "night",
+      "tr": "gece",
+      "example": "Good night, see you tomorrow!"
+    },
+    {
+      "en": "weekend",
+      "tr": "hafta sonu",
+      "example": "We visit grandma at the weekend."
+    },
+    {
+      "en": "shopping",
+      "tr": "alışveriş",
+      "example": "I do the shopping on Saturdays."
+    },
+    {
+      "en": "market",
+      "tr": "market, pazar",
+      "example": "Buy fresh bread from the market."
+    },
+    {
+      "en": "kitchen",
+      "tr": "mutfak",
+      "example": "The kitchen smells like cake."
+    },
+    {
+      "en": "room",
+      "tr": "oda",
+      "example": "My room is small but tidy."
+    },
+    {
+      "en": "bed",
+      "tr": "yatak",
+      "example": "Make your bed every morning."
+    },
+    {
+      "en": "clothes",
+      "tr": "kıyafetler",
+      "example": "Wear warm clothes today."
+    },
+    {
+      "en": "key",
+      "tr": "anahtar",
+      "example": "I lost my house key again."
+    },
+    {
+      "en": "phone",
+      "tr": "telefon",
+      "example": "Call me when you arrive."
+    },
+    {
+      "en": "neighbour",
+      "tr": "komşu",
+      "example": "Our neighbour has a lovely garden."
+    },
+    {
+      "en": "week",
+      "tr": "hafta",
+      "example": "See you again next week."
+    },
+    {
+      "en": "clock",
+      "tr": "duvar saati",
+      "example": "The clock on the wall is very old."
+    }
+  ],
+  "Lifestyle": [
+    {
+      "en": "health",
+      "tr": "sağlık",
+      "example": "Good sleep is important for health."
+    },
+    {
+      "en": "body",
+      "tr": "vücut",
+      "example": "Exercise keeps your body strong."
+    },
+    {
+      "en": "exercise",
+      "tr": "egzersiz",
+      "example": "I do exercise every morning."
+    },
+    {
+      "en": "diet",
+      "tr": "diyet",
+      "example": "She follows a healthy diet."
+    },
+    {
+      "en": "habit",
+      "tr": "alışkanlık",
+      "example": "Reading is a good habit."
+    },
+    {
+      "en": "fashion",
+      "tr": "moda",
+      "example": "She loves fashion and style."
+    },
+    {
+      "en": "energy",
+      "tr": "enerji",
+      "example": "I feel full of energy today."
+    },
+    {
+      "en": "sleep",
+      "tr": "uyku",
+      "example": "I need eight hours of sleep."
+    },
+    {
+      "en": "sport",
+      "tr": "spor",
+      "example": "Football is a popular sport."
+    },
+    {
+      "en": "football",
+      "tr": "futbol",
+      "example": "We play football after work."
+    },
+    {
+      "en": "swimming",
+      "tr": "yüzme",
+      "example": "Swimming is good for your back."
+    },
+    {
+      "en": "running",
+      "tr": "koşu",
+      "example": "Running makes me feel happy."
+    },
+    {
+      "en": "walking",
+      "tr": "yürüyüş",
+      "example": "I go walking every evening."
+    },
+    {
+      "en": "gym",
+      "tr": "spor salonu",
+      "example": "He goes to the gym three times a week."
+    },
+    {
+      "en": "yoga",
+      "tr": "yoga",
+      "example": "Yoga helps me relax."
+    },
+    {
+      "en": "rest",
+      "tr": "dinlenme",
+      "example": "You need some rest after work."
+    },
+    {
+      "en": "relax",
+      "tr": "rahatlamak",
+      "example": "Music helps me relax."
+    },
+    {
+      "en": "hobby",
+      "tr": "hobi",
+      "example": "Painting is my favorite hobby."
+    },
+    {
+      "en": "routine",
+      "tr": "rutin",
+      "example": "A morning routine makes the day better."
+    },
+    {
+      "en": "balance",
+      "tr": "denge",
+      "example": "Work-life balance is important."
+    },
+    {
+      "en": "mind",
+      "tr": "zihin",
+      "example": "Reading is good for the mind."
+    },
+    {
+      "en": "smile",
+      "tr": "gülümseme",
+      "example": "Her smile makes everyone happy."
+    },
+    {
+      "en": "fruit",
+      "tr": "meyve",
+      "example": "Eat fruit every day."
+    },
+    {
+      "en": "vegetable",
+      "tr": "sebze",
+      "example": "Vegetables are good for health."
+    },
+    {
+      "en": "meal",
+      "tr": "öğün",
+      "example": "Breakfast is my favorite meal."
+    },
+    {
+      "en": "snack",
+      "tr": "atıştırmalık",
+      "example": "An apple is a healthy snack."
+    },
+    {
+      "en": "vitamin",
+      "tr": "vitamin",
+      "example": "Oranges have a lot of vitamins."
+    },
+    {
+      "en": "strength",
+      "tr": "güç",
+      "example": "This exercise gives you strength."
+    },
+    {
+      "en": "mood",
+      "tr": "ruh hali",
+      "example": "Morning walks improve your mood."
+    },
+    {
+      "en": "journal",
+      "tr": "günlük, defter",
+      "example": "I write in my journal every night."
+    }
+  ],
+  "Feelings": [
+    {
+      "en": "happy",
+      "tr": "mutlu",
+      "example": "I am happy to see you."
+    },
+    {
+      "en": "sad",
+      "tr": "üzgün",
+      "example": "She felt sad about the news."
+    },
+    {
+      "en": "angry",
+      "tr": "kızgın",
+      "example": "He was angry with me."
+    },
+    {
+      "en": "afraid",
+      "tr": "korkmuş",
+      "example": "I am afraid of spiders."
+    },
+    {
+      "en": "excited",
+      "tr": "heyecanlı",
+      "example": "We are excited about the trip."
+    },
+    {
+      "en": "tired",
+      "tr": "yorgun",
+      "example": "I am tired after work."
+    },
+    {
+      "en": "nervous",
+      "tr": "gergin",
+      "example": "She is nervous before exams."
+    },
+    {
+      "en": "worried",
+      "tr": "endişeli",
+      "example": "Do not be worried about me."
+    },
+    {
+      "en": "bored",
+      "tr": "sıkkın, sıkılmış",
+      "example": "The children are bored at home."
+    },
+    {
+      "en": "surprised",
+      "tr": "şaşkın",
+      "example": "I was surprised by his answer."
+    },
+    {
+      "en": "proud",
+      "tr": "gururlu",
+      "example": "Her parents are proud of her."
+    },
+    {
+      "en": "shy",
+      "tr": "çekingen",
+      "example": "The shy boy said nothing."
+    },
+    {
+      "en": "lonely",
+      "tr": "yalnız",
+      "example": "He feels lonely in the new city."
+    },
+    {
+      "en": "jealous",
+      "tr": "kıskanç",
+      "example": "Why are you jealous of him?"
+    },
+    {
+      "en": "hopeful",
+      "tr": "umutlu",
+      "example": "We are hopeful about the future."
+    },
+    {
+      "en": "embarrassed",
+      "tr": "utangaç, mahcup",
+      "example": "I was embarrassed in front of everyone."
+    },
+    {
+      "en": "upset",
+      "tr": "keyifsiz, üzüntülü",
+      "example": "She looks upset today."
+    },
+    {
+      "en": "cheerful",
+      "tr": "neşeli",
+      "example": "Our teacher is always cheerful."
+    },
+    {
+      "en": "relaxed",
+      "tr": "rahatlamış",
+      "example": "I feel relaxed after the holiday."
+    },
+    {
+      "en": "grateful",
+      "tr": "minnettar",
+      "example": "I am grateful for your help."
+    },
+    {
+      "en": "miserable",
+      "tr": "perişan, sefil",
+      "example": "It was a cold and miserable day."
+    },
+    {
+      "en": "delighted",
+      "tr": "memnun, sevinçli",
+      "example": "We are delighted to meet you."
+    },
+    {
+      "en": "anxious",
+      "tr": "endişeli, kaygılı",
+      "example": "He is anxious about the results."
+    },
+    {
+      "en": "curious",
+      "tr": "meraklı",
+      "example": "Children are curious about everything."
+    },
+    {
+      "en": "confident",
+      "tr": "kendinden emin",
+      "example": "She is confident before the match."
+    },
+    {
+      "en": "disappointed",
+      "tr": "hayal kırıklığına uğramış",
+      "example": "They were disappointed with the film."
+    },
+    {
+      "en": "furious",
+      "tr": "çok kızgın",
+      "example": "Dad was furious about the broken window."
+    },
+    {
+      "en": "calm",
+      "tr": "sakin",
+      "example": "Stay calm and take a breath."
+    },
+    {
+      "en": "gloomy",
+      "tr": "kasvetli, karamsar",
+      "example": "The weather looks gloomy today."
+    },
+    {
+      "en": "thrilled",
+      "tr": "heyecandan çıldırmış",
+      "example": "She was thrilled to win the prize."
+    }
+  ],
+  "Emotions": [
+    {
+      "en": "love",
+      "tr": "sevgi",
+      "example": "Love makes life beautiful."
+    },
+    {
+      "en": "hate",
+      "tr": "nefret",
+      "example": "I hate waking up early."
+    },
+    {
+      "en": "fear",
+      "tr": "korku",
+      "example": "Fear is a natural feeling."
+    },
+    {
+      "en": "anger",
+      "tr": "öfke",
+      "example": "He tried to control his anger."
+    },
+    {
+      "en": "joy",
+      "tr": "sevinç",
+      "example": "The children were full of joy."
+    },
+    {
+      "en": "stress",
+      "tr": "stres",
+      "example": "Work can cause stress."
+    },
+    {
+      "en": "confused",
+      "tr": "kafası karışmış",
+      "example": "I was confused by the question."
+    },
+    {
+      "en": "happiness",
+      "tr": "mutluluk",
+      "example": "Happiness comes from small things."
+    },
+    {
+      "en": "sadness",
+      "tr": "üzüntü",
+      "example": "There was sadness in her eyes."
+    },
+    {
+      "en": "excitement",
+      "tr": "heyecan",
+      "example": "The excitement before the match is great."
+    },
+    {
+      "en": "surprise",
+      "tr": "sürpriz",
+      "example": "What a nice surprise!"
+    },
+    {
+      "en": "pride",
+      "tr": "gurur",
+      "example": "He spoke with pride about his team."
+    },
+    {
+      "en": "shame",
+      "tr": "utanç",
+      "example": "He felt shame after the mistake."
+    },
+    {
+      "en": "guilt",
+      "tr": "suçluluk",
+      "example": "Guilt kept him awake at night."
+    },
+    {
+      "en": "envy",
+      "tr": "kıskançlık, imrenme",
+      "example": "Envy destroys friendship."
+    },
+    {
+      "en": "relief",
+      "tr": "rahatlama",
+      "example": "It was a relief to go home."
+    },
+    {
+      "en": "hope",
+      "tr": "umut",
+      "example": "Never lose hope."
+    },
+    {
+      "en": "despair",
+      "tr": "umutsuzluk",
+      "example": "Hope wins over despair."
+    },
+    {
+      "en": "sympathy",
+      "tr": "sempati, acıma",
+      "example": "I have sympathy for her situation."
+    },
+    {
+      "en": "empathy",
+      "tr": "empati",
+      "example": "Empathy makes us better friends."
+    },
+    {
+      "en": "passion",
+      "tr": "tutku",
+      "example": "She teaches with passion."
+    },
+    {
+      "en": "boredom",
+      "tr": "sıkıntı, can sıkıntısı",
+      "example": "Boredom disappears when you read."
+    },
+    {
+      "en": "comfort",
+      "tr": "konfor, rahatlık",
+      "example": "A warm bed gives comfort."
+    },
+    {
+      "en": "panic",
+      "tr": "panik",
+      "example": "Do not panic, we have time."
+    },
+    {
+      "en": "trust",
+      "tr": "güven",
+      "example": "Trust is hard to win back."
+    },
+    {
+      "en": "doubt",
+      "tr": "şüphe",
+      "example": "I have no doubt about it."
+    },
+    {
+      "en": "desire",
+      "tr": "arzu, istek",
+      "example": "His desire to learn is strong."
+    },
+    {
+      "en": "grief",
+      "tr": "keder, üzüntü",
+      "example": "Grief becomes lighter with time."
+    },
+    {
+      "en": "courage",
+      "tr": "cesaret",
+      "example": "Courage is not the absence of fear."
+    },
+    {
+      "en": "jealousy",
+      "tr": "kıskançlık",
+      "example": "Jealousy hurts the jealous person first."
+    }
+  ],
+  "Appearance": [
+    {
+      "en": "beautiful",
+      "tr": "güzel",
+      "example": "What a beautiful view!"
+    },
+    {
+      "en": "face",
+      "tr": "yüz",
+      "example": "She has a friendly face."
+    },
+    {
+      "en": "hair",
+      "tr": "saç",
+      "example": "He has short black hair."
+    },
+    {
+      "en": "eye",
+      "tr": "göz",
+      "example": "Her eyes are green."
+    },
+    {
+      "en": "tall",
+      "tr": "uzun boylu",
+      "example": "My brother is tall."
+    },
+    {
+      "en": "short",
+      "tr": "kısa boylu",
+      "example": "He is short but strong."
+    },
+    {
+      "en": "handsome",
+      "tr": "yakışıklı",
+      "example": "He is a handsome man."
+    },
+    {
+      "en": "body",
+      "tr": "vücut",
+      "example": "Exercise keeps your body strong."
+    },
+    {
+      "en": "pretty",
+      "tr": "sevimli, güzel",
+      "example": "What a pretty little garden!"
+    },
+    {
+      "en": "thin",
+      "tr": "zayıf, ince",
+      "example": "The cat got thin last winter."
+    },
+    {
+      "en": "slim",
+      "tr": "zarif, ince yapılı",
+      "example": "She looks slim and healthy."
+    },
+    {
+      "en": "strong",
+      "tr": "güçlü",
+      "example": "Strong arms help in the garden."
+    },
+    {
+      "en": "weak",
+      "tr": "zayıf, güçsüz",
+      "example": "After the illness he felt weak."
+    },
+    {
+      "en": "young",
+      "tr": "genç",
+      "example": "The young man helped the old lady."
+    },
+    {
+      "en": "old",
+      "tr": "yaşlı, eski",
+      "example": "The old house has a red door."
+    },
+    {
+      "en": "skin",
+      "tr": "ten, cilt",
+      "example": "Her skin is soft like silk."
+    },
+    {
+      "en": "nose",
+      "tr": "burun",
+      "example": "The dog has a wet nose."
+    },
+    {
+      "en": "mouth",
+      "tr": "ağız",
+      "example": "Open your mouth and say \"ah\"."
+    },
+    {
+      "en": "ear",
+      "tr": "kulak",
+      "example": "I have music in my ears all day."
+    },
+    {
+      "en": "tooth",
+      "tr": "diş",
+      "example": "The child lost his first tooth."
+    },
+    {
+      "en": "smile",
+      "tr": "gülüş",
+      "example": "Your smile lights up the room."
+    },
+    {
+      "en": "beard",
+      "tr": "sakal",
+      "example": "My grandfather has a white beard."
+    },
+    {
+      "en": "moustache",
+      "tr": "bıyık",
+      "example": "The waiter has a funny moustache."
+    },
+    {
+      "en": "glasses",
+      "tr": "gözlük",
+      "example": "She wears glasses for reading."
+    },
+    {
+      "en": "curly",
+      "tr": "kıvırcık",
+      "example": "Curly hair needs special care."
+    },
+    {
+      "en": "straight",
+      "tr": "dümdüz, düz",
+      "example": "Her straight hair shines in the sun."
+    },
+    {
+      "en": "blonde",
+      "tr": "sarışın",
+      "example": "The blonde baby laughed loudly."
+    },
+    {
+      "en": "freckles",
+      "tr": "çil",
+      "example": "Freckles appear in summer."
+    },
+    {
+      "en": "dimples",
+      "tr": "gamza",
+      "example": "He smiles with two dimples."
+    },
+    {
+      "en": "wrinkle",
+      "tr": "kırışıklık",
+      "example": "Every wrinkle tells a story."
+    }
+  ],
+  "Personality Adjectives": [
+    {
+      "en": "brave",
+      "tr": "cesur",
+      "example": "The firefighter is brave."
+    },
+    {
+      "en": "kind",
+      "tr": "nazik",
+      "example": "She is kind to everyone."
+    },
+    {
+      "en": "honest",
+      "tr": "dürüst",
+      "example": "An honest person tells the truth."
+    },
+    {
+      "en": "friendly",
+      "tr": "arkadaş canlısı",
+      "example": "The people here are friendly."
+    },
+    {
+      "en": "clever",
+      "tr": "zeki",
+      "example": "The clever student solved the problem."
+    },
+    {
+      "en": "lazy",
+      "tr": "tembel",
+      "example": "He is too lazy to run."
+    },
+    {
+      "en": "polite",
+      "tr": "kibar",
+      "example": "She is polite to her teachers."
+    },
+    {
+      "en": "selfish",
+      "tr": "bencil",
+      "example": "Do not be selfish, share your toys."
+    },
+    {
+      "en": "generous",
+      "tr": "cömert",
+      "example": "Our host was generous with food."
+    },
+    {
+      "en": "patient",
+      "tr": "sabırlı",
+      "example": "Be patient with little children."
+    },
+    {
+      "en": "funny",
+      "tr": "komik",
+      "example": "The funny clown made us laugh."
+    },
+    {
+      "en": "serious",
+      "tr": "ciddi",
+      "example": "He looks serious in meetings."
+    },
+    {
+      "en": "quiet",
+      "tr": "sessiz",
+      "example": "The library is quiet place."
+    },
+    {
+      "en": "talkative",
+      "tr": "konuşkan",
+      "example": "My talkative friend never stops!"
+    },
+    {
+      "en": "hardworking",
+      "tr": "çalışkan",
+      "example": "Hardworking students get results."
+    },
+    {
+      "en": "rude",
+      "tr": "kaba",
+      "example": "Rude words hurt people."
+    },
+    {
+      "en": "careful",
+      "tr": "dikkatli",
+      "example": "Be careful on the stairs."
+    },
+    {
+      "en": "careless",
+      "tr": "dikkatsiz",
+      "example": "A careless driver is dangerous."
+    },
+    {
+      "en": "cheerful",
+      "tr": "keyifli, neşeli",
+      "example": "A cheerful hello starts the day well."
+    },
+    {
+      "en": "stubborn",
+      "tr": "inatçı",
+      "example": "The stubborn door will not open!"
+    },
+    {
+      "en": "reliable",
+      "tr": "güvenilir",
+      "example": "A reliable friend keeps secrets."
+    },
+    {
+      "en": "ambitious",
+      "tr": "hırslı, hedefli",
+      "example": "Ambitious people dream big."
+    },
+    {
+      "en": "sensitive",
+      "tr": "duyarlı, hassas",
+      "example": "Sensitive skin needs soft soap."
+    },
+    {
+      "en": "sensible",
+      "tr": "makul, akıllıca",
+      "example": "That is a sensible decision."
+    },
+    {
+      "en": "optimistic",
+      "tr": "iyimser",
+      "example": "Optimistic people see the sun."
+    },
+    {
+      "en": "pessimistic",
+      "tr": "kötümser",
+      "example": "Pessimistic thoughts bring rain."
+    },
+    {
+      "en": "tidy",
+      "tr": "derli toplu",
+      "example": "Keep your room tidy."
+    },
+    {
+      "en": "naughty",
+      "tr": "yaramaz",
+      "example": "The naughty puppy ate my shoe."
+    },
+    {
+      "en": "modest",
+      "tr": "mütevazı",
+      "example": "Great teachers are modest."
+    },
+    {
+      "en": "helpful",
+      "tr": "yardımsever",
+      "example": "Helpful neighbours are gold."
+    }
+  ],
+  "Phrasal Verbs with PUT": [
+    {
+      "en": "put on",
+      "tr": "giymek, üstüne koymak",
+      "example": "Put on your coat, it is cold."
+    },
+    {
+      "en": "put off",
+      "tr": "ertelemek",
+      "example": "Do not put off your homework."
+    },
+    {
+      "en": "put away",
+      "tr": "yerine kaldırmak",
+      "example": "Put away your toys."
+    },
+    {
+      "en": "put up with",
+      "tr": "katlanmak",
+      "example": "I cannot put up with this noise."
+    },
+    {
+      "en": "put out",
+      "tr": "söndürmek",
+      "example": "Please put out the fire."
+    },
+    {
+      "en": "put together",
+      "tr": "birleştirmek",
+      "example": "We put together a great team."
+    },
+    {
+      "en": "put forward",
+      "tr": "önermek, ortaya koy(mak)",
+      "example": "She put forward a new idea."
+    },
+    {
+      "en": "put down",
+      "tr": "yere koymak",
+      "example": "Put down the heavy bag."
+    },
+    {
+      "en": "put back",
+      "tr": "geri koymak",
+      "example": "Put the milk back in the fridge."
+    },
+    {
+      "en": "put up",
+      "tr": "asmak; barındırmak",
+      "example": "They put up a tent near the lake."
+    },
+    {
+      "en": "put in",
+      "tr": "takmak; (zaman) harcamak",
+      "example": "Put in your code and press start."
+    },
+    {
+      "en": "put through",
+      "tr": "(telefonda) bağlamak",
+      "example": "Hold on, I will put you through."
+    },
+    {
+      "en": "put across",
+      "tr": "anlatabilmek",
+      "example": "Good teachers put ideas across clearly."
+    },
+    {
+      "en": "put aside",
+      "tr": "bir kenara ayırmak",
+      "example": "Put aside some money every month."
+    },
+    {
+      "en": "put by",
+      "tr": "biriktirmek",
+      "example": "We put by some apples for winter."
+    },
+    {
+      "en": "put forth",
+      "tr": "ortaya koymak",
+      "example": "The tree puts forth new leaves."
+    },
+    {
+      "en": "put right",
+      "tr": "düzeltmek",
+      "example": "Let me put right my mistake."
+    },
+    {
+      "en": "put about",
+      "tr": "(dedikodu) yaymak",
+      "example": "They put about a false story."
+    },
+    {
+      "en": "put down to",
+      "tr": "...a bağlamak/yormak",
+      "example": "I put his anger down to stress."
+    },
+    {
+      "en": "put over",
+      "tr": "aktarmak, anlatmak",
+      "example": "He puts his ideas over very well."
+    },
+    {
+      "en": "put before",
+      "tr": "(birine) sunmak",
+      "example": "They put the plan before the boss."
+    },
+    {
+      "en": "put behind",
+      "tr": "geride bırakmak",
+      "example": "Put the past behind you."
+    },
+    {
+      "en": "put into",
+      "tr": "(emek/para) yatırmak",
+      "example": "She puts love into her cooking."
+    },
+    {
+      "en": "put onto",
+      "tr": "üstüne koymak",
+      "example": "Put the cup onto the table."
+    },
+    {
+      "en": "put inside",
+      "tr": "içine koymak",
+      "example": "Put the keys inside your bag."
+    },
+    {
+      "en": "put outside",
+      "tr": "dışarı çıkarmak/koymak",
+      "example": "We put the plants outside in summer."
+    },
+    {
+      "en": "put next to",
+      "tr": "yanına koymak",
+      "example": "Put the lamp next to the bed."
+    },
+    {
+      "en": "put above",
+      "tr": "üstüne koymak",
+      "example": "Put the box above the shelf."
+    },
+    {
+      "en": "put under",
+      "tr": "altına koymak",
+      "example": "Put a blanket under the cat."
+    },
+    {
+      "en": "put between",
+      "tr": "arasına koymak",
+      "example": "Put a bookmark between the pages."
+    }
+  ],
+  "Phrasal Verbs with GET": [
+    {
+      "en": "get up",
+      "tr": "kalkmak",
+      "example": "I get up at seven."
+    },
+    {
+      "en": "get along",
+      "tr": "anlaşmak",
+      "example": "We get along very well."
+    },
+    {
+      "en": "get over",
+      "tr": "atlatmak",
+      "example": "She got over the illness."
+    },
+    {
+      "en": "get rid of",
+      "tr": "kurtulmak",
+      "example": "I want to get rid of this old sofa."
+    },
+    {
+      "en": "get through",
+      "tr": "tamamlamak, atlatabilmek",
+      "example": "I got through the interview."
+    },
+    {
+      "en": "get in",
+      "tr": "binmek",
+      "example": "Get in the car."
+    },
+    {
+      "en": "get out",
+      "tr": "çıkmak",
+      "example": "Get out of the room."
+    },
+    {
+      "en": "get back",
+      "tr": "geri dönmek",
+      "example": "I will get back home soon."
+    },
+    {
+      "en": "get on",
+      "tr": "binmek; iyi geçinmek",
+      "example": "Get on the bus at the corner."
+    },
+    {
+      "en": "get off",
+      "tr": "inmek",
+      "example": "Get off at the next stop."
+    },
+    {
+      "en": "get by",
+      "tr": "idare etmek",
+      "example": "We can get by with one car."
+    },
+    {
+      "en": "get away",
+      "tr": "kaçmak, uzaklaşmak",
+      "example": "Let us get away for the weekend."
+    },
+    {
+      "en": "get into",
+      "tr": "(ilgiye) başlamak",
+      "example": "I got into jazz last year."
+    },
+    {
+      "en": "get to",
+      "tr": "ulaşmak",
+      "example": "What time do you get to school?"
+    },
+    {
+      "en": "get at",
+      "tr": "kastetmek; eleştirmek",
+      "example": "What are you trying to get at?"
+    },
+    {
+      "en": "get around",
+      "tr": "dolaşmak; yayılmak",
+      "example": "News gets around quickly here."
+    },
+    {
+      "en": "get together",
+      "tr": "bir araya gelmek",
+      "example": "Let us get together on Friday."
+    },
+    {
+      "en": "get ahead",
+      "tr": "öne geçmek, ilerlemek",
+      "example": "Study hard to get ahead."
+    },
+    {
+      "en": "get across",
+      "tr": "anlatabilmek",
+      "example": "She gets her ideas across well."
+    },
+    {
+      "en": "get down",
+      "tr": "indirmek; üzmek",
+      "example": "This rainy weather gets me down."
+    },
+    {
+      "en": "get down to",
+      "tr": "işe koyulmak",
+      "example": "Let us get down to business."
+    },
+    {
+      "en": "get used to",
+      "tr": "alışmak",
+      "example": "You get used to the cold soon."
+    },
+    {
+      "en": "get hold of",
+      "tr": "ele geçirmek, ulaşmak",
+      "example": "I got hold of two tickets!"
+    },
+    {
+      "en": "get on with",
+      "tr": "devam etmek; iyi geçinmek",
+      "example": "Get on with your homework."
+    },
+    {
+      "en": "get out of",
+      "tr": "kurtulmak; çıkmak",
+      "example": "Get out of bed, it is late!"
+    },
+    {
+      "en": "get better",
+      "tr": "iyileşmek, düzelmek",
+      "example": "My English gets better every day."
+    },
+    {
+      "en": "get worse",
+      "tr": "kötüleşmek",
+      "example": "The traffic gets worse at five."
+    },
+    {
+      "en": "get lost",
+      "tr": "kaybolmak",
+      "example": "We got lost in the old town."
+    },
+    {
+      "en": "get married",
+      "tr": "evlenmek",
+      "example": "They get married next June."
+    },
+    {
+      "en": "get ready",
+      "tr": "hazırlanmak",
+      "example": "Get ready, the guests are coming!"
+    }
+  ]
+}
